@@ -1,0 +1,15 @@
+[gd_scene load_steps=3 format=3 uid="uid://k8ncu32xvtle"]
+
+[ext_resource type="Script" uid="uid://lgjxqpqtrtb6" path="res://teleporter.gd" id="1_eumkw"]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_xxw5r"]
+radius = 7.0
+
+[node name="Teleporter" type="Area2D"]
+script = ExtResource("1_eumkw")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+scale = Vector2(3.5, 3.5)
+shape = SubResource("CircleShape2D_xxw5r")
+
+[connection signal="body_entered" from="." to="." method="_on_body_entered"]
