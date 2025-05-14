@@ -1,0 +1,16 @@
+[gd_scene load_steps=3 format=3 uid="uid://djc8omejqeckp"]
+
+[ext_resource type="Script" uid="uid://tuhv2dvpv8c5" path="res://interaction_collision.gd" id="1_axumu"]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_pkhgi"]
+
+[node name="Interaction" type="Area2D" groups=["NPC"]]
+script = ExtResource("1_axumu")
+
+[node name="InteractionCollision" type="CollisionShape2D" parent="."]
+position = Vector2(0, 18)
+shape = SubResource("CircleShape2D_pkhgi")
+one_way_collision = true
+debug_color = Color(0.994219, 0, 0.225582, 0.42)
+
+[connection signal="body_entered" from="." to="." method="_on_body_entered"]

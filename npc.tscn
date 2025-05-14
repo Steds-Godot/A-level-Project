@@ -1,0 +1,23 @@
+[gd_scene load_steps=4 format=3 uid="uid://r6mwky8f0cr"]
+
+[ext_resource type="PackedScene" uid="uid://djc8omejqeckp" path="res://Interaction_collision.tscn" id="1_ideak"]
+[ext_resource type="Texture2D" uid="uid://cv7jxhtayjns7" path="res://Maximo_OD.png" id="1_xxcha"]
+
+[sub_resource type="CapsuleShape2D" id="CapsuleShape2D_xxcha"]
+radius = 8.0
+height = 24.0
+
+[node name="NPC" type="CharacterBody2D" groups=["NPC"]]
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+texture_filter = 1
+scale = Vector2(0.8, 0.8)
+texture = ExtResource("1_xxcha")
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="Sprite2D"]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+texture_filter = 1
+shape = SubResource("CapsuleShape2D_xxcha")
+
+[node name="Interaction" parent="." instance=ExtResource("1_ideak")]
