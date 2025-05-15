@@ -1,0 +1,16 @@
+[gd_scene load_steps=3 format=3 uid="uid://b8a4wf0xexhm2"]
+
+[ext_resource type="Script" uid="uid://b23v0htx1gjoi" path="res://interaction_collision.gd" id="1_ql6nm"]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_fiue5"]
+
+[node name="InteractionCollision" type="Area2D"]
+script = ExtResource("1_ql6nm")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+shape = SubResource("CircleShape2D_fiue5")
+one_way_collision = true
+debug_color = Color(0.918984, 0.283385, 3.85046e-07, 0.42)
+
+[connection signal="body_entered" from="." to="." method="_on_body_entered"]
+[connection signal="body_exited" from="." to="." method="_on_body_exited"]

@@ -1,8 +1,9 @@
-[gd_scene load_steps=5 format=3 uid="uid://d7hk7ygm3kod"]
+[gd_scene load_steps=6 format=3 uid="uid://d7hk7ygm3kod"]
 
 [ext_resource type="PackedScene" uid="uid://btmwxitcs8tc6" path="res://Tileset.tscn" id="2_77mko"]
 [ext_resource type="PackedScene" uid="uid://k8ncu32xvtle" path="res://teleporter.tscn" id="3_tn7tl"]
 [ext_resource type="PackedScene" uid="uid://baekt2aa2mx4s" path="res://route_1.tscn" id="4_tn7tl"]
+[ext_resource type="PackedScene" uid="uid://y7dowoswfev2" path="res://npc.tscn" id="5_2p1a6"]
 [ext_resource type="PackedScene" uid="uid://cso5oes1hanx2" path="res://player_spawner.tscn" id="5_y31bl"]
 
 [node name="StarterArea" type="Node2D"]
@@ -13,8 +14,11 @@ layer_1/tile_data = PackedInt32Array(65548, 393216, 766, 131084, 393216, 767, 19
 layer_2/tile_data = PackedInt32Array(1310721, 655360, 148, 1376257, 655360, 149, 1310722, 720896, 148, 1376258, 720896, 149, 1310723, 655360, 148, 1376259, 655360, 149, 1310724, 720896, 148, 1376260, 720896, 149, 1310725, 655360, 148, 1376261, 655360, 149, 1310726, 720896, 148, 1376262, 720896, 149, 1310727, 655360, 148, 1376263, 655360, 149, 1310728, 720896, 148, 1376264, 720896, 149, 1310729, 655360, 148, 1376265, 655360, 149, 1310730, 720896, 148, 1376266, 720896, 149, 1310731, 655360, 148, 1376267, 655360, 149, 1310732, 720896, 148, 1376268, 720896, 149, 1310733, 655360, 148, 1376269, 655360, 149, 1310734, 720896, 148, 1376270, 720896, 149, 1310735, 655360, 148, 1376271, 655360, 149, 1310736, 720896, 148, 1376272, 720896, 149, 1310737, 655360, 148, 1376273, 655360, 149, 1310738, 720896, 148, 1376274, 720896, 149, 1310739, 655360, 148, 1376275, 655360, 149, 1310740, 720896, 148, 1376276, 720896, 149, 1310741, 655360, 148, 1376277, 655360, 149, 1310742, 720896, 148, 1376278, 720896, 149)
 
 [node name="Player_Spawner" parent="." instance=ExtResource("5_y31bl")]
-position = Vector2(118, 173)
+position = Vector2(119, 184)
 
 [node name="Teleporter" parent="." instance=ExtResource("3_tn7tl")]
 position = Vector2(412, 163)
 packed_scene = ExtResource("4_tn7tl")
+
+[node name="NPC" parent="." instance=ExtResource("5_2p1a6")]
+position = Vector2(170, 133)
