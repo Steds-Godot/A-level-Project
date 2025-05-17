@@ -1,14 +1,23 @@
-[gd_scene load_steps=3 format=3 uid="uid://cvlrox46atfyy"]
+[gd_scene load_steps=4 format=3 uid="uid://cvlrox46atfyy"]
 
 [ext_resource type="Texture2D" uid="uid://bq3afsicgycx4" path="res://dialogue.png" id="1_kp46k"]
 [ext_resource type="Script" uid="uid://djsp2ewkdvlv6" path="res://dialogue.gd" id="1_oi3j2"]
+[ext_resource type="FontFile" uid="uid://bv0issg5tqjyv" path="res://pokemon-dp-pro.otf" id="3_758ep"]
 
 [node name="Dialogue" type="Control"]
 layout_mode = 3
-anchors_preset = 0
+anchors_preset = 7
+anchor_left = 0.5
+anchor_top = 1.0
+anchor_right = 0.5
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 0
+scale = Vector2(1.00093, 1.02449)
 script = ExtResource("1_oi3j2")
 
 [node name="NinePatchRect" type="NinePatchRect" parent="."]
+texture_filter = 1
 layout_mode = 1
 anchors_preset = 7
 anchor_left = 0.5
@@ -40,25 +49,29 @@ theme_override_colors/default_color = Color(0, 0, 0, 1)
 theme_override_colors/font_selected_color = Color(0, 0, 0, 1)
 theme_override_colors/selection_color = Color(0, 0, 0, 1)
 theme_override_colors/font_outline_color = Color(0, 0, 0, 1)
-theme_override_font_sizes/bold_italics_font_size = 0
+theme_override_fonts/normal_font = ExtResource("3_758ep")
+theme_override_font_sizes/bold_italics_font_size = 1
 theme_override_font_sizes/italics_font_size = 0
 theme_override_font_sizes/mono_font_size = 0
-theme_override_font_sizes/normal_font_size = 10
+theme_override_font_sizes/normal_font_size = 15
 theme_override_font_sizes/bold_font_size = 0
 text = "Name:"
+scroll_active = false
 autowrap_mode = 2
 
 [node name="Text" type="RichTextLabel" parent="NinePatchRect"]
 layout_mode = 1
 offset_left = 21.0
 offset_top = 30.0
-offset_right = 254.0
-offset_bottom = 44.0
+offset_right = 255.0
+offset_bottom = 65.0
 theme_override_colors/default_color = Color(0, 0, 0, 1)
+theme_override_fonts/normal_font = ExtResource("3_758ep")
 theme_override_font_sizes/bold_italics_font_size = 0
 theme_override_font_sizes/italics_font_size = 0
 theme_override_font_sizes/mono_font_size = 0
-theme_override_font_sizes/normal_font_size = 8
+theme_override_font_sizes/normal_font_size = 14
 theme_override_font_sizes/bold_font_size = 0
 text = "Talking..."
+scroll_active = false
 autowrap_mode = 2

@@ -3,4 +3,8 @@
 [ext_resource type="Script" uid="uid://vtewrtre2s2t" path="res://camera.gd" id="1_u5kg4"]
 
 [node name="Camera" type="Camera2D"]
+zoom = Vector2(1.5, 1.5)
 script = ExtResource("1_u5kg4")
+
+[node name="Node2D" type="Node2D" parent="."]
+position = Vector2(0, 90)
