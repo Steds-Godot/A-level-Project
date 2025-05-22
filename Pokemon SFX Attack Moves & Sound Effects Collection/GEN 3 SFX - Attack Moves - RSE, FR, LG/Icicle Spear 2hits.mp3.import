@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://b20p8u8j0xgb1"
+path="res://.godot/imported/Icicle Spear 2hits.mp3-1003291d9a0bed7df29060bb083c7b80.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 3 SFX - Attack Moves - RSE, FR, LG/Icicle Spear 2hits.mp3"
+dest_files=["res://.godot/imported/Icicle Spear 2hits.mp3-1003291d9a0bed7df29060bb083c7b80.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

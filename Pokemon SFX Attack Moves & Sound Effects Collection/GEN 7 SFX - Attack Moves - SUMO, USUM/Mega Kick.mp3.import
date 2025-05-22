@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cmto072qc26uq"
+path="res://.godot/imported/Mega Kick.mp3-1436833a66886dccabeff0c825ae2f78.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 7 SFX - Attack Moves - SUMO, USUM/Mega Kick.mp3"
+dest_files=["res://.godot/imported/Mega Kick.mp3-1436833a66886dccabeff0c825ae2f78.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://c2fotvcpibuew"
+path="res://.godot/imported/In-Battle Recall Switch Flee Run.mp3-5277a90cc9c2ed813ffba1125ba6327d.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 6 SFX - Attack Moves - XY, ORAS/In-Battle Recall Switch Flee Run.mp3"
+dest_files=["res://.godot/imported/In-Battle Recall Switch Flee Run.mp3-5277a90cc9c2ed813ffba1125ba6327d.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

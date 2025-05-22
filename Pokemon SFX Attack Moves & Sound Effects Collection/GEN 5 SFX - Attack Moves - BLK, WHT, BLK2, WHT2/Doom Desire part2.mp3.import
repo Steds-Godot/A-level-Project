@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://ce12k42g8lrc2"
+path="res://.godot/imported/Doom Desire part2.mp3-bab28dcf9053e6a83c99c6969d0053a5.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 5 SFX - Attack Moves - BLK, WHT, BLK2, WHT2/Doom Desire part2.mp3"
+dest_files=["res://.godot/imported/Doom Desire part2.mp3-bab28dcf9053e6a83c99c6969d0053a5.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

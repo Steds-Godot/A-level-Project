@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dweyldqedk2ih"
+path="res://.godot/imported/False Swipe.mp3-89abd3c6844c25274ae233f6379b90fe.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 6 SFX - Attack Moves - XY, ORAS/False Swipe.mp3"
+dest_files=["res://.godot/imported/False Swipe.mp3-89abd3c6844c25274ae233f6379b90fe.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bg7qufnc10h6t"
+path="res://.godot/imported/IronTail1.wav-84e9c37524f014f167a5d0e555a6a381.sample"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 2 SFX - Attack Moves - GSC/IronTail1.wav"
+dest_files=["res://.godot/imported/IronTail1.wav-84e9c37524f014f167a5d0e555a6a381.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

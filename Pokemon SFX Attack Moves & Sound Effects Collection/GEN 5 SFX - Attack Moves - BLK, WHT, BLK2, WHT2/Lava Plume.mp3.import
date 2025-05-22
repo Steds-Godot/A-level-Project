@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cdestowhptggb"
+path="res://.godot/imported/Lava Plume.mp3-7dbff11f99e152eff0998d1cf5135edf.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 5 SFX - Attack Moves - BLK, WHT, BLK2, WHT2/Lava Plume.mp3"
+dest_files=["res://.godot/imported/Lava Plume.mp3-7dbff11f99e152eff0998d1cf5135edf.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

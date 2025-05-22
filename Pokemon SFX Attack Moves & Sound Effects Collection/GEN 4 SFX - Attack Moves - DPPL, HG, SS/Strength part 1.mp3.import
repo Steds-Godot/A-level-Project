@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://tkby22dq8n6g"
+path="res://.godot/imported/Strength part 1.mp3-ad1a5e07b69cd133402e7eda8808d19a.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 4 SFX - Attack Moves - DPPL, HG, SS/Strength part 1.mp3"
+dest_files=["res://.godot/imported/Strength part 1.mp3-ad1a5e07b69cd133402e7eda8808d19a.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://j1xgc2j22wlh"
+path="res://.godot/imported/Will-O-Wisp part 1.mp3-b4a7adfb68b6096ab7e48a0d418155ee.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 7 SFX - Attack Moves - SUMO, USUM/Will-O-Wisp part 1.mp3"
+dest_files=["res://.godot/imported/Will-O-Wisp part 1.mp3-b4a7adfb68b6096ab7e48a0d418155ee.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

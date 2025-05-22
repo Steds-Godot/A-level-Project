@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bfboiwx1072rp"
+path="res://.godot/imported/Steel Wing.mp3-8dd0f28c7c28af0370598cc0068cad89.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 5 SFX - Attack Moves - BLK, WHT, BLK2, WHT2/Steel Wing.mp3"
+dest_files=["res://.godot/imported/Steel Wing.mp3-8dd0f28c7c28af0370598cc0068cad89.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

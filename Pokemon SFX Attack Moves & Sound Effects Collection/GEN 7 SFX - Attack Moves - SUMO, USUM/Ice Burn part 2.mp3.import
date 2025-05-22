@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dmaxulr3w6khb"
+path="res://.godot/imported/Ice Burn part 2.mp3-0ce63c4e6f8c532881bfed125f249701.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 7 SFX - Attack Moves - SUMO, USUM/Ice Burn part 2.mp3"
+dest_files=["res://.godot/imported/Ice Burn part 2.mp3-0ce63c4e6f8c532881bfed125f249701.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

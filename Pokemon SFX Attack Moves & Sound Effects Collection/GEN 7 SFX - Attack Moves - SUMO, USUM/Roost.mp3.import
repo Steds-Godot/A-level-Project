@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://be8wf7xflu5wa"
+path="res://.godot/imported/Roost.mp3-36294b2f19e406f4b8b46b3b14ec9a8b.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 7 SFX - Attack Moves - SUMO, USUM/Roost.mp3"
+dest_files=["res://.godot/imported/Roost.mp3-36294b2f19e406f4b8b46b3b14ec9a8b.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

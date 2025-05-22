@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://b8cnllvuoambp"
+path="res://.godot/imported/Incinerate.mp3-b1c7e8b0489cbd8fea32240aad24aa87.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 7 SFX - Attack Moves - SUMO, USUM/Incinerate.mp3"
+dest_files=["res://.godot/imported/Incinerate.mp3-b1c7e8b0489cbd8fea32240aad24aa87.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

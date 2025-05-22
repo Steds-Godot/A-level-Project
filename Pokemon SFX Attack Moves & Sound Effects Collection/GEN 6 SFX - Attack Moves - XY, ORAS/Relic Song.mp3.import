@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bg3byryeue6ie"
+path="res://.godot/imported/Relic Song.mp3-3116a93dc0827549d12dbff7d2060672.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 6 SFX - Attack Moves - XY, ORAS/Relic Song.mp3"
+dest_files=["res://.godot/imported/Relic Song.mp3-3116a93dc0827549d12dbff7d2060672.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

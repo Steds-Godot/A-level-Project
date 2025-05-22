@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://5vi211bljhyl"
+path="res://.godot/imported/Genesis Supernova part 3.mp3-6a586514e18d34075ddc8078b6fccae6.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 7 SFX - Attack Moves - SUMO, USUM/Genesis Supernova part 3.mp3"
+dest_files=["res://.godot/imported/Genesis Supernova part 3.mp3-6a586514e18d34075ddc8078b6fccae6.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

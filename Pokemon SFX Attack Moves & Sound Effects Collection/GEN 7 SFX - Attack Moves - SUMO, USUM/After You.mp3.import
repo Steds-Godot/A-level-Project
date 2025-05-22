@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cguiyp4eymb6v"
+path="res://.godot/imported/After You.mp3-e911e4c47a0f1a297161d47cb46a221f.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 7 SFX - Attack Moves - SUMO, USUM/After You.mp3"
+dest_files=["res://.godot/imported/After You.mp3-e911e4c47a0f1a297161d47cb46a221f.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

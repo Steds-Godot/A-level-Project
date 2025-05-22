@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://b6v4gh8layg7e"
+path="res://.godot/imported/Wish.mp3-28dabcc5621a9a289909acbe7907c567.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 5 SFX - Attack Moves - BLK, WHT, BLK2, WHT2/Wish.mp3"
+dest_files=["res://.godot/imported/Wish.mp3-28dabcc5621a9a289909acbe7907c567.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

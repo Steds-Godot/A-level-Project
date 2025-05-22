@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bfxod1lwcd51b"
+path="res://.godot/imported/Aromatic Mist.mp3-997bf69b2af9d69f75df89453e585a20.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 6 SFX - Attack Moves - XY, ORAS/Aromatic Mist.mp3"
+dest_files=["res://.godot/imported/Aromatic Mist.mp3-997bf69b2af9d69f75df89453e585a20.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

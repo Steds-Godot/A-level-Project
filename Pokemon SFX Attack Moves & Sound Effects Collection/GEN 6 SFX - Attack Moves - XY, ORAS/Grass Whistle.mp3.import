@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bbds8hk751yu1"
+path="res://.godot/imported/Grass Whistle.mp3-b273fb951d47c2299b1e8d250c107101.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 6 SFX - Attack Moves - XY, ORAS/Grass Whistle.mp3"
+dest_files=["res://.godot/imported/Grass Whistle.mp3-b273fb951d47c2299b1e8d250c107101.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

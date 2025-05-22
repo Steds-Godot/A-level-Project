@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://c5ri3j2665167"
+path="res://.godot/imported/Will O Wisp.mp3-d590adb2a0d491753132b48438b3bad9.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 5 SFX - Attack Moves - BLK, WHT, BLK2, WHT2/Will O Wisp.mp3"
+dest_files=["res://.godot/imported/Will O Wisp.mp3-d590adb2a0d491753132b48438b3bad9.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

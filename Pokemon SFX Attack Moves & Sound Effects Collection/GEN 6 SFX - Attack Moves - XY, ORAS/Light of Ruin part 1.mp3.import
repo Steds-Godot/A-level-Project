@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://xxbny5qh7af"
+path="res://.godot/imported/Light of Ruin part 1.mp3-47b6a522e470d6481846177ec1a8378d.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 6 SFX - Attack Moves - XY, ORAS/Light of Ruin part 1.mp3"
+dest_files=["res://.godot/imported/Light of Ruin part 1.mp3-47b6a522e470d6481846177ec1a8378d.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

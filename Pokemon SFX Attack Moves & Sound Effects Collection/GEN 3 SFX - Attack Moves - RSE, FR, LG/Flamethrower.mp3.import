@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://b6qlaj2fqsp5u"
+path="res://.godot/imported/Flamethrower.mp3-555d85009e77892bb7e51e5c1ef461da.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 3 SFX - Attack Moves - RSE, FR, LG/Flamethrower.mp3"
+dest_files=["res://.godot/imported/Flamethrower.mp3-555d85009e77892bb7e51e5c1ef461da.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

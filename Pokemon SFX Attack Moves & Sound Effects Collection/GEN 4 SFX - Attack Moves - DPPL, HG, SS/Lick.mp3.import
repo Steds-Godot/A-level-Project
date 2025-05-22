@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://4ms5ro78npmq"
+path="res://.godot/imported/Lick.mp3-16e285ef1f0ca6a2797b50701b97df60.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 4 SFX - Attack Moves - DPPL, HG, SS/Lick.mp3"
+dest_files=["res://.godot/imported/Lick.mp3-16e285ef1f0ca6a2797b50701b97df60.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

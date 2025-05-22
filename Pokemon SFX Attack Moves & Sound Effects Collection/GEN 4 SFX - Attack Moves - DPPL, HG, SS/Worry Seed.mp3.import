@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cmb84l5qg41iw"
+path="res://.godot/imported/Worry Seed.mp3-ee2430929c33537a12cb76d187034a07.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 4 SFX - Attack Moves - DPPL, HG, SS/Worry Seed.mp3"
+dest_files=["res://.godot/imported/Worry Seed.mp3-ee2430929c33537a12cb76d187034a07.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://ca452s3j3c4r3"
+path="res://.godot/imported/Rain Dance.mp3-95aa229d12ebb86493e6fa1a56e24f95.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 5 SFX - Attack Moves - BLK, WHT, BLK2, WHT2/Rain Dance.mp3"
+dest_files=["res://.godot/imported/Rain Dance.mp3-95aa229d12ebb86493e6fa1a56e24f95.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

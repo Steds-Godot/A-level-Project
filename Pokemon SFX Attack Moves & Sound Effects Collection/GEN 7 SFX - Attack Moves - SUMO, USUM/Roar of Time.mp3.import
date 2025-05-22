@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://58qn4xi5r2is"
+path="res://.godot/imported/Roar of Time.mp3-584e9dfb41ecd7612decd1028e4b9f35.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 7 SFX - Attack Moves - SUMO, USUM/Roar of Time.mp3"
+dest_files=["res://.godot/imported/Roar of Time.mp3-584e9dfb41ecd7612decd1028e4b9f35.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

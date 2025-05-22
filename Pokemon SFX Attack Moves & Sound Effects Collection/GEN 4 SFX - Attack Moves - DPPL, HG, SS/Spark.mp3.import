@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dumucngwn06y6"
+path="res://.godot/imported/Spark.mp3-51e0c6fea2fab8ddef597e3913a7830b.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 4 SFX - Attack Moves - DPPL, HG, SS/Spark.mp3"
+dest_files=["res://.godot/imported/Spark.mp3-51e0c6fea2fab8ddef597e3913a7830b.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

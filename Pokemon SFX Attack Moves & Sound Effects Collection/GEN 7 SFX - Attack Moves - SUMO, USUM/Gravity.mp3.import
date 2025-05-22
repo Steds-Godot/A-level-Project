@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bcuo7fcu1wo28"
+path="res://.godot/imported/Gravity.mp3-ecc5d1b631948726b658d198398d65ee.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 7 SFX - Attack Moves - SUMO, USUM/Gravity.mp3"
+dest_files=["res://.godot/imported/Gravity.mp3-ecc5d1b631948726b658d198398d65ee.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

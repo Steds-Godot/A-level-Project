@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cg8vdt2nudvv2"
+path="res://.godot/imported/Soul-Stealing 7-Star Strike.mp3-69e05de2fea46a22b2df8fde27cf5b76.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 7 SFX - Attack Moves - SUMO, USUM/Soul-Stealing 7-Star Strike.mp3"
+dest_files=["res://.godot/imported/Soul-Stealing 7-Star Strike.mp3-69e05de2fea46a22b2df8fde27cf5b76.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://duo3hyxe8i158"
+path="res://.godot/imported/Mega Punch.mp3-f46e536e470ffed71d58361d76c18f12.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 5 SFX - Attack Moves - BLK, WHT, BLK2, WHT2/Mega Punch.mp3"
+dest_files=["res://.godot/imported/Mega Punch.mp3-f46e536e470ffed71d58361d76c18f12.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

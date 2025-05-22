@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://djy8vkrjecv7r"
+path="res://.godot/imported/Entrainment.mp3-a107229d8d98b24d06b9e094c9b22ab5.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 7 SFX - Attack Moves - SUMO, USUM/Entrainment.mp3"
+dest_files=["res://.godot/imported/Entrainment.mp3-a107229d8d98b24d06b9e094c9b22ab5.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

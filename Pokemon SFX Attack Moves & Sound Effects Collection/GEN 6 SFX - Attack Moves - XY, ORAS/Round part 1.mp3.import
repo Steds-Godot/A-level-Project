@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dk7yn7f74p6la"
+path="res://.godot/imported/Round part 1.mp3-91d809cfc5a0831c2beb559c7e0fc9f8.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 6 SFX - Attack Moves - XY, ORAS/Round part 1.mp3"
+dest_files=["res://.godot/imported/Round part 1.mp3-91d809cfc5a0831c2beb559c7e0fc9f8.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

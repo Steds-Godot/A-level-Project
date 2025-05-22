@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://ch0025sd8l6dp"
+path="res://.godot/imported/Wrap turn damage.mp3-30149cbffcc6f183b63c4dcb5a3ab931.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 7 SFX - Attack Moves - SUMO, USUM/Wrap turn damage.mp3"
+dest_files=["res://.godot/imported/Wrap turn damage.mp3-30149cbffcc6f183b63c4dcb5a3ab931.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

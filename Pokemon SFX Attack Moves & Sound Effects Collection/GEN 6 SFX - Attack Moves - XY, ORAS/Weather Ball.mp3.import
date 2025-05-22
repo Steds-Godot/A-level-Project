@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dvtfcncgx3lmm"
+path="res://.godot/imported/Weather Ball.mp3-d1c13f06a486b7c44414b21accdf49e6.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 6 SFX - Attack Moves - XY, ORAS/Weather Ball.mp3"
+dest_files=["res://.godot/imported/Weather Ball.mp3-d1c13f06a486b7c44414b21accdf49e6.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://di0rwyj1upcpx"
+path="res://.godot/imported/IceBeam.wav-b9d1683d71a3c5eabe476c6b5c97a871.sample"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 2 SFX - Attack Moves - GSC/IceBeam.wav"
+dest_files=["res://.godot/imported/IceBeam.wav-b9d1683d71a3c5eabe476c6b5c97a871.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

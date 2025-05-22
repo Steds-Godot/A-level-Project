@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://ckid6keutjhei"
+path="res://.godot/imported/Bide.mp3-7138f95a2a5a0978817533694d97ec49.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 3 SFX - Attack Moves - RSE, FR, LG/Bide.mp3"
+dest_files=["res://.godot/imported/Bide.mp3-7138f95a2a5a0978817533694d97ec49.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

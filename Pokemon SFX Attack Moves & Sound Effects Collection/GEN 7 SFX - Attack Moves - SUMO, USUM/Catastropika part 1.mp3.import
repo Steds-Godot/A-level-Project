@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bqhojkd55glsv"
+path="res://.godot/imported/Catastropika part 1.mp3-c1322eea1ba9ac968d172fbc906c6101.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 7 SFX - Attack Moves - SUMO, USUM/Catastropika part 1.mp3"
+dest_files=["res://.godot/imported/Catastropika part 1.mp3-c1322eea1ba9ac968d172fbc906c6101.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

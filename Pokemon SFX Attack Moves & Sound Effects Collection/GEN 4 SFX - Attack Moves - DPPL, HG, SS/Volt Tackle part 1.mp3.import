@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://d3jjss07cw0jd"
+path="res://.godot/imported/Volt Tackle part 1.mp3-bc59111f15e4d6731308a90a422c9182.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 4 SFX - Attack Moves - DPPL, HG, SS/Volt Tackle part 1.mp3"
+dest_files=["res://.godot/imported/Volt Tackle part 1.mp3-bc59111f15e4d6731308a90a422c9182.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

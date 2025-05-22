@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://diude8s8nmhi3"
+path="res://.godot/imported/Solar Beam part 1.mp3-b4d01010ac090865fcd3e6cb19812415.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 4 SFX - Attack Moves - DPPL, HG, SS/Solar Beam part 1.mp3"
+dest_files=["res://.godot/imported/Solar Beam part 1.mp3-b4d01010ac090865fcd3e6cb19812415.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

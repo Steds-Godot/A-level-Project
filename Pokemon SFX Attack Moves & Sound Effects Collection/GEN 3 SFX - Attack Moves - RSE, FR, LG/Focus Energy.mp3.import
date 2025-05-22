@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://6rw8kt65krnc"
+path="res://.godot/imported/Focus Energy.mp3-d79ac002d54a4e251691118af71a75a0.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 3 SFX - Attack Moves - RSE, FR, LG/Focus Energy.mp3"
+dest_files=["res://.godot/imported/Focus Energy.mp3-d79ac002d54a4e251691118af71a75a0.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

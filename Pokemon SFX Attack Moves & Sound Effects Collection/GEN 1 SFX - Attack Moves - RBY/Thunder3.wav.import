@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cthm72etd7bec"
+path="res://.godot/imported/Thunder3.wav-8b7f5b69add8446ad135d4d8dcce19d1.sample"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 1 SFX - Attack Moves - RBY/Thunder3.wav"
+dest_files=["res://.godot/imported/Thunder3.wav-8b7f5b69add8446ad135d4d8dcce19d1.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

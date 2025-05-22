@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://drq017qs2rseg"
+path="res://.godot/imported/Roar.mp3-620b4d5b29762579f7dd9b7f794e31c4.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 5 SFX - Attack Moves - BLK, WHT, BLK2, WHT2/Roar.mp3"
+dest_files=["res://.godot/imported/Roar.mp3-620b4d5b29762579f7dd9b7f794e31c4.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

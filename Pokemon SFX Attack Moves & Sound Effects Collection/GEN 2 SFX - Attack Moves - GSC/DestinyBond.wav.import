@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://d0xx5wad2jfc6"
+path="res://.godot/imported/DestinyBond.wav-7f800855ef883e0c47ff03fc5919a44b.sample"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 2 SFX - Attack Moves - GSC/DestinyBond.wav"
+dest_files=["res://.godot/imported/DestinyBond.wav-7f800855ef883e0c47ff03fc5919a44b.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cpq5syewp1qb1"
+path="res://.godot/imported/Smelling Salts.mp3-a9fd1813ee0ea08f7e106ec6844c7eac.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 4 SFX - Attack Moves - DPPL, HG, SS/Smelling Salts.mp3"
+dest_files=["res://.godot/imported/Smelling Salts.mp3-a9fd1813ee0ea08f7e106ec6844c7eac.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

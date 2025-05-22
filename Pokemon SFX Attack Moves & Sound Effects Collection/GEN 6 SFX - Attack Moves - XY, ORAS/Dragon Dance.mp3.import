@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dlo3k5xta3cu8"
+path="res://.godot/imported/Dragon Dance.mp3-cfb0988ec1da18c4f7bc4719241cbc64.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 6 SFX - Attack Moves - XY, ORAS/Dragon Dance.mp3"
+dest_files=["res://.godot/imported/Dragon Dance.mp3-cfb0988ec1da18c4f7bc4719241cbc64.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

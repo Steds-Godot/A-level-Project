@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bdrq4jhjnm0fj"
+path="res://.godot/imported/Dark Void part 1.mp3-69a49a0c9301a1210b29e4d7c0ee155f.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 6 SFX - Attack Moves - XY, ORAS/Dark Void part 1.mp3"
+dest_files=["res://.godot/imported/Dark Void part 1.mp3-69a49a0c9301a1210b29e4d7c0ee155f.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

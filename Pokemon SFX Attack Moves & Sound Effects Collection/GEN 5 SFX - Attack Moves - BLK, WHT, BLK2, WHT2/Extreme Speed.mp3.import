@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cjl8rx34nflei"
+path="res://.godot/imported/Extreme Speed.mp3-2924dc40eb2ccd9b3639966bf61bfff3.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 5 SFX - Attack Moves - BLK, WHT, BLK2, WHT2/Extreme Speed.mp3"
+dest_files=["res://.godot/imported/Extreme Speed.mp3-2924dc40eb2ccd9b3639966bf61bfff3.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

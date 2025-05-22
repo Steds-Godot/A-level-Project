@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://b8fmslu8m7ag"
+path="res://.godot/imported/Leech Seed.mp3-c6a08b0c966e0aedeb658faefb0e92ae.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 5 SFX - Attack Moves - BLK, WHT, BLK2, WHT2/Leech Seed.mp3"
+dest_files=["res://.godot/imported/Leech Seed.mp3-c6a08b0c966e0aedeb658faefb0e92ae.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://beuvf6e8nblru"
+path="res://.godot/imported/Bone Club.mp3-bed8f54aab83395d81f0f7848ccb97fc.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 7 SFX - Attack Moves - SUMO, USUM/Bone Club.mp3"
+dest_files=["res://.godot/imported/Bone Club.mp3-bed8f54aab83395d81f0f7848ccb97fc.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

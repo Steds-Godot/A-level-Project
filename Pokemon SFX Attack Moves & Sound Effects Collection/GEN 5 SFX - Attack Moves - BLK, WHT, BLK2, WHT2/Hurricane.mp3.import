@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cgq2wgkocx5kc"
+path="res://.godot/imported/Hurricane.mp3-97dd14e90d4c9f476a4b3fffe983dde8.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 5 SFX - Attack Moves - BLK, WHT, BLK2, WHT2/Hurricane.mp3"
+dest_files=["res://.godot/imported/Hurricane.mp3-97dd14e90d4c9f476a4b3fffe983dde8.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

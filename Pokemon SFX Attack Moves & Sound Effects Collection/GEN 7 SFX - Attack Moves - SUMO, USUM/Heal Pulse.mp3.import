@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://2hxx6lr3rxq1"
+path="res://.godot/imported/Heal Pulse.mp3-8786049efa76efe9861a413af3df46e8.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 7 SFX - Attack Moves - SUMO, USUM/Heal Pulse.mp3"
+dest_files=["res://.godot/imported/Heal Pulse.mp3-8786049efa76efe9861a413af3df46e8.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

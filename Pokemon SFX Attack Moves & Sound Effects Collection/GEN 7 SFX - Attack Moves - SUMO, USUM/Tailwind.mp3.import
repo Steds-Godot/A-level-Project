@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://2iv713p78li3"
+path="res://.godot/imported/Tailwind.mp3-a6c2102eb226b925e9ae0407f991909d.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 7 SFX - Attack Moves - SUMO, USUM/Tailwind.mp3"
+dest_files=["res://.godot/imported/Tailwind.mp3-a6c2102eb226b925e9ae0407f991909d.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

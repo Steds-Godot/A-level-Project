@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://s304141m8ke5"
+path="res://.godot/imported/Last Resort.mp3-c029a59a11df3c1afaee79120a1b33d3.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 4 SFX - Attack Moves - DPPL, HG, SS/Last Resort.mp3"
+dest_files=["res://.godot/imported/Last Resort.mp3-c029a59a11df3c1afaee79120a1b33d3.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

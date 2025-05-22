@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://q8f0hm8tkl62"
+path="res://.godot/imported/FireSpin2.wav-980c56fc815863a4ab9eadc3d9c53e06.sample"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 2 SFX - Attack Moves - GSC/FireSpin2.wav"
+dest_files=["res://.godot/imported/FireSpin2.wav-980c56fc815863a4ab9eadc3d9c53e06.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

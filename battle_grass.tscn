@@ -1,0 +1,162 @@
+[gd_scene load_steps=12 format=3 uid="uid://dwpmgo1c7e2ym"]
+
+[ext_resource type="Texture2D" uid="uid://dk1vw864y5bep" path="res://BATGBLUEGRASSwithhills.png" id="1_pe4c8"]
+[ext_resource type="PackedScene" uid="uid://gwemlk5xhl5t" path="res://player_creature.tscn" id="2_kmeda"]
+[ext_resource type="Texture2D" uid="uid://c2tvlrtm78olh" path="res://HPBarFancy.png" id="2_l7bgt"]
+[ext_resource type="PackedScene" uid="uid://dty7rcrjwmpgh" path="res://enemy_creature.tscn" id="4_4dxai"]
+[ext_resource type="Script" uid="uid://8gkq5j12vc0j" path="res://ui.gd" id="4_gh6tw"]
+[ext_resource type="Texture2D" uid="uid://bt5h3vga67jcp" path="res://Battle Buttons.png" id="5_t737v"]
+[ext_resource type="Script" uid="uid://ckdi4885b41yi" path="res://attack_button.gd" id="5_ttyoa"]
+[ext_resource type="AudioStream" uid="uid://b8eu3xunn7ii4" path="res://old-pokemon-battle-music.mp3" id="6_oyo8m"]
+[ext_resource type="PackedScene" uid="uid://geli22u8kccv" path="res://battle_camera.tscn" id="7_exkem"]
+[ext_resource type="Script" uid="uid://b77lhki7i480s" path="res://move_1.gd" id="10_84qes"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_ttyoa"]
+bg_color = Color(0.263314, 0.655921, 0.222929, 1)
+
+[node name="Battle_grass" type="CanvasLayer" groups=["battle"]]
+follow_viewport_enabled = true
+
+[node name="Background" type="Sprite2D" parent="."]
+position = Vector2(322, 180)
+texture = ExtResource("1_pe4c8")
+
+[node name="My_Creature" type="Node2D" parent="."]
+position = Vector2(158, 222)
+
+[node name="Player_Creature" parent="My_Creature" instance=ExtResource("2_kmeda")]
+
+[node name="Player_HP" type="TextureRect" parent="My_Creature"]
+offset_left = -159.0
+offset_top = -142.0
+offset_right = 101.0
+offset_bottom = -81.0
+texture = ExtResource("2_l7bgt")
+
+[node name="ProgressBar" type="ProgressBar" parent="My_Creature/Player_HP"]
+layout_mode = 0
+offset_left = 89.0
+offset_top = 25.0
+offset_right = 191.0
+offset_bottom = 38.0
+scale = Vector2(1, 0.644446)
+theme_override_styles/fill = SubResource("StyleBoxFlat_ttyoa")
+value = 100.0
+rounded = true
+show_percentage = false
+
+[node name="Enemy" type="Node2D" parent="."]
+position = Vector2(472, 101)
+
+[node name="Enemy_HP" type="TextureRect" parent="Enemy"]
+offset_left = -157.0
+offset_top = -101.0
+offset_right = 103.0
+offset_bottom = -40.0
+texture = ExtResource("2_l7bgt")
+
+[node name="ProgressBar2" type="ProgressBar" parent="Enemy/Enemy_HP"]
+layout_mode = 0
+offset_left = 90.0
+offset_top = 25.0
+offset_right = 191.0
+offset_bottom = 38.0
+scale = Vector2(1, 0.644446)
+theme_override_styles/fill = SubResource("StyleBoxFlat_ttyoa")
+value = 100.0
+rounded = true
+show_percentage = false
+
+[node name="Enemy_Creature" parent="Enemy" instance=ExtResource("4_4dxai")]
+
+[node name="MainUI" type="Control" parent="."]
+layout_mode = 3
+anchors_preset = 0
+offset_right = 40.0
+offset_bottom = 40.0
+script = ExtResource("4_gh6tw")
+
+[node name="AttackButton" type="Button" parent="MainUI"]
+layout_mode = 0
+offset_left = 315.0
+offset_top = 259.0
+offset_right = 468.0
+offset_bottom = 296.0
+script = ExtResource("5_ttyoa")
+
+[node name="PartyButton" type="Button" parent="MainUI"]
+layout_mode = 0
+offset_left = 477.0
+offset_top = 259.0
+offset_right = 630.0
+offset_bottom = 296.0
+
+[node name="BagButton" type="Button" parent="MainUI"]
+layout_mode = 0
+offset_left = 315.0
+offset_top = 308.0
+offset_right = 468.0
+offset_bottom = 345.0
+
+[node name="RunButton" type="Button" parent="MainUI"]
+layout_mode = 0
+offset_left = 477.0
+offset_top = 308.0
+offset_right = 630.0
+offset_bottom = 345.0
+
+[node name="Menu" type="Sprite2D" parent="MainUI"]
+position = Vector2(528, 422)
+scale = Vector2(2, 1.985)
+texture = ExtResource("5_t737v")
+
+[node name="AudioStreamPlayer2D" type="AudioStreamPlayer2D" parent="."]
+stream = ExtResource("6_oyo8m")
+
+[node name="Battle_Camera" parent="." instance=ExtResource("7_exkem")]
+position = Vector2(322, 180)
+scale = Vector2(1.47003, 1.69391)
+zoom = Vector2(0.75, 0.75)
+
+[node name="Attack_Menu" type="Control" parent="."]
+visible = false
+layout_mode = 3
+anchors_preset = 0
+offset_left = 315.0
+offset_top = 259.0
+offset_right = 355.0
+offset_bottom = 299.0
+mouse_filter = 2
+
+[node name="Move_Button" type="Button" parent="Attack_Menu"]
+layout_mode = 0
+offset_right = 153.0
+offset_bottom = 40.0
+action_mode = 0
+text = "Move1"
+script = ExtResource("10_84qes")
+
+[node name="Move_Button2" type="Button" parent="Attack_Menu"]
+layout_mode = 0
+offset_left = 162.0
+offset_right = 315.0
+offset_bottom = 40.0
+text = "Move2"
+
+[node name="Move_Button3" type="Button" parent="Attack_Menu"]
+layout_mode = 0
+offset_top = 49.0
+offset_right = 153.0
+offset_bottom = 91.0
+text = "Move3"
+
+[node name="Move_Button4" type="Button" parent="Attack_Menu"]
+layout_mode = 0
+offset_left = 162.0
+offset_top = 49.0
+offset_right = 315.0
+offset_bottom = 91.0
+text = "Move4"
+
+[connection signal="pressed" from="MainUI/AttackButton" to="MainUI/AttackButton" method="_on_pressed"]
+[connection signal="pressed" from="Attack_Menu/Move_Button" to="Attack_Menu/Move_Button" method="_on_pressed"]

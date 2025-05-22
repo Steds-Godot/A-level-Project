@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://c5ny5lwyihpb7"
+path="res://.godot/imported/Explosion.mp3-fe6c0c89a6b3b5902edaa6e3c0f89018.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 7 SFX - Attack Moves - SUMO, USUM/Explosion.mp3"
+dest_files=["res://.godot/imported/Explosion.mp3-fe6c0c89a6b3b5902edaa6e3c0f89018.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

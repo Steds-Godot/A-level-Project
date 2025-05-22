@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bhv28cnpqt35e"
+path="res://.godot/imported/Mist1.wav-0269885c0b53a82d2966b5c09a1d4e13.sample"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 2 SFX - Attack Moves - GSC/Mist1.wav"
+dest_files=["res://.godot/imported/Mist1.wav-0269885c0b53a82d2966b5c09a1d4e13.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

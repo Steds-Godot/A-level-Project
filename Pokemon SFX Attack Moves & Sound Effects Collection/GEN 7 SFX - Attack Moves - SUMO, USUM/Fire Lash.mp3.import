@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bt1pnt22cb4eu"
+path="res://.godot/imported/Fire Lash.mp3-53d5bb239f5fc14ef7a27d9eb5a30a27.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 7 SFX - Attack Moves - SUMO, USUM/Fire Lash.mp3"
+dest_files=["res://.godot/imported/Fire Lash.mp3-53d5bb239f5fc14ef7a27d9eb5a30a27.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

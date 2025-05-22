@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bjae8o2vw46ci"
+path="res://.godot/imported/Breakneck Blitz part 3.mp3-f1d95f21be6a1cf920e6a273dc6d4263.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 7 SFX - Attack Moves - SUMO, USUM/Breakneck Blitz part 3.mp3"
+dest_files=["res://.godot/imported/Breakneck Blitz part 3.mp3-f1d95f21be6a1cf920e6a273dc6d4263.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

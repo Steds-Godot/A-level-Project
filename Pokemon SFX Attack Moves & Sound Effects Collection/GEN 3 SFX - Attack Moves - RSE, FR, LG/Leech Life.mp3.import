@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://b85fh8tpp7eag"
+path="res://.godot/imported/Leech Life.mp3-234d06e5f7d1dbbc0bebfaaa3a91f870.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 3 SFX - Attack Moves - RSE, FR, LG/Leech Life.mp3"
+dest_files=["res://.godot/imported/Leech Life.mp3-234d06e5f7d1dbbc0bebfaaa3a91f870.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

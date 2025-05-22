@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bncqfw1tm2jit"
+path="res://.godot/imported/Thunder Punch.mp3-d40ad48ee35119f4ac93ad1e79939f71.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 4 SFX - Attack Moves - DPPL, HG, SS/Thunder Punch.mp3"
+dest_files=["res://.godot/imported/Thunder Punch.mp3-d40ad48ee35119f4ac93ad1e79939f71.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

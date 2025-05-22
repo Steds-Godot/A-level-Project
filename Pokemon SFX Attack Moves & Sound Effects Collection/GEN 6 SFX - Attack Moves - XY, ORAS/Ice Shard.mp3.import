@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cinpjaux63sl6"
+path="res://.godot/imported/Ice Shard.mp3-2f6e52e13ed002d44b05611dd009f9e0.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 6 SFX - Attack Moves - XY, ORAS/Ice Shard.mp3"
+dest_files=["res://.godot/imported/Ice Shard.mp3-2f6e52e13ed002d44b05611dd009f9e0.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

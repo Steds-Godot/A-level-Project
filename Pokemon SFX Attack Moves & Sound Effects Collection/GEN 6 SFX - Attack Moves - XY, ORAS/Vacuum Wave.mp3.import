@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://4rlyiij6fms"
+path="res://.godot/imported/Vacuum Wave.mp3-2d07a6ec59b9ee7a3efa2a4dc07a97a9.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 6 SFX - Attack Moves - XY, ORAS/Vacuum Wave.mp3"
+dest_files=["res://.godot/imported/Vacuum Wave.mp3-2d07a6ec59b9ee7a3efa2a4dc07a97a9.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

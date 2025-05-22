@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dgnn4optbk6rc"
+path="res://.godot/imported/FirePunch1.wav-b7648e4f0dae8fb93db86af85c7b4814.sample"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 2 SFX - Attack Moves - GSC/FirePunch1.wav"
+dest_files=["res://.godot/imported/FirePunch1.wav-b7648e4f0dae8fb93db86af85c7b4814.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

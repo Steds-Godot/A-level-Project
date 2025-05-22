@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://2tx8dggrroig"
+path="res://.godot/imported/Roar.mp3-fa958d32cce3926176d82498dec29451.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 6 SFX - Attack Moves - XY, ORAS/Roar.mp3"
+dest_files=["res://.godot/imported/Roar.mp3-fa958d32cce3926176d82498dec29451.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

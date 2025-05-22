@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bq13rwfv7csif"
+path="res://.godot/imported/Frenzy Plant.mp3-d5585ae5c39b0473308b66762663511b.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 7 SFX - Attack Moves - SUMO, USUM/Frenzy Plant.mp3"
+dest_files=["res://.godot/imported/Frenzy Plant.mp3-d5585ae5c39b0473308b66762663511b.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

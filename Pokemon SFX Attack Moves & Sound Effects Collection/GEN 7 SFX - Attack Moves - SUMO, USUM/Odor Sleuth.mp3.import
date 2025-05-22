@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cljig4k4idskr"
+path="res://.godot/imported/Odor Sleuth.mp3-196bfa04e6f6998e686b10a453ee1e91.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 7 SFX - Attack Moves - SUMO, USUM/Odor Sleuth.mp3"
+dest_files=["res://.godot/imported/Odor Sleuth.mp3-196bfa04e6f6998e686b10a453ee1e91.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

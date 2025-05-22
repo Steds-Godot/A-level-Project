@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://b3cw6g57het7h"
+path="res://.godot/imported/Rock Wrecker.mp3-b0724411e181d6e589e66e951d93870b.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 6 SFX - Attack Moves - XY, ORAS/Rock Wrecker.mp3"
+dest_files=["res://.godot/imported/Rock Wrecker.mp3-b0724411e181d6e589e66e951d93870b.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

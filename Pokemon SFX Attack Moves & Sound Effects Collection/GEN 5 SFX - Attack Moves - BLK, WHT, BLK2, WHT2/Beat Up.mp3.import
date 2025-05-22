@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://c17drdfkpcg74"
+path="res://.godot/imported/Beat Up.mp3-c9aba5fb659182648255ad857ab500f9.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 5 SFX - Attack Moves - BLK, WHT, BLK2, WHT2/Beat Up.mp3"
+dest_files=["res://.godot/imported/Beat Up.mp3-c9aba5fb659182648255ad857ab500f9.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

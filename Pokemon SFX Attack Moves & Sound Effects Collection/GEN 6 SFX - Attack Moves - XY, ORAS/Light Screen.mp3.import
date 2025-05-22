@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://d107vbp2gl6xx"
+path="res://.godot/imported/Light Screen.mp3-d9e7156a89d9cfdabf1e96376f811881.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 6 SFX - Attack Moves - XY, ORAS/Light Screen.mp3"
+dest_files=["res://.godot/imported/Light Screen.mp3-d9e7156a89d9cfdabf1e96376f811881.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

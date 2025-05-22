@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://wyy5nloaifpc"
+path="res://.godot/imported/Sleep Talk.mp3-af57eef9c4d2e29f45e766ab0345ce8a.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 5 SFX - Attack Moves - BLK, WHT, BLK2, WHT2/Sleep Talk.mp3"
+dest_files=["res://.godot/imported/Sleep Talk.mp3-af57eef9c4d2e29f45e766ab0345ce8a.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

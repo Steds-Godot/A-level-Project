@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://df5tgfxg0ntey"
+path="res://.godot/imported/BodySlam.wav-a7afe00e22adcbe2d1e7e812e1e9ce73.sample"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 1 SFX - Attack Moves - RBY/BodySlam.wav"
+dest_files=["res://.godot/imported/BodySlam.wav-a7afe00e22adcbe2d1e7e812e1e9ce73.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

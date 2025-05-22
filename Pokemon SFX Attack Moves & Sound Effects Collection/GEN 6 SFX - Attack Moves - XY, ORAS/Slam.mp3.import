@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://db821judkuu34"
+path="res://.godot/imported/Slam.mp3-f975b43bc80266d10a750dc0f602a706.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 6 SFX - Attack Moves - XY, ORAS/Slam.mp3"
+dest_files=["res://.godot/imported/Slam.mp3-f975b43bc80266d10a750dc0f602a706.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

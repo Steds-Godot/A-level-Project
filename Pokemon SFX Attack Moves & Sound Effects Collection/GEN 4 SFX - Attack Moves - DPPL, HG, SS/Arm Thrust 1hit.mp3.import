@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://hx7hn6ad1u15"
+path="res://.godot/imported/Arm Thrust 1hit.mp3-c438dd06898154e5c7d863b648314b85.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 4 SFX - Attack Moves - DPPL, HG, SS/Arm Thrust 1hit.mp3"
+dest_files=["res://.godot/imported/Arm Thrust 1hit.mp3-c438dd06898154e5c7d863b648314b85.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

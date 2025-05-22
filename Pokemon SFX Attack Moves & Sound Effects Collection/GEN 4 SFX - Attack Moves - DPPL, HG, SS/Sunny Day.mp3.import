@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cwy1mrrdxyl4o"
+path="res://.godot/imported/Sunny Day.mp3-dda8c39ca707c164a99cb3ba91870adc.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 4 SFX - Attack Moves - DPPL, HG, SS/Sunny Day.mp3"
+dest_files=["res://.godot/imported/Sunny Day.mp3-dda8c39ca707c164a99cb3ba91870adc.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

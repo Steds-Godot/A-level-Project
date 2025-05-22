@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bn7gt3esxno7c"
+path="res://.godot/imported/PsywaveD.wav-47d1fad36d834f2cd7c4de4298aa6266.sample"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 2 SFX - Attack Moves - GSC/PsywaveD.wav"
+dest_files=["res://.godot/imported/PsywaveD.wav-47d1fad36d834f2cd7c4de4298aa6266.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

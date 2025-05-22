@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bkxjyq3otjybx"
+path="res://.godot/imported/Sky Uppercut.mp3-1e1c5f7d65bfdab08e2a33291df92186.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 5 SFX - Attack Moves - BLK, WHT, BLK2, WHT2/Sky Uppercut.mp3"
+dest_files=["res://.godot/imported/Sky Uppercut.mp3-1e1c5f7d65bfdab08e2a33291df92186.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

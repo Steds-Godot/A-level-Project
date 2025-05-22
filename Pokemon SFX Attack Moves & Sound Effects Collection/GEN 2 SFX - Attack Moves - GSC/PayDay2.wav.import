@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://djsr40s61kica"
+path="res://.godot/imported/PayDay2.wav-3134f3f39fc92bd23555721cac6ce585.sample"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 2 SFX - Attack Moves - GSC/PayDay2.wav"
+dest_files=["res://.godot/imported/PayDay2.wav-3134f3f39fc92bd23555721cac6ce585.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bndmokut4ivnk"
+path="res://.godot/imported/Water Pledge.mp3-2e51891757717f4278ed736da02cf78b.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 5 SFX - Attack Moves - BLK, WHT, BLK2, WHT2/Water Pledge.mp3"
+dest_files=["res://.godot/imported/Water Pledge.mp3-2e51891757717f4278ed736da02cf78b.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

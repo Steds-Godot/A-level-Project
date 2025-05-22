@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dopvo14dd8x4g"
+path="res://.godot/imported/Bone Rush 2hits.mp3-f5153c34c508485f3087954944c9002a.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 4 SFX - Attack Moves - DPPL, HG, SS/Bone Rush 2hits.mp3"
+dest_files=["res://.godot/imported/Bone Rush 2hits.mp3-f5153c34c508485f3087954944c9002a.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

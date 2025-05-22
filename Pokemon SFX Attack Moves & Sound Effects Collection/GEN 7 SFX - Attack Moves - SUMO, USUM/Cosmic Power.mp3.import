@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://calis0xt1id3b"
+path="res://.godot/imported/Cosmic Power.mp3-402df92f6587aaff567ce239c8a6a3a6.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 7 SFX - Attack Moves - SUMO, USUM/Cosmic Power.mp3"
+dest_files=["res://.godot/imported/Cosmic Power.mp3-402df92f6587aaff567ce239c8a6a3a6.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

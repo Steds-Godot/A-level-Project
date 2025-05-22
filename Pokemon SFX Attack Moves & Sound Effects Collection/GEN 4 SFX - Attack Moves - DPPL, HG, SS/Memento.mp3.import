@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bumexq24jbqod"
+path="res://.godot/imported/Memento.mp3-0811fba334f66a0b6e936465185c1d1c.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 4 SFX - Attack Moves - DPPL, HG, SS/Memento.mp3"
+dest_files=["res://.godot/imported/Memento.mp3-0811fba334f66a0b6e936465185c1d1c.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

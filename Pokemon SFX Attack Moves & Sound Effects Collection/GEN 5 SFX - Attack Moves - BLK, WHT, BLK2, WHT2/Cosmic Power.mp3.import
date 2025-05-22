@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://ckx5bvt447omf"
+path="res://.godot/imported/Cosmic Power.mp3-bb552c6b3895cc8e68be18d3ebb55bb4.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 5 SFX - Attack Moves - BLK, WHT, BLK2, WHT2/Cosmic Power.mp3"
+dest_files=["res://.godot/imported/Cosmic Power.mp3-bb552c6b3895cc8e68be18d3ebb55bb4.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://baculhb5j1eir"
+path="res://.godot/imported/Precipice Blades.mp3-039e41dbac0e8850bf46035757644a97.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 7 SFX - Attack Moves - SUMO, USUM/Precipice Blades.mp3"
+dest_files=["res://.godot/imported/Precipice Blades.mp3-039e41dbac0e8850bf46035757644a97.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

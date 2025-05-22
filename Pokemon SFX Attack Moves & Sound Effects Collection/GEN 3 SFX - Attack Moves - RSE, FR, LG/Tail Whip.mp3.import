@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dpyle8ckijgds"
+path="res://.godot/imported/Tail Whip.mp3-384f5a15938ad7b4fdb9ae980f3bedc6.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 3 SFX - Attack Moves - RSE, FR, LG/Tail Whip.mp3"
+dest_files=["res://.godot/imported/Tail Whip.mp3-384f5a15938ad7b4fdb9ae980f3bedc6.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

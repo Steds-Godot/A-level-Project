@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dbo70jbo001ei"
+path="res://.godot/imported/IMHITWEAK_Not_Very_Effective.wav-d2f8fe4e92180123e88fa93e1d9c0422.sample"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 1 SFX - Attack Moves - RBY/IMHITWEAK_Not_Very_Effective.wav"
+dest_files=["res://.godot/imported/IMHITWEAK_Not_Very_Effective.wav-d2f8fe4e92180123e88fa93e1d9c0422.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

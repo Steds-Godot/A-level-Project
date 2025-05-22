@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://km5pcr1sv3x1"
+path="res://.godot/imported/Psywave.mp3-3b284c50093ac457c1dd993919f66634.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 5 SFX - Attack Moves - BLK, WHT, BLK2, WHT2/Psywave.mp3"
+dest_files=["res://.godot/imported/Psywave.mp3-3b284c50093ac457c1dd993919f66634.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

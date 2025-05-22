@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dibr4mxxtu062"
+path="res://.godot/imported/In-Battle Recall Switch Forced Retreat.mp3-d02b22866616eaac0e2ef049a6b11767.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 7 SFX - Attack Moves - SUMO, USUM/In-Battle Recall Switch Forced Retreat.mp3"
+dest_files=["res://.godot/imported/In-Battle Recall Switch Forced Retreat.mp3-d02b22866616eaac0e2ef049a6b11767.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://b2y7hoadfp8dm"
+path="res://.godot/imported/Head Smash.mp3-50078a4ca2783a688e2d86c6d18a4da0.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 6 SFX - Attack Moves - XY, ORAS/Head Smash.mp3"
+dest_files=["res://.godot/imported/Head Smash.mp3-50078a4ca2783a688e2d86c6d18a4da0.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

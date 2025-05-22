@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bybjpjjv86xbt"
+path="res://.godot/imported/Agility.mp3-546d4f3d2974fafc49a04a893a23a9df.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 6 SFX - Attack Moves - XY, ORAS/Agility.mp3"
+dest_files=["res://.godot/imported/Agility.mp3-546d4f3d2974fafc49a04a893a23a9df.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

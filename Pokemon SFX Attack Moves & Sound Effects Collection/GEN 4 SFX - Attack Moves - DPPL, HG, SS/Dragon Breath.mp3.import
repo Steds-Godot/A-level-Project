@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://p7r8wv526c6q"
+path="res://.godot/imported/Dragon Breath.mp3-b6648132d33d8f59bd0c54f3a7e68781.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 4 SFX - Attack Moves - DPPL, HG, SS/Dragon Breath.mp3"
+dest_files=["res://.godot/imported/Dragon Breath.mp3-b6648132d33d8f59bd0c54f3a7e68781.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

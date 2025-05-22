@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://doh31ahsb1jxt"
+path="res://.godot/imported/Brick Break.mp3-ff41f7e83b558ce50e3a822c8022d196.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 6 SFX - Attack Moves - XY, ORAS/Brick Break.mp3"
+dest_files=["res://.godot/imported/Brick Break.mp3-ff41f7e83b558ce50e3a822c8022d196.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

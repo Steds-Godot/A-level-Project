@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dk3027gql0upg"
+path="res://.godot/imported/DoubleSlap.wav-0342ad4dc0b519b4bc3db50f57e35333.sample"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 2 SFX - Attack Moves - GSC/DoubleSlap.wav"
+dest_files=["res://.godot/imported/DoubleSlap.wav-0342ad4dc0b519b4bc3db50f57e35333.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

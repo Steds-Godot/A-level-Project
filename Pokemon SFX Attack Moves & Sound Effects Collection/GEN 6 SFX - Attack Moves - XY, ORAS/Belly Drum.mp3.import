@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://c2f2fu06npf7i"
+path="res://.godot/imported/Belly Drum.mp3-71cba69b91e420e2541d9a662e72b41a.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 6 SFX - Attack Moves - XY, ORAS/Belly Drum.mp3"
+dest_files=["res://.godot/imported/Belly Drum.mp3-71cba69b91e420e2541d9a662e72b41a.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

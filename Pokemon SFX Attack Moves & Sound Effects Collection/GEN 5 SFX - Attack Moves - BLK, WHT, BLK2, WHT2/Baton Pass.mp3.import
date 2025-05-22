@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cqq3h6n5q87g2"
+path="res://.godot/imported/Baton Pass.mp3-3001caf93c7a78947312e0462dffe0d1.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 5 SFX - Attack Moves - BLK, WHT, BLK2, WHT2/Baton Pass.mp3"
+dest_files=["res://.godot/imported/Baton Pass.mp3-3001caf93c7a78947312e0462dffe0d1.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

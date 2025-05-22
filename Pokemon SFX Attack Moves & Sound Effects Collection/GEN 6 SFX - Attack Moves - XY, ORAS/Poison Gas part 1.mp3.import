@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://camq4ri72coi4"
+path="res://.godot/imported/Poison Gas part 1.mp3-95d82505bcf7a9e43f0e7cd415e7698e.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 6 SFX - Attack Moves - XY, ORAS/Poison Gas part 1.mp3"
+dest_files=["res://.godot/imported/Poison Gas part 1.mp3-95d82505bcf7a9e43f0e7cd415e7698e.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

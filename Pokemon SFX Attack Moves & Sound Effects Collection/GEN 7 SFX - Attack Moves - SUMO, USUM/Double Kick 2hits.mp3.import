@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://b7jn46qxif11y"
+path="res://.godot/imported/Double Kick 2hits.mp3-ac52d7c1ef7074824f07b94ab017ca4d.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 7 SFX - Attack Moves - SUMO, USUM/Double Kick 2hits.mp3"
+dest_files=["res://.godot/imported/Double Kick 2hits.mp3-ac52d7c1ef7074824f07b94ab017ca4d.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

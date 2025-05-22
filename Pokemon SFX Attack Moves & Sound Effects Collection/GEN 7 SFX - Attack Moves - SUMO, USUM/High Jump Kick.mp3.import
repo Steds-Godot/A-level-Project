@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://d2r3pfqj0525m"
+path="res://.godot/imported/High Jump Kick.mp3-bb95ff02af057278a4ab34230887f797.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 7 SFX - Attack Moves - SUMO, USUM/High Jump Kick.mp3"
+dest_files=["res://.godot/imported/High Jump Kick.mp3-bb95ff02af057278a4ab34230887f797.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

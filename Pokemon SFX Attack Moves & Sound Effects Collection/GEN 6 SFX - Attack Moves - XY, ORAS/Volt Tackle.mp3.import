@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dnxg33i8hqky5"
+path="res://.godot/imported/Volt Tackle.mp3-302c342ed3e2861b4847e2c1aef648ac.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 6 SFX - Attack Moves - XY, ORAS/Volt Tackle.mp3"
+dest_files=["res://.godot/imported/Volt Tackle.mp3-302c342ed3e2861b4847e2c1aef648ac.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://ddsvewpg0c5q"
+path="res://.godot/imported/Return.mp3-e2f2a0360e4aada8de19831b86d21db1.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 6 SFX - Attack Moves - XY, ORAS/Return.mp3"
+dest_files=["res://.godot/imported/Return.mp3-e2f2a0360e4aada8de19831b86d21db1.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

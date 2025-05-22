@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://jeuvuee3585g"
+path="res://.godot/imported/Feather Dance.mp3-b803d84dde6b8c2829bca291aa42056b.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 7 SFX - Attack Moves - SUMO, USUM/Feather Dance.mp3"
+dest_files=["res://.godot/imported/Feather Dance.mp3-b803d84dde6b8c2829bca291aa42056b.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

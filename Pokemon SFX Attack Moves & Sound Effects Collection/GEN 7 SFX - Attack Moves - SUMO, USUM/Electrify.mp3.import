@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bev88snxxxue7"
+path="res://.godot/imported/Electrify.mp3-693f94363b4c91f251338e3f7db67943.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 7 SFX - Attack Moves - SUMO, USUM/Electrify.mp3"
+dest_files=["res://.godot/imported/Electrify.mp3-693f94363b4c91f251338e3f7db67943.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

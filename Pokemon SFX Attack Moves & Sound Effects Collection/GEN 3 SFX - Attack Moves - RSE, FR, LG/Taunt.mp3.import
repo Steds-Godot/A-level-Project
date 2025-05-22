@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://1hstrc1ffqp6"
+path="res://.godot/imported/Taunt.mp3-d742ea104fe3d1b0e35c29797b355216.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 3 SFX - Attack Moves - RSE, FR, LG/Taunt.mp3"
+dest_files=["res://.godot/imported/Taunt.mp3-d742ea104fe3d1b0e35c29797b355216.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bcg6abejekh2y"
+path="res://.godot/imported/Water Pulse.mp3-c463321b2567532639faf179035915f6.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 7 SFX - Attack Moves - SUMO, USUM/Water Pulse.mp3"
+dest_files=["res://.godot/imported/Water Pulse.mp3-c463321b2567532639faf179035915f6.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

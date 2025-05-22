@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dlcwomhseyuwr"
+path="res://.godot/imported/Fire Spin turn damage.mp3-1c48db98a0fbedb891ae91027cbe3b3f.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 3 SFX - Attack Moves - RSE, FR, LG/Fire Spin turn damage.mp3"
+dest_files=["res://.godot/imported/Fire Spin turn damage.mp3-1c48db98a0fbedb891ae91027cbe3b3f.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

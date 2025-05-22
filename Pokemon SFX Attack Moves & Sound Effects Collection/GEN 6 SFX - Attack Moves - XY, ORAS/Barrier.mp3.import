@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://1qk7x87sspi3"
+path="res://.godot/imported/Barrier.mp3-ee328204f4c22ebcb05e0b30e2b0b281.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 6 SFX - Attack Moves - XY, ORAS/Barrier.mp3"
+dest_files=["res://.godot/imported/Barrier.mp3-ee328204f4c22ebcb05e0b30e2b0b281.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

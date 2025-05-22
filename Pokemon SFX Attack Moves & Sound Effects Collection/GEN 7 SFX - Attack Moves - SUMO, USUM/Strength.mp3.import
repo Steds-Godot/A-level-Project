@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bf23yoq64srgx"
+path="res://.godot/imported/Strength.mp3-6b57d0eafdac6007c4c1052eebc882bc.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 7 SFX - Attack Moves - SUMO, USUM/Strength.mp3"
+dest_files=["res://.godot/imported/Strength.mp3-6b57d0eafdac6007c4c1052eebc882bc.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

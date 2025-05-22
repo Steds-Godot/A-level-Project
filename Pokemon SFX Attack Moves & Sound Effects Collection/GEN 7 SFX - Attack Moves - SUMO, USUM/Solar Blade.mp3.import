@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bwldkohdnl48f"
+path="res://.godot/imported/Solar Blade.mp3-509d664b202567333388574519c3086d.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 7 SFX - Attack Moves - SUMO, USUM/Solar Blade.mp3"
+dest_files=["res://.godot/imported/Solar Blade.mp3-509d664b202567333388574519c3086d.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

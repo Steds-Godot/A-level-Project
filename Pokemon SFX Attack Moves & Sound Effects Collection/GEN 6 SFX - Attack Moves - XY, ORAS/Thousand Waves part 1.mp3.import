@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dtgy0ca1ux71w"
+path="res://.godot/imported/Thousand Waves part 1.mp3-8da7baa18edcc2569cabb4eac78e1271.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 6 SFX - Attack Moves - XY, ORAS/Thousand Waves part 1.mp3"
+dest_files=["res://.godot/imported/Thousand Waves part 1.mp3-8da7baa18edcc2569cabb4eac78e1271.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

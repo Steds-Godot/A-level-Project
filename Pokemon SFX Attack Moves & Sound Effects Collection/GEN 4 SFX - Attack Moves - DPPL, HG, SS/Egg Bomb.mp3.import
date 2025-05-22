@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://jnq11xxt6qcb"
+path="res://.godot/imported/Egg Bomb.mp3-bd1204c273e5957d7622ab93f5f87f1e.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 4 SFX - Attack Moves - DPPL, HG, SS/Egg Bomb.mp3"
+dest_files=["res://.godot/imported/Egg Bomb.mp3-bd1204c273e5957d7622ab93f5f87f1e.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

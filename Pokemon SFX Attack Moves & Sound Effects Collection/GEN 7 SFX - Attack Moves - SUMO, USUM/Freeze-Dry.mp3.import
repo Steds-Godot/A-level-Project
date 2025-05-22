@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://djohvu4m3ynj7"
+path="res://.godot/imported/Freeze-Dry.mp3-2162ca610ceb6d9fad8e197dec3ecaea.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 7 SFX - Attack Moves - SUMO, USUM/Freeze-Dry.mp3"
+dest_files=["res://.godot/imported/Freeze-Dry.mp3-2162ca610ceb6d9fad8e197dec3ecaea.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

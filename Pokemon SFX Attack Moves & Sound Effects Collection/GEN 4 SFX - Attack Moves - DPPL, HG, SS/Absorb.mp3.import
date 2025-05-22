@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://b567ao5g3tws1"
+path="res://.godot/imported/Absorb.mp3-feac00adfd31ba368a8a52b7f797b74f.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 4 SFX - Attack Moves - DPPL, HG, SS/Absorb.mp3"
+dest_files=["res://.godot/imported/Absorb.mp3-feac00adfd31ba368a8a52b7f797b74f.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://nidebc0soowt"
+path="res://.godot/imported/Present damage.mp3-bb5ec2408c2fe4a9a05e45239034d494.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 5 SFX - Attack Moves - BLK, WHT, BLK2, WHT2/Present damage.mp3"
+dest_files=["res://.godot/imported/Present damage.mp3-bb5ec2408c2fe4a9a05e45239034d494.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

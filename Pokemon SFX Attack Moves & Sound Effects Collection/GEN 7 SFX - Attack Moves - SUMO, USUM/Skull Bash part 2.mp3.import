@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://h6wlfcdaqap6"
+path="res://.godot/imported/Skull Bash part 2.mp3-ca5ff8211da49b2caa2eb874fbd43194.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 7 SFX - Attack Moves - SUMO, USUM/Skull Bash part 2.mp3"
+dest_files=["res://.godot/imported/Skull Bash part 2.mp3-ca5ff8211da49b2caa2eb874fbd43194.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

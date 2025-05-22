@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cotb8h3tv0mfn"
+path="res://.godot/imported/Minimize.mp3-4a3932a21439ec7ecfd828fe0ed0341a.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 7 SFX - Attack Moves - SUMO, USUM/Minimize.mp3"
+dest_files=["res://.godot/imported/Minimize.mp3-4a3932a21439ec7ecfd828fe0ed0341a.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

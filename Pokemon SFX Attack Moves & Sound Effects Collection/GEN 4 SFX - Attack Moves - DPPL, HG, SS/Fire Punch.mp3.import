@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bsdgnv4x6klqo"
+path="res://.godot/imported/Fire Punch.mp3-0716f1b574e86dffc9f6d3a957586992.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 4 SFX - Attack Moves - DPPL, HG, SS/Fire Punch.mp3"
+dest_files=["res://.godot/imported/Fire Punch.mp3-0716f1b574e86dffc9f6d3a957586992.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://xtvcirjx8ctg"
+path="res://.godot/imported/Super Fang part 2.mp3-303888b086965749ba1a658dd11ee135.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 3 SFX - Attack Moves - RSE, FR, LG/Super Fang part 2.mp3"
+dest_files=["res://.godot/imported/Super Fang part 2.mp3-303888b086965749ba1a658dd11ee135.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

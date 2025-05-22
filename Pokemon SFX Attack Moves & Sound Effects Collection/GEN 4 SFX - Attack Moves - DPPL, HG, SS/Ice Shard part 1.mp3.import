@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dlfi8nl8er73u"
+path="res://.godot/imported/Ice Shard part 1.mp3-1a49164725531da3a66080502683eb47.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 4 SFX - Attack Moves - DPPL, HG, SS/Ice Shard part 1.mp3"
+dest_files=["res://.godot/imported/Ice Shard part 1.mp3-1a49164725531da3a66080502683eb47.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

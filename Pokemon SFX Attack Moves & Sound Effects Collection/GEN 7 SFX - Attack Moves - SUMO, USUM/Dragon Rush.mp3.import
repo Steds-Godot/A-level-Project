@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://1uaqowbkwdur"
+path="res://.godot/imported/Dragon Rush.mp3-b37c48a2b0389d9e8b1eb8b6cd1a59b8.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 7 SFX - Attack Moves - SUMO, USUM/Dragon Rush.mp3"
+dest_files=["res://.godot/imported/Dragon Rush.mp3-b37c48a2b0389d9e8b1eb8b6cd1a59b8.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bp20dm0qqbflf"
+path="res://.godot/imported/Judgement.mp3-9c7b6d1d465fa76e6cb92e4da0a7db8e.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 7 SFX - Attack Moves - SUMO, USUM/Judgement.mp3"
+dest_files=["res://.godot/imported/Judgement.mp3-9c7b6d1d465fa76e6cb92e4da0a7db8e.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

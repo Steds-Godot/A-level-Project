@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://ba5y5kh1ocipt"
+path="res://.godot/imported/Dive part 2.mp3-0ea5d6989f6eceec6403b368955227c3.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 4 SFX - Attack Moves - DPPL, HG, SS/Dive part 2.mp3"
+dest_files=["res://.godot/imported/Dive part 2.mp3-0ea5d6989f6eceec6403b368955227c3.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bolh43hkghqko"
+path="res://.godot/imported/Aeroblast.mp3-7bdfc4d7d2f4bdf484f115663db08c16.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 5 SFX - Attack Moves - BLK, WHT, BLK2, WHT2/Aeroblast.mp3"
+dest_files=["res://.godot/imported/Aeroblast.mp3-7bdfc4d7d2f4bdf484f115663db08c16.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

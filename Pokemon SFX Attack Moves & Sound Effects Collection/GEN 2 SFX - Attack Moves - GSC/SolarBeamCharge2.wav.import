@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://b7ef1oao61cry"
+path="res://.godot/imported/SolarBeamCharge2.wav-9d7a2a2967600f64b38810bef36cab22.sample"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 2 SFX - Attack Moves - GSC/SolarBeamCharge2.wav"
+dest_files=["res://.godot/imported/SolarBeamCharge2.wav-9d7a2a2967600f64b38810bef36cab22.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

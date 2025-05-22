@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://b6vq52vhcliwo"
+path="res://.godot/imported/Charm.mp3-76e6a159c2c6b0a4f0a995baacca77a5.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 3 SFX - Attack Moves - RSE, FR, LG/Charm.mp3"
+dest_files=["res://.godot/imported/Charm.mp3-76e6a159c2c6b0a4f0a995baacca77a5.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

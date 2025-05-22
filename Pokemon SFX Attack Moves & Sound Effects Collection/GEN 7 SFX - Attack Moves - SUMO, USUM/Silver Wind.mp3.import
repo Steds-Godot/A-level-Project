@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://c8osrnry0lgx8"
+path="res://.godot/imported/Silver Wind.mp3-fb24e8de27a612dd4457345a1dcf8b2d.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 7 SFX - Attack Moves - SUMO, USUM/Silver Wind.mp3"
+dest_files=["res://.godot/imported/Silver Wind.mp3-fb24e8de27a612dd4457345a1dcf8b2d.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

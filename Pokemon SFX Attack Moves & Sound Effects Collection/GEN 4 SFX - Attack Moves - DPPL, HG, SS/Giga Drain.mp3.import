@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dmmcvfilfup6j"
+path="res://.godot/imported/Giga Drain.mp3-7bdd259e270131d0d9990a6d29d4c899.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 4 SFX - Attack Moves - DPPL, HG, SS/Giga Drain.mp3"
+dest_files=["res://.godot/imported/Giga Drain.mp3-7bdd259e270131d0d9990a6d29d4c899.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

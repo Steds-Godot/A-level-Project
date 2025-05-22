@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://b150vknkh2skx"
+path="res://.godot/imported/First Impression.mp3-13e17d7cf6351b87b62df8ae527dfeba.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 7 SFX - Attack Moves - SUMO, USUM/First Impression.mp3"
+dest_files=["res://.godot/imported/First Impression.mp3-13e17d7cf6351b87b62df8ae527dfeba.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://ot7pgdjby0ee"
+path="res://.godot/imported/Calm Mind.mp3-d151280f0054d05cbf32833d199bf72a.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 7 SFX - Attack Moves - SUMO, USUM/Calm Mind.mp3"
+dest_files=["res://.godot/imported/Calm Mind.mp3-d151280f0054d05cbf32833d199bf72a.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

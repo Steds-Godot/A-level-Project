@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://ctdwvcw4ttvul"
+path="res://.godot/imported/Mimic1.wav-8e0b96c4f7a3b55fa7ee195be47f8e49.sample"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 1 SFX - Attack Moves - RBY/Mimic1.wav"
+dest_files=["res://.godot/imported/Mimic1.wav-8e0b96c4f7a3b55fa7ee195be47f8e49.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

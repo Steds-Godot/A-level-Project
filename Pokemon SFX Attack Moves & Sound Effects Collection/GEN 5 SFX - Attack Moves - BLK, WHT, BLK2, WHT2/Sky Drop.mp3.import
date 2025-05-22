@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bciitl5ygdum"
+path="res://.godot/imported/Sky Drop.mp3-f72c1388c51eaa5afc04952e80cdefee.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 5 SFX - Attack Moves - BLK, WHT, BLK2, WHT2/Sky Drop.mp3"
+dest_files=["res://.godot/imported/Sky Drop.mp3-f72c1388c51eaa5afc04952e80cdefee.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

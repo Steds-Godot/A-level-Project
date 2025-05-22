@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://540y56ffq7w2"
+path="res://.godot/imported/Embargo.mp3-50091c9d45ff84e4c26bac68df4a7ff6.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 5 SFX - Attack Moves - BLK, WHT, BLK2, WHT2/Embargo.mp3"
+dest_files=["res://.godot/imported/Embargo.mp3-50091c9d45ff84e4c26bac68df4a7ff6.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

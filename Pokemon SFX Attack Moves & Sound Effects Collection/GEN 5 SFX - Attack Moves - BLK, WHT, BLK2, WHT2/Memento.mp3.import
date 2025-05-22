@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://b21u8cguj6asd"
+path="res://.godot/imported/Memento.mp3-6638e2d906b89ae0a55adff1391c876f.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 5 SFX - Attack Moves - BLK, WHT, BLK2, WHT2/Memento.mp3"
+dest_files=["res://.godot/imported/Memento.mp3-6638e2d906b89ae0a55adff1391c876f.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

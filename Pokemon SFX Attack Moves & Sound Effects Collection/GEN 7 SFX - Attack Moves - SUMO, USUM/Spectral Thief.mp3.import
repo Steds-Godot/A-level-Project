@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://ck0aqxsmlfjqk"
+path="res://.godot/imported/Spectral Thief.mp3-4b6c9c6965d47a4be9afdaab7e5a0c28.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 7 SFX - Attack Moves - SUMO, USUM/Spectral Thief.mp3"
+dest_files=["res://.godot/imported/Spectral Thief.mp3-4b6c9c6965d47a4be9afdaab7e5a0c28.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

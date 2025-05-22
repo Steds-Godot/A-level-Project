@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://r5f24vl5hvmt"
+path="res://.godot/imported/Acid Downpour.mp3-e4b29641f752029a3a7d69989f8d7dcc.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 7 SFX - Attack Moves - SUMO, USUM/Acid Downpour.mp3"
+dest_files=["res://.godot/imported/Acid Downpour.mp3-e4b29641f752029a3a7d69989f8d7dcc.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

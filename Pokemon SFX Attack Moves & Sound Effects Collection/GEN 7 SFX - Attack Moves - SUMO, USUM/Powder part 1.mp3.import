@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://duiuh55n51vcb"
+path="res://.godot/imported/Powder part 1.mp3-4fb1a42410e397ea324b4831aab369a3.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 7 SFX - Attack Moves - SUMO, USUM/Powder part 1.mp3"
+dest_files=["res://.godot/imported/Powder part 1.mp3-4fb1a42410e397ea324b4831aab369a3.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

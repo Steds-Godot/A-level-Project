@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://ndferps7yhmi"
+path="res://.godot/imported/Eruption.mp3-0b5e19d1341f53c8657b5452f6c5ed54.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 4 SFX - Attack Moves - DPPL, HG, SS/Eruption.mp3"
+dest_files=["res://.godot/imported/Eruption.mp3-0b5e19d1341f53c8657b5452f6c5ed54.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

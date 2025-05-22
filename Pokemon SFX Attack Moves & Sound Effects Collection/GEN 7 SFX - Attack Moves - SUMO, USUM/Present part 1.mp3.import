@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://daad5wq812imi"
+path="res://.godot/imported/Present part 1.mp3-6b7896e7e7659bb10c92c70d034d19a6.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 7 SFX - Attack Moves - SUMO, USUM/Present part 1.mp3"
+dest_files=["res://.godot/imported/Present part 1.mp3-6b7896e7e7659bb10c92c70d034d19a6.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

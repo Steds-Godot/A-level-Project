@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://b06k3bpnayv8u"
+path="res://.godot/imported/Double Edge.mp3-affb163e49b571366788a58935b633b1.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 3 SFX - Attack Moves - RSE, FR, LG/Double Edge.mp3"
+dest_files=["res://.godot/imported/Double Edge.mp3-affb163e49b571366788a58935b633b1.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

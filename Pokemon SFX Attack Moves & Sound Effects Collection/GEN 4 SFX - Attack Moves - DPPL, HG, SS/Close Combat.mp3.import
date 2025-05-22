@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://b6f04bq8vs4mk"
+path="res://.godot/imported/Close Combat.mp3-4c5ee310d4109fc19c34c6b378fcd06f.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 4 SFX - Attack Moves - DPPL, HG, SS/Close Combat.mp3"
+dest_files=["res://.godot/imported/Close Combat.mp3-4c5ee310d4109fc19c34c6b378fcd06f.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

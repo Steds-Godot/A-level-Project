@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bnk2s7q0f1hl6"
+path="res://.godot/imported/Aqua Jet.mp3-1f2169e2d73d829d82674f4432e6fb9a.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 6 SFX - Attack Moves - XY, ORAS/Aqua Jet.mp3"
+dest_files=["res://.godot/imported/Aqua Jet.mp3-1f2169e2d73d829d82674f4432e6fb9a.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

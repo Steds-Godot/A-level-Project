@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dm5vbkv46q8ur"
+path="res://.godot/imported/Sleep Talk.mp3-5a2429e5a8ab99cf6236d24de1f90bf1.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 4 SFX - Attack Moves - DPPL, HG, SS/Sleep Talk.mp3"
+dest_files=["res://.godot/imported/Sleep Talk.mp3-5a2429e5a8ab99cf6236d24de1f90bf1.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

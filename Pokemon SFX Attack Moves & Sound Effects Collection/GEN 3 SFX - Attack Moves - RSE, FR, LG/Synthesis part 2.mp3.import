@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cdm1fe24fa6r4"
+path="res://.godot/imported/Synthesis part 2.mp3-800cb7a1f94fa48cddf3fbf984c7e5e5.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 3 SFX - Attack Moves - RSE, FR, LG/Synthesis part 2.mp3"
+dest_files=["res://.godot/imported/Synthesis part 2.mp3-800cb7a1f94fa48cddf3fbf984c7e5e5.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

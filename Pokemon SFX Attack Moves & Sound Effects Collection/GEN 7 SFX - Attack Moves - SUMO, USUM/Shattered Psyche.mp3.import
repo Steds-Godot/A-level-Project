@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://btgxapdwlrnck"
+path="res://.godot/imported/Shattered Psyche.mp3-6a6ba35b8ba3eb317cba06b17a53a2ab.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 7 SFX - Attack Moves - SUMO, USUM/Shattered Psyche.mp3"
+dest_files=["res://.godot/imported/Shattered Psyche.mp3-6a6ba35b8ba3eb317cba06b17a53a2ab.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

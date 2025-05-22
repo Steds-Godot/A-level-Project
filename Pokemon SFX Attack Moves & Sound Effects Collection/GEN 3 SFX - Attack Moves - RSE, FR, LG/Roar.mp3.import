@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://djj1g0s1p3q4a"
+path="res://.godot/imported/Roar.mp3-6fcfb4236998301f0f5493c44965dee2.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 3 SFX - Attack Moves - RSE, FR, LG/Roar.mp3"
+dest_files=["res://.godot/imported/Roar.mp3-6fcfb4236998301f0f5493c44965dee2.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

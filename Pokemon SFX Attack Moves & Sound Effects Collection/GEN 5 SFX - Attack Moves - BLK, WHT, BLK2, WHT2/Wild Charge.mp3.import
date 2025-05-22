@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bpq0pddrqkvgs"
+path="res://.godot/imported/Wild Charge.mp3-31019b7d57f779d28253049e5577dfcd.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 5 SFX - Attack Moves - BLK, WHT, BLK2, WHT2/Wild Charge.mp3"
+dest_files=["res://.godot/imported/Wild Charge.mp3-31019b7d57f779d28253049e5577dfcd.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

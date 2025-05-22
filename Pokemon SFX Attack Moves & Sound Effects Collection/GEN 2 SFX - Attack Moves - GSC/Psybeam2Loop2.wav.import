@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bm1875xudish8"
+path="res://.godot/imported/Psybeam2Loop2.wav-0bd4facb918de031f7fea1e00c9e5251.sample"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 2 SFX - Attack Moves - GSC/Psybeam2Loop2.wav"
+dest_files=["res://.godot/imported/Psybeam2Loop2.wav-0bd4facb918de031f7fea1e00c9e5251.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://c6c8h88txe1ax"
+path="res://.godot/imported/Air Cutter.mp3-4c8a59be9ff34559fcab7deca323b9a8.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 7 SFX - Attack Moves - SUMO, USUM/Air Cutter.mp3"
+dest_files=["res://.godot/imported/Air Cutter.mp3-4c8a59be9ff34559fcab7deca323b9a8.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

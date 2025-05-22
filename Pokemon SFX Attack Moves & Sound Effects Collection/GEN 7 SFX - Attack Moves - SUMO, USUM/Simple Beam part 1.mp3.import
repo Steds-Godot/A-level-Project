@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://ba35uftuph76b"
+path="res://.godot/imported/Simple Beam part 1.mp3-72786fd02b704d00762c2cd8305b361d.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 7 SFX - Attack Moves - SUMO, USUM/Simple Beam part 1.mp3"
+dest_files=["res://.godot/imported/Simple Beam part 1.mp3-72786fd02b704d00762c2cd8305b361d.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://6qhwcyqpctmh"
+path="res://.godot/imported/Bonemerang 2hits.mp3-75f831295530f735f6e5b3cd2ac77524.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 3 SFX - Attack Moves - RSE, FR, LG/Bonemerang 2hits.mp3"
+dest_files=["res://.godot/imported/Bonemerang 2hits.mp3-75f831295530f735f6e5b3cd2ac77524.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

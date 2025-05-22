@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bk6ttwl662umu"
+path="res://.godot/imported/Low Kick.mp3-124502d8a634044189dbe0e0e236f9c8.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 6 SFX - Attack Moves - XY, ORAS/Low Kick.mp3"
+dest_files=["res://.godot/imported/Low Kick.mp3-124502d8a634044189dbe0e0e236f9c8.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://brjvkk0j1e080"
+path="res://.godot/imported/Flatter.mp3-05477a91adf1290624b6d81fef952747.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 6 SFX - Attack Moves - XY, ORAS/Flatter.mp3"
+dest_files=["res://.godot/imported/Flatter.mp3-05477a91adf1290624b6d81fef952747.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

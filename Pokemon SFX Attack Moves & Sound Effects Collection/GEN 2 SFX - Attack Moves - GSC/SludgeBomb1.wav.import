@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://0m4t40yaifop"
+path="res://.godot/imported/SludgeBomb1.wav-b1a600622d07055dafff1ee458c38baf.sample"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 2 SFX - Attack Moves - GSC/SludgeBomb1.wav"
+dest_files=["res://.godot/imported/SludgeBomb1.wav-b1a600622d07055dafff1ee458c38baf.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

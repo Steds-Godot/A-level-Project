@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://csu2m3rdj0na1"
+path="res://.godot/imported/Meditate.mp3-33bec7c9db56a01295b7a9f558e47122.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 5 SFX - Attack Moves - BLK, WHT, BLK2, WHT2/Meditate.mp3"
+dest_files=["res://.godot/imported/Meditate.mp3-33bec7c9db56a01295b7a9f558e47122.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

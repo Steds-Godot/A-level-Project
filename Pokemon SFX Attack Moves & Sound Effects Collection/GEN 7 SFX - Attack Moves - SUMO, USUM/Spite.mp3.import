@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://c55qegwjxp4pb"
+path="res://.godot/imported/Spite.mp3-9898032da9d20c7f95d96c2916576e14.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 7 SFX - Attack Moves - SUMO, USUM/Spite.mp3"
+dest_files=["res://.godot/imported/Spite.mp3-9898032da9d20c7f95d96c2916576e14.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

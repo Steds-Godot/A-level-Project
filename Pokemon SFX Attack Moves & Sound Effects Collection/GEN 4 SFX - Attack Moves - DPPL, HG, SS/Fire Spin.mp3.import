@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cxr18gvishlfo"
+path="res://.godot/imported/Fire Spin.mp3-e75e81af6e83d096e6aa2b3a43380067.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 4 SFX - Attack Moves - DPPL, HG, SS/Fire Spin.mp3"
+dest_files=["res://.godot/imported/Fire Spin.mp3-e75e81af6e83d096e6aa2b3a43380067.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

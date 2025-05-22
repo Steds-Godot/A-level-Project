@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dbp087cgmn3m"
+path="res://.godot/imported/Shadow Claw.mp3-bfebe3aee76e2f0bec16f260be1e2d22.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 6 SFX - Attack Moves - XY, ORAS/Shadow Claw.mp3"
+dest_files=["res://.godot/imported/Shadow Claw.mp3-bfebe3aee76e2f0bec16f260be1e2d22.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://c6d1kt3cvfmpv"
+path="res://.godot/imported/DoubleKick.wav-2b408f0f5317fe970fce84d0c877b523.sample"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 2 SFX - Attack Moves - GSC/DoubleKick.wav"
+dest_files=["res://.godot/imported/DoubleKick.wav-2b408f0f5317fe970fce84d0c877b523.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://oyqydcnccmbo"
+path="res://.godot/imported/Wing Attack.mp3-35092a163e6ef400b8a4f79554317e4d.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 6 SFX - Attack Moves - XY, ORAS/Wing Attack.mp3"
+dest_files=["res://.godot/imported/Wing Attack.mp3-35092a163e6ef400b8a4f79554317e4d.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

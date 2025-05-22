@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://byspble0har8r"
+path="res://.godot/imported/Magic Coat.mp3-af7615f1b8ee1680a00eb6e6fc65e47e.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 3 SFX - Attack Moves - RSE, FR, LG/Magic Coat.mp3"
+dest_files=["res://.godot/imported/Magic Coat.mp3-af7615f1b8ee1680a00eb6e6fc65e47e.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

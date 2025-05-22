@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://d3aoh7t5ya4oi"
+path="res://.godot/imported/Torment.mp3-6393a3e6587bb4e0464943a47847ff0e.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 5 SFX - Attack Moves - BLK, WHT, BLK2, WHT2/Torment.mp3"
+dest_files=["res://.godot/imported/Torment.mp3-6393a3e6587bb4e0464943a47847ff0e.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

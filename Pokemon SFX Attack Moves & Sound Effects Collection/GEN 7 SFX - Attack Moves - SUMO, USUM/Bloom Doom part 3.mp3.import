@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bi8si4dn80kxc"
+path="res://.godot/imported/Bloom Doom part 3.mp3-618cdbb20b9170494f087fd3ca0b6b59.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 7 SFX - Attack Moves - SUMO, USUM/Bloom Doom part 3.mp3"
+dest_files=["res://.godot/imported/Bloom Doom part 3.mp3-618cdbb20b9170494f087fd3ca0b6b59.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

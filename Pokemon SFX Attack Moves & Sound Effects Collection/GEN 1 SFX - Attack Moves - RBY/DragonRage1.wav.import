@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://f04sduc1ebsq"
+path="res://.godot/imported/DragonRage1.wav-1d12329abbe1cd0b33513198e608f7fb.sample"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 1 SFX - Attack Moves - RBY/DragonRage1.wav"
+dest_files=["res://.godot/imported/DragonRage1.wav-1d12329abbe1cd0b33513198e608f7fb.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

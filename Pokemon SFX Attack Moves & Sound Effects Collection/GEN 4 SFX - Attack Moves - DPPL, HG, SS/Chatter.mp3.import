@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://1el8xv1r672f"
+path="res://.godot/imported/Chatter.mp3-01bc1fddb8a56d8174f75d9d14c269f4.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 4 SFX - Attack Moves - DPPL, HG, SS/Chatter.mp3"
+dest_files=["res://.godot/imported/Chatter.mp3-01bc1fddb8a56d8174f75d9d14c269f4.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://ce1t2gh0qmb4w"
+path="res://.godot/imported/Stun Spore.mp3-e41809b72421d3022847cf2f17f2408f.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 4 SFX - Attack Moves - DPPL, HG, SS/Stun Spore.mp3"
+dest_files=["res://.godot/imported/Stun Spore.mp3-e41809b72421d3022847cf2f17f2408f.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

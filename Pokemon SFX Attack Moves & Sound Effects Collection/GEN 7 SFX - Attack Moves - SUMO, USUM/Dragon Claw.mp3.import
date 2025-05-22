@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://ckhqmn8aw3ha6"
+path="res://.godot/imported/Dragon Claw.mp3-0b0174c63999e5a67725202520b8dbae.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 7 SFX - Attack Moves - SUMO, USUM/Dragon Claw.mp3"
+dest_files=["res://.godot/imported/Dragon Claw.mp3-0b0174c63999e5a67725202520b8dbae.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

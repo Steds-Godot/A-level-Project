@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dfcwxc7txpmoh"
+path="res://.godot/imported/Astonish.mp3-377b823e861a448e1b7c9c748348aa88.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 7 SFX - Attack Moves - SUMO, USUM/Astonish.mp3"
+dest_files=["res://.godot/imported/Astonish.mp3-377b823e861a448e1b7c9c748348aa88.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

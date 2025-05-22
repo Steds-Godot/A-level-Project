@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://ccvx4pcfw06uk"
+path="res://.godot/imported/False Swipe.mp3-6f0d303799a433c9a69aced739f4e2ed.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 3 SFX - Attack Moves - RSE, FR, LG/False Swipe.mp3"
+dest_files=["res://.godot/imported/False Swipe.mp3-6f0d303799a433c9a69aced739f4e2ed.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

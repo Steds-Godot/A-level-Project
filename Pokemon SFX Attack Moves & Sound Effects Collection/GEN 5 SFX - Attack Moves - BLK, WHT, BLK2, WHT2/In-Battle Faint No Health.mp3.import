@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dn3p6qsxx1b8k"
+path="res://.godot/imported/In-Battle Faint No Health.mp3-5ad9b3fd5b326b9dde0074805a4dadbc.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 5 SFX - Attack Moves - BLK, WHT, BLK2, WHT2/In-Battle Faint No Health.mp3"
+dest_files=["res://.godot/imported/In-Battle Faint No Health.mp3-5ad9b3fd5b326b9dde0074805a4dadbc.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

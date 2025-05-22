@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://mrjxvggxq1n0"
+path="res://.godot/imported/Close Combat.mp3-db056dc0660a9109f5f3df0e928e1be2.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 5 SFX - Attack Moves - BLK, WHT, BLK2, WHT2/Close Combat.mp3"
+dest_files=["res://.godot/imported/Close Combat.mp3-db056dc0660a9109f5f3df0e928e1be2.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

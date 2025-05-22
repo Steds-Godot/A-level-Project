@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bo0e0icjjx6vp"
+path="res://.godot/imported/Bonemerang 1hit.mp3-9a683558ceba2bb6a12c7dd1f07280d3.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 7 SFX - Attack Moves - SUMO, USUM/Bonemerang 1hit.mp3"
+dest_files=["res://.godot/imported/Bonemerang 1hit.mp3-9a683558ceba2bb6a12c7dd1f07280d3.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

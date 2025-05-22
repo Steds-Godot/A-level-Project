@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://1fohxhj6ygq"
+path="res://.godot/imported/Never-Ending Nightmare part 2.mp3-ebc0c79757aa7359f384562be07c7fa1.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 7 SFX - Attack Moves - SUMO, USUM/Never-Ending Nightmare part 2.mp3"
+dest_files=["res://.godot/imported/Never-Ending Nightmare part 2.mp3-ebc0c79757aa7359f384562be07c7fa1.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

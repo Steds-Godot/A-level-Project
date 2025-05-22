@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://k5wbmk52a1cg"
+path="res://.godot/imported/Devastating Drake part 3.mp3-561f2852bfe0713d7e8fe4bf0f980e72.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 7 SFX - Attack Moves - SUMO, USUM/Devastating Drake part 3.mp3"
+dest_files=["res://.godot/imported/Devastating Drake part 3.mp3-561f2852bfe0713d7e8fe4bf0f980e72.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

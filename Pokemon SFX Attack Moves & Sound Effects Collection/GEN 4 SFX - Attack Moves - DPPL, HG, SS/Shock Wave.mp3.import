@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cg43dgv0k2qwo"
+path="res://.godot/imported/Shock Wave.mp3-14a2218e9edd6ecd501ec631fa5e1093.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 4 SFX - Attack Moves - DPPL, HG, SS/Shock Wave.mp3"
+dest_files=["res://.godot/imported/Shock Wave.mp3-14a2218e9edd6ecd501ec631fa5e1093.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

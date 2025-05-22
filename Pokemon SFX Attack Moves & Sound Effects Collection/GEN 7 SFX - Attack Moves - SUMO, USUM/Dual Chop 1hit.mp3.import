@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://2r3772bnsq2t"
+path="res://.godot/imported/Dual Chop 1hit.mp3-2d6b9688415a1f987a858ed67068e34b.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 7 SFX - Attack Moves - SUMO, USUM/Dual Chop 1hit.mp3"
+dest_files=["res://.godot/imported/Dual Chop 1hit.mp3-2d6b9688415a1f987a858ed67068e34b.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

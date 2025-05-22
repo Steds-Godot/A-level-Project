@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://c04trq0vkkqs8"
+path="res://.godot/imported/Withdraw.wav-6a17aadf68203b399718c7177ecbac67.sample"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 1 SFX - Attack Moves - RBY/Withdraw.wav"
+dest_files=["res://.godot/imported/Withdraw.wav-6a17aadf68203b399718c7177ecbac67.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

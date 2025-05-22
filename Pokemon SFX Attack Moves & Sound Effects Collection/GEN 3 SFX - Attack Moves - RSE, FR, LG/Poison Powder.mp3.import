@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bil6mq66ftrpt"
+path="res://.godot/imported/Poison Powder.mp3-863744cc9b3b30f9dda78d7541d935bb.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 3 SFX - Attack Moves - RSE, FR, LG/Poison Powder.mp3"
+dest_files=["res://.godot/imported/Poison Powder.mp3-863744cc9b3b30f9dda78d7541d935bb.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

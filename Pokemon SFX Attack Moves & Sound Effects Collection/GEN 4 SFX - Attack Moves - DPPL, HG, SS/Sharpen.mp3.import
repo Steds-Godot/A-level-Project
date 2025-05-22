@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cm6vxifldm8h7"
+path="res://.godot/imported/Sharpen.mp3-4b6da4c9530b1d517ec9a53cf5edb686.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 4 SFX - Attack Moves - DPPL, HG, SS/Sharpen.mp3"
+dest_files=["res://.godot/imported/Sharpen.mp3-4b6da4c9530b1d517ec9a53cf5edb686.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

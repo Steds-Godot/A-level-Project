@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://feg8jsnrs36o"
+path="res://.godot/imported/Reflect.mp3-acf70a4c052ca33d5cc441d93cc7b3c3.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 3 SFX - Attack Moves - RSE, FR, LG/Reflect.mp3"
+dest_files=["res://.godot/imported/Reflect.mp3-acf70a4c052ca33d5cc441d93cc7b3c3.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

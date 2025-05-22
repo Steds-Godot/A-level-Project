@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cdeqsm6ed4553"
+path="res://.godot/imported/Cross Chop.mp3-8822fcd1b015be20d37b900c26b970e5.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 6 SFX - Attack Moves - XY, ORAS/Cross Chop.mp3"
+dest_files=["res://.godot/imported/Cross Chop.mp3-8822fcd1b015be20d37b900c26b970e5.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

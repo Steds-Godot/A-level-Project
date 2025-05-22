@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://e72ld0w00271"
+path="res://.godot/imported/Signal Beam.mp3-7cbc998fd53b4a9739b82bd964851b3b.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 7 SFX - Attack Moves - SUMO, USUM/Signal Beam.mp3"
+dest_files=["res://.godot/imported/Signal Beam.mp3-7cbc998fd53b4a9739b82bd964851b3b.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

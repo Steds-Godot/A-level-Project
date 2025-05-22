@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://drnkubpg476nq"
+path="res://.godot/imported/Trick.mp3-6c99b13956031d62bd986bc00474c1ae.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 6 SFX - Attack Moves - XY, ORAS/Trick.mp3"
+dest_files=["res://.godot/imported/Trick.mp3-6c99b13956031d62bd986bc00474c1ae.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

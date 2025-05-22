@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://b8axmdixix6fb"
+path="res://.godot/imported/Bubble.mp3-5afd90293e8b022d6881af222a59732e.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 4 SFX - Attack Moves - DPPL, HG, SS/Bubble.mp3"
+dest_files=["res://.godot/imported/Bubble.mp3-5afd90293e8b022d6881af222a59732e.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

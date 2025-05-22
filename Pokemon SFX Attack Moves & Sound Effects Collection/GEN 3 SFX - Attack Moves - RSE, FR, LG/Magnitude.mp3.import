@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dah52e7ehp3m2"
+path="res://.godot/imported/Magnitude.mp3-b165f10cb54c2e1dfae4fffe8f589d53.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 3 SFX - Attack Moves - RSE, FR, LG/Magnitude.mp3"
+dest_files=["res://.godot/imported/Magnitude.mp3-b165f10cb54c2e1dfae4fffe8f589d53.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

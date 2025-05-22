@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://c0xg88ssrx25k"
+path="res://.godot/imported/Minimize.mp3-550ee2b75ac079c0a58b68e6f06ac4cd.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 3 SFX - Attack Moves - RSE, FR, LG/Minimize.mp3"
+dest_files=["res://.godot/imported/Minimize.mp3-550ee2b75ac079c0a58b68e6f06ac4cd.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://c0fpu04anmks"
+path="res://.godot/imported/Rock Tomb.mp3-dd568c71452d180f7b8f408f14726b0a.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 7 SFX - Attack Moves - SUMO, USUM/Rock Tomb.mp3"
+dest_files=["res://.godot/imported/Rock Tomb.mp3-dd568c71452d180f7b8f408f14726b0a.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

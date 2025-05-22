@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dy627d8el6e5c"
+path="res://.godot/imported/Guard Split.mp3-898a85e56dd59d2483e5fe5e2ee80c36.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 7 SFX - Attack Moves - SUMO, USUM/Guard Split.mp3"
+dest_files=["res://.godot/imported/Guard Split.mp3-898a85e56dd59d2483e5fe5e2ee80c36.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dhkh5xtshi13d"
+path="res://.godot/imported/Aqua Ring.mp3-d69f4292ec418b2c1efb670587412206.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 7 SFX - Attack Moves - SUMO, USUM/Aqua Ring.mp3"
+dest_files=["res://.godot/imported/Aqua Ring.mp3-d69f4292ec418b2c1efb670587412206.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

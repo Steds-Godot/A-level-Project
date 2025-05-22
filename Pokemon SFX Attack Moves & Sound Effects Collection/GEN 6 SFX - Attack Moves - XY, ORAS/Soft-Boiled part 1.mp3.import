@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://c1xsqh25vr7gi"
+path="res://.godot/imported/Soft-Boiled part 1.mp3-c5d3172b4f42f41c87f07da31bc94538.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 6 SFX - Attack Moves - XY, ORAS/Soft-Boiled part 1.mp3"
+dest_files=["res://.godot/imported/Soft-Boiled part 1.mp3-c5d3172b4f42f41c87f07da31bc94538.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

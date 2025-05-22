@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cxsgo4jykfnv6"
+path="res://.godot/imported/Poison Gas.mp3-5e3db9c07454f3b05c48a04db1f7f951.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 4 SFX - Attack Moves - DPPL, HG, SS/Poison Gas.mp3"
+dest_files=["res://.godot/imported/Poison Gas.mp3-5e3db9c07454f3b05c48a04db1f7f951.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

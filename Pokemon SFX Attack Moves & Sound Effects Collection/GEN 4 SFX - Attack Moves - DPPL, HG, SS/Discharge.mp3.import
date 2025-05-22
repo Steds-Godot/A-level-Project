@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://b0bmslqd0lg08"
+path="res://.godot/imported/Discharge.mp3-6bcf276ff5be0d306c97f510a12c8a46.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 4 SFX - Attack Moves - DPPL, HG, SS/Discharge.mp3"
+dest_files=["res://.godot/imported/Discharge.mp3-6bcf276ff5be0d306c97f510a12c8a46.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

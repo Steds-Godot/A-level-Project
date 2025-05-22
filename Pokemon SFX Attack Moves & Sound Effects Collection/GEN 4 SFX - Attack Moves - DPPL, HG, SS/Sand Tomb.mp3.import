@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cyjlb667pd0i6"
+path="res://.godot/imported/Sand Tomb.mp3-49d059e5c894586e3aa7ed086ed863e4.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 4 SFX - Attack Moves - DPPL, HG, SS/Sand Tomb.mp3"
+dest_files=["res://.godot/imported/Sand Tomb.mp3-49d059e5c894586e3aa7ed086ed863e4.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

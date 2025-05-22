@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://beffho3jqjbiq"
+path="res://.godot/imported/Focus Punch.mp3-512c35aa49d99b42ad4d32de21359101.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 7 SFX - Attack Moves - SUMO, USUM/Focus Punch.mp3"
+dest_files=["res://.godot/imported/Focus Punch.mp3-512c35aa49d99b42ad4d32de21359101.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

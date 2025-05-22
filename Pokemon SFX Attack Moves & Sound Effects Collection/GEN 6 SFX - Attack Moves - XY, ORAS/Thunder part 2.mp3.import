@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://8cmd51ksr6d"
+path="res://.godot/imported/Thunder part 2.mp3-0b197b5929efd6ed2898e0a688cb9ebe.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 6 SFX - Attack Moves - XY, ORAS/Thunder part 2.mp3"
+dest_files=["res://.godot/imported/Thunder part 2.mp3-0b197b5929efd6ed2898e0a688cb9ebe.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

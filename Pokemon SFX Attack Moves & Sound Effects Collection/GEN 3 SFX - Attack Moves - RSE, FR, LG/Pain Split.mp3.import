@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dsmbufrq8008h"
+path="res://.godot/imported/Pain Split.mp3-0a44e439bb72f689bc240d39f37d2378.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 3 SFX - Attack Moves - RSE, FR, LG/Pain Split.mp3"
+dest_files=["res://.godot/imported/Pain Split.mp3-0a44e439bb72f689bc240d39f37d2378.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

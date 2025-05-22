@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://w23lxgg8h7gj"
+path="res://.godot/imported/Metronome.mp3-d9fcb91bdd5be554a2e3c56d3179a099.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 3 SFX - Attack Moves - RSE, FR, LG/Metronome.mp3"
+dest_files=["res://.godot/imported/Metronome.mp3-d9fcb91bdd5be554a2e3c56d3179a099.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

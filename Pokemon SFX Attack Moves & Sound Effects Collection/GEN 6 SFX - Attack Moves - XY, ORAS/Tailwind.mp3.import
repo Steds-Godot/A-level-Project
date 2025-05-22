@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cxgsnlqvh7n53"
+path="res://.godot/imported/Tailwind.mp3-6579d5d886a3f428bf58154d9d4c7f57.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 6 SFX - Attack Moves - XY, ORAS/Tailwind.mp3"
+dest_files=["res://.godot/imported/Tailwind.mp3-6579d5d886a3f428bf58154d9d4c7f57.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

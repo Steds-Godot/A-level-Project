@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://ce7xhvx51bw38"
+path="res://.godot/imported/Dragon Hammer.mp3-a6b1d4ee7d0a7d5fe282de3baa9a83ff.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 7 SFX - Attack Moves - SUMO, USUM/Dragon Hammer.mp3"
+dest_files=["res://.godot/imported/Dragon Hammer.mp3-a6b1d4ee7d0a7d5fe282de3baa9a83ff.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://da2prchyge7p6"
+path="res://.godot/imported/Endeavor.mp3-5d0706e9f9d3cc3c009a08b32aea7d08.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 5 SFX - Attack Moves - BLK, WHT, BLK2, WHT2/Endeavor.mp3"
+dest_files=["res://.godot/imported/Endeavor.mp3-5d0706e9f9d3cc3c009a08b32aea7d08.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

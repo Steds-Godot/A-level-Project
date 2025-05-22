@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dio0or12ncc86"
+path="res://.godot/imported/Crush Grip.mp3-ce4c91607978e1a1a8845c014711844b.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 5 SFX - Attack Moves - BLK, WHT, BLK2, WHT2/Crush Grip.mp3"
+dest_files=["res://.godot/imported/Crush Grip.mp3-ce4c91607978e1a1a8845c014711844b.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

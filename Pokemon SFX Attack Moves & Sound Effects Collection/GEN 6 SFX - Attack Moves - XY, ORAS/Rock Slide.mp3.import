@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cqy1u60v2rhn7"
+path="res://.godot/imported/Rock Slide.mp3-400bc6d81f84f0c20305af53d4c4154d.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 6 SFX - Attack Moves - XY, ORAS/Rock Slide.mp3"
+dest_files=["res://.godot/imported/Rock Slide.mp3-400bc6d81f84f0c20305af53d4c4154d.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://p1qnnw1myvbu"
+path="res://.godot/imported/Megahorn.mp3-b73a0a097e0f7bb784e13ac62aeb2dce.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 6 SFX - Attack Moves - XY, ORAS/Megahorn.mp3"
+dest_files=["res://.godot/imported/Megahorn.mp3-b73a0a097e0f7bb784e13ac62aeb2dce.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

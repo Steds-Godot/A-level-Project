@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://drbut8l67muvv"
+path="res://.godot/imported/Thunder.mp3-2626090fbeebe4f8e95ce1cc9987974e.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 3 SFX - Attack Moves - RSE, FR, LG/Thunder.mp3"
+dest_files=["res://.godot/imported/Thunder.mp3-2626090fbeebe4f8e95ce1cc9987974e.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

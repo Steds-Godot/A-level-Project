@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://geli22u8kccv"]
+
+[ext_resource type="Script" uid="uid://c6klx1ugqv4yb" path="res://battle_camera.gd" id="1_g5ayq"]
+
+[node name="Battle_Camera" type="Camera2D"]
+zoom = Vector2(0.01, 0.01)
+script = ExtResource("1_g5ayq")

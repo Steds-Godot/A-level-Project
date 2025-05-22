@@ -1,8 +1,9 @@
-[gd_scene load_steps=4 format=3 uid="uid://baekt2aa2mx4s"]
+[gd_scene load_steps=5 format=3 uid="uid://baekt2aa2mx4s"]
 
 [ext_resource type="PackedScene" uid="uid://btmwxitcs8tc6" path="res://Tileset.tscn" id="1_o8kwx"]
 [ext_resource type="PackedScene" uid="uid://cso5oes1hanx2" path="res://player_spawner.tscn" id="2_hf4oq"]
 [ext_resource type="PackedScene" uid="uid://k8ncu32xvtle" path="res://teleporter.tscn" id="3_fnoii"]
+[ext_resource type="PackedScene" uid="uid://dhbe4ngp23bhg" path="res://camera.tscn" id="4_7yl6r"]
 
 [node name="Route_1" type="Node2D"]
 
@@ -18,3 +19,5 @@ position = Vector2(42, 123)
 
 [node name="Teleporter" parent="." instance=ExtResource("3_fnoii")]
 position = Vector2(-4, 127)
+
+[node name="Camera" parent="." instance=ExtResource("4_7yl6r")]

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dqmo6o8qlg64q"
+path="res://.godot/imported/Chatter part 1.mp3-cec622783b04f29168a7f876aabe8326.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 7 SFX - Attack Moves - SUMO, USUM/Chatter part 1.mp3"
+dest_files=["res://.godot/imported/Chatter part 1.mp3-cec622783b04f29168a7f876aabe8326.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

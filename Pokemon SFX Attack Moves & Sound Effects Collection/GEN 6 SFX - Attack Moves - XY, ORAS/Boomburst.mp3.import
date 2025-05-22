@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bf4t4j26gdu6p"
+path="res://.godot/imported/Boomburst.mp3-f8d1fd72e1d5b0b8248188ac922335f8.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 6 SFX - Attack Moves - XY, ORAS/Boomburst.mp3"
+dest_files=["res://.godot/imported/Boomburst.mp3-f8d1fd72e1d5b0b8248188ac922335f8.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

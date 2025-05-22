@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://pnjoonv28pw"
+path="res://.godot/imported/Dive part 1.mp3-179ed19ad3b8d1533916a9be95e075bc.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 7 SFX - Attack Moves - SUMO, USUM/Dive part 1.mp3"
+dest_files=["res://.godot/imported/Dive part 1.mp3-179ed19ad3b8d1533916a9be95e075bc.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

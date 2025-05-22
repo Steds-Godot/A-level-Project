@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bu1m4j7qxyl4g"
+path="res://.godot/imported/Haze.mp3-1ac1c02ebe8b6462a657c592b340517b.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 7 SFX - Attack Moves - SUMO, USUM/Haze.mp3"
+dest_files=["res://.godot/imported/Haze.mp3-1ac1c02ebe8b6462a657c592b340517b.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

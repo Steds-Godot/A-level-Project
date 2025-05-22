@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://co5axx60qglh"
+path="res://.godot/imported/Judgment part 2.mp3-043436bd3be58be741641f7183a43c7b.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 4 SFX - Attack Moves - DPPL, HG, SS/Judgment part 2.mp3"
+dest_files=["res://.godot/imported/Judgment part 2.mp3-043436bd3be58be741641f7183a43c7b.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

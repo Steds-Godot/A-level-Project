@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://ce3kslf3hcxco"
+path="res://.godot/imported/TriAttack2.wav-2a599d0e25fadcf82ca03b6e5a58fdba.sample"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 1 SFX - Attack Moves - RBY/TriAttack2.wav"
+dest_files=["res://.godot/imported/TriAttack2.wav-2a599d0e25fadcf82ca03b6e5a58fdba.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

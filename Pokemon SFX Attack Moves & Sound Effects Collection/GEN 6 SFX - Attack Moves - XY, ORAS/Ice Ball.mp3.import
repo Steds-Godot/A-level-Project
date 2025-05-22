@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://j4snahd0f1og"
+path="res://.godot/imported/Ice Ball.mp3-8ccdcec62fc23caed4df634c6b1f6d09.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 6 SFX - Attack Moves - XY, ORAS/Ice Ball.mp3"
+dest_files=["res://.godot/imported/Ice Ball.mp3-8ccdcec62fc23caed4df634c6b1f6d09.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

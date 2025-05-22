@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://4mv46gt4pn0l"
+path="res://.godot/imported/Thief.mp3-6f864fb7dde7eea15928e48d4857048f.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 4 SFX - Attack Moves - DPPL, HG, SS/Thief.mp3"
+dest_files=["res://.godot/imported/Thief.mp3-6f864fb7dde7eea15928e48d4857048f.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

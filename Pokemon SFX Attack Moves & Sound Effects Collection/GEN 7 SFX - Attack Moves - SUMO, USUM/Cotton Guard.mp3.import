@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cmagrk122s1nu"
+path="res://.godot/imported/Cotton Guard.mp3-12ef48a050e2390c75010b44a981a0aa.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 7 SFX - Attack Moves - SUMO, USUM/Cotton Guard.mp3"
+dest_files=["res://.godot/imported/Cotton Guard.mp3-12ef48a050e2390c75010b44a981a0aa.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

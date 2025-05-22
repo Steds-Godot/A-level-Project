@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cmo60a7ro45cd"
+path="res://.godot/imported/Icy Wind.mp3-06c69aeba4ba19d71a9651fced87aa42.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 5 SFX - Attack Moves - BLK, WHT, BLK2, WHT2/Icy Wind.mp3"
+dest_files=["res://.godot/imported/Icy Wind.mp3-06c69aeba4ba19d71a9651fced87aa42.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

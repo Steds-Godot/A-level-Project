@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://g6r0n0euvemr"
+path="res://.godot/imported/SleepPowder.wav-6a22bec649f55f07c47eb4644739af04.sample"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 2 SFX - Attack Moves - GSC/SleepPowder.wav"
+dest_files=["res://.godot/imported/SleepPowder.wav-6a22bec649f55f07c47eb4644739af04.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

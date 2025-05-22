@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dum52ybkjq8sb"
+path="res://.godot/imported/Reflect.mp3-3cf9bbfd4f09ba58e328a0065550ecd2.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 5 SFX - Attack Moves - BLK, WHT, BLK2, WHT2/Reflect.mp3"
+dest_files=["res://.godot/imported/Reflect.mp3-3cf9bbfd4f09ba58e328a0065550ecd2.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

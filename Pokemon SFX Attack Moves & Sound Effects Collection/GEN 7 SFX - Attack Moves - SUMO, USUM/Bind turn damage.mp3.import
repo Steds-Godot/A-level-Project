@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://ylmt0gcthwhy"
+path="res://.godot/imported/Bind turn damage.mp3-a03f318d05980de926c90e316d789f87.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 7 SFX - Attack Moves - SUMO, USUM/Bind turn damage.mp3"
+dest_files=["res://.godot/imported/Bind turn damage.mp3-a03f318d05980de926c90e316d789f87.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

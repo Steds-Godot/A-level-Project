@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://b55l78sinpjxp"
+path="res://.godot/imported/Dig part 2.mp3-097685c5afbfab1e1744b8c1da4f0c37.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 3 SFX - Attack Moves - RSE, FR, LG/Dig part 2.mp3"
+dest_files=["res://.godot/imported/Dig part 2.mp3-097685c5afbfab1e1744b8c1da4f0c37.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

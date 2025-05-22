@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cfqnh2lnmb638"
+path="res://.godot/imported/Mean Look.mp3-07dffe3f6eda8425b52a851f69f9e19d.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 5 SFX - Attack Moves - BLK, WHT, BLK2, WHT2/Mean Look.mp3"
+dest_files=["res://.godot/imported/Mean Look.mp3-07dffe3f6eda8425b52a851f69f9e19d.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

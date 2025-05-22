@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://d0xpu6wfbpwu5"
+path="res://.godot/imported/Aurora Beam.mp3-4c2e8c66439dadcb8a4f4c67fcf4e380.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 6 SFX - Attack Moves - XY, ORAS/Aurora Beam.mp3"
+dest_files=["res://.godot/imported/Aurora Beam.mp3-4c2e8c66439dadcb8a4f4c67fcf4e380.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

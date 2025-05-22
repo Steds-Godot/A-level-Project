@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dghg5ig2mg754"
+path="res://.godot/imported/Facade.mp3-4c7e7d4064bf96854a25ba33ab844f67.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 7 SFX - Attack Moves - SUMO, USUM/Facade.mp3"
+dest_files=["res://.godot/imported/Facade.mp3-4c7e7d4064bf96854a25ba33ab844f67.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

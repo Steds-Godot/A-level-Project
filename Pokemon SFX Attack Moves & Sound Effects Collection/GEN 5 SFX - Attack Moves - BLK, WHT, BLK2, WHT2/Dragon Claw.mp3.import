@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bew1bt3ce3rcx"
+path="res://.godot/imported/Dragon Claw.mp3-d25bf667cb5306d34a1af722dca95117.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 5 SFX - Attack Moves - BLK, WHT, BLK2, WHT2/Dragon Claw.mp3"
+dest_files=["res://.godot/imported/Dragon Claw.mp3-d25bf667cb5306d34a1af722dca95117.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

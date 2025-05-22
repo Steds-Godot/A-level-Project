@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://uqqbmi080dpm"
+path="res://.godot/imported/Amnesia.mp3-3bf2ba4610c9bd720f7f5846b4b43890.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 5 SFX - Attack Moves - BLK, WHT, BLK2, WHT2/Amnesia.mp3"
+dest_files=["res://.godot/imported/Amnesia.mp3-3bf2ba4610c9bd720f7f5846b4b43890.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://wfj7ytci3fl3"
+path="res://.godot/imported/In-Battle Heal HP Restore.mp3-46e77fdf8004f90824f7a7d115b11412.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 6 SFX - Attack Moves - XY, ORAS/In-Battle Heal HP Restore.mp3"
+dest_files=["res://.godot/imported/In-Battle Heal HP Restore.mp3-46e77fdf8004f90824f7a7d115b11412.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

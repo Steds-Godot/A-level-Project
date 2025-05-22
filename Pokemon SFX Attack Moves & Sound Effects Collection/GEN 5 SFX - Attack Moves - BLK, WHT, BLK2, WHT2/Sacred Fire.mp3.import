@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://c1n3lkc52ux6w"
+path="res://.godot/imported/Sacred Fire.mp3-7c1339a8a21f84da6a8d96fea20cbd7b.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 5 SFX - Attack Moves - BLK, WHT, BLK2, WHT2/Sacred Fire.mp3"
+dest_files=["res://.godot/imported/Sacred Fire.mp3-7c1339a8a21f84da6a8d96fea20cbd7b.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

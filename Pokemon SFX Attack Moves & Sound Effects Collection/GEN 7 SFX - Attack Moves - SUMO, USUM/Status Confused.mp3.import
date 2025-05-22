@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://031h2m65vprr"
+path="res://.godot/imported/Status Confused.mp3-c96a454596837d500af8765601c19aee.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 7 SFX - Attack Moves - SUMO, USUM/Status Confused.mp3"
+dest_files=["res://.godot/imported/Status Confused.mp3-c96a454596837d500af8765601c19aee.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

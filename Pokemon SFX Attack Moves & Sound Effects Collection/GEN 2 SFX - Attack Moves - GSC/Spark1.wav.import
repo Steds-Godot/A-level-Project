@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cc3w6d6m3cchu"
+path="res://.godot/imported/Spark1.wav-018e46c5b5d28a1b95b85e2312a51f22.sample"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 2 SFX - Attack Moves - GSC/Spark1.wav"
+dest_files=["res://.godot/imported/Spark1.wav-018e46c5b5d28a1b95b85e2312a51f22.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://nwnp0ja77h5r"
+path="res://.godot/imported/In-Battle Ability Activate.mp3-db52cf09f6960d9d0477f70364e79a71.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 6 SFX - Attack Moves - XY, ORAS/In-Battle Ability Activate.mp3"
+dest_files=["res://.godot/imported/In-Battle Ability Activate.mp3-db52cf09f6960d9d0477f70364e79a71.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cvf5cic84c03p"
+path="res://.godot/imported/Razor Leaf.mp3-86683da2405a6c5238fc51f3c748ae09.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 4 SFX - Attack Moves - DPPL, HG, SS/Razor Leaf.mp3"
+dest_files=["res://.godot/imported/Razor Leaf.mp3-86683da2405a6c5238fc51f3c748ae09.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

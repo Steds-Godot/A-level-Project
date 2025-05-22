@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dnfedm0eqgqev"
+path="res://.godot/imported/RollingKick.wav-0edd7498dac40fc418cdb7d2ccb8d38f.sample"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 1 SFX - Attack Moves - RBY/RollingKick.wav"
+dest_files=["res://.godot/imported/RollingKick.wav-0edd7498dac40fc418cdb7d2ccb8d38f.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

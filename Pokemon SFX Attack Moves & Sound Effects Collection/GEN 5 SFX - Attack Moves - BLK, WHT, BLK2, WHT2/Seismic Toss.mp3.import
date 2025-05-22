@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://c72pvidusiw0n"
+path="res://.godot/imported/Seismic Toss.mp3-b11ee124b61cd49505e1c94e02027fcb.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 5 SFX - Attack Moves - BLK, WHT, BLK2, WHT2/Seismic Toss.mp3"
+dest_files=["res://.godot/imported/Seismic Toss.mp3-b11ee124b61cd49505e1c94e02027fcb.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

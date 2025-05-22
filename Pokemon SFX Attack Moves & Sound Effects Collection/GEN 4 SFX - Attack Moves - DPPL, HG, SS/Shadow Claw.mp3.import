@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cuctc0bd7iyvy"
+path="res://.godot/imported/Shadow Claw.mp3-35b78785bc7b18db39e9bef8c5fcba08.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 4 SFX - Attack Moves - DPPL, HG, SS/Shadow Claw.mp3"
+dest_files=["res://.godot/imported/Shadow Claw.mp3-35b78785bc7b18db39e9bef8c5fcba08.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

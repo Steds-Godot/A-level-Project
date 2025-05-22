@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://c105obs4ei3yp"
+path="res://.godot/imported/Sonic Boom.mp3-d919298d71eaaffb5a64c722eabc6ab1.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 4 SFX - Attack Moves - DPPL, HG, SS/Sonic Boom.mp3"
+dest_files=["res://.godot/imported/Sonic Boom.mp3-d919298d71eaaffb5a64c722eabc6ab1.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

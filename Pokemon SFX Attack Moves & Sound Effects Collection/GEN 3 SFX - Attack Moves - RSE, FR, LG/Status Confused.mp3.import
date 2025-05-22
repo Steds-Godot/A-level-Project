@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bxe1vlebfcigt"
+path="res://.godot/imported/Status Confused.mp3-894f1cfa8b32f00a485398a89b0e03a1.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 3 SFX - Attack Moves - RSE, FR, LG/Status Confused.mp3"
+dest_files=["res://.godot/imported/Status Confused.mp3-894f1cfa8b32f00a485398a89b0e03a1.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

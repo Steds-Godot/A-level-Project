@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://deabw5w2a07yu"
+path="res://.godot/imported/Thunder Punch.mp3-3baffecfb14d800ca75aa28ccfd5ff00.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 6 SFX - Attack Moves - XY, ORAS/Thunder Punch.mp3"
+dest_files=["res://.godot/imported/Thunder Punch.mp3-3baffecfb14d800ca75aa28ccfd5ff00.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

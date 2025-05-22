@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://b1j2ray3n5w0c"
+path="res://.godot/imported/Bullet Punch.mp3-0e799ec33a632224470df2c9efec6753.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 7 SFX - Attack Moves - SUMO, USUM/Bullet Punch.mp3"
+dest_files=["res://.godot/imported/Bullet Punch.mp3-0e799ec33a632224470df2c9efec6753.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

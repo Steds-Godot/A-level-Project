@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bqlnohwir5bh7"
+path="res://.godot/imported/Pay Day.mp3-c4be966a3e8881cc6bd28ab4a9ffe068.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 3 SFX - Attack Moves - RSE, FR, LG/Pay Day.mp3"
+dest_files=["res://.godot/imported/Pay Day.mp3-c4be966a3e8881cc6bd28ab4a9ffe068.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

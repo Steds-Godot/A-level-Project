@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://c5jowi60nniwb"
+path="res://.godot/imported/Hold Back.mp3-9293fc9e0511ed823dfe2e0e4522ce1f.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 6 SFX - Attack Moves - XY, ORAS/Hold Back.mp3"
+dest_files=["res://.godot/imported/Hold Back.mp3-9293fc9e0511ed823dfe2e0e4522ce1f.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

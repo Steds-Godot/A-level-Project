@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cc1hmtrqpvr71"
+path="res://.godot/imported/Chip Away.mp3-9007ffdede6e722c9f37fef4192497d2.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 6 SFX - Attack Moves - XY, ORAS/Chip Away.mp3"
+dest_files=["res://.godot/imported/Chip Away.mp3-9007ffdede6e722c9f37fef4192497d2.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

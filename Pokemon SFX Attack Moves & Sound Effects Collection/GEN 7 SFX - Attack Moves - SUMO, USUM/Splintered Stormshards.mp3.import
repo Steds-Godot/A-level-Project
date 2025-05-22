@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://daw5k36lnjvmw"
+path="res://.godot/imported/Splintered Stormshards.mp3-712949d003fb22d69e0705ef4d5df49f.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 7 SFX - Attack Moves - SUMO, USUM/Splintered Stormshards.mp3"
+dest_files=["res://.godot/imported/Splintered Stormshards.mp3-712949d003fb22d69e0705ef4d5df49f.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://curxlwbsof244"
+path="res://.godot/imported/Poison Jab.mp3-98b6fa976ea4a8f80c754d443449d7f5.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 4 SFX - Attack Moves - DPPL, HG, SS/Poison Jab.mp3"
+dest_files=["res://.godot/imported/Poison Jab.mp3-98b6fa976ea4a8f80c754d443449d7f5.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

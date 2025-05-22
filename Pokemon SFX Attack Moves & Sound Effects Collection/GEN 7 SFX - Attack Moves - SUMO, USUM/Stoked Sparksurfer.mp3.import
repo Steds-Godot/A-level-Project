@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bpfwc2j1sc3qs"
+path="res://.godot/imported/Stoked Sparksurfer.mp3-60e1f0ef8badd349df8a8d4a4535d9dc.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 7 SFX - Attack Moves - SUMO, USUM/Stoked Sparksurfer.mp3"
+dest_files=["res://.godot/imported/Stoked Sparksurfer.mp3-60e1f0ef8badd349df8a8d4a4535d9dc.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

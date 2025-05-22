@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cf1xboyxsoctd"
+path="res://.godot/imported/Aeroblast.mp3-a8343cf5cfb5980dddb1ba843a72bb93.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 7 SFX - Attack Moves - SUMO, USUM/Aeroblast.mp3"
+dest_files=["res://.godot/imported/Aeroblast.mp3-a8343cf5cfb5980dddb1ba843a72bb93.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

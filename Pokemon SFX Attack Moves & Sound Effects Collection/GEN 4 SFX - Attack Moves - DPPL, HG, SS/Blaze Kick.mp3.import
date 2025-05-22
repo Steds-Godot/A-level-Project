@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://coic3131nnac7"
+path="res://.godot/imported/Blaze Kick.mp3-828a6c0c2ee54c530cb7c64dac2f1d29.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 4 SFX - Attack Moves - DPPL, HG, SS/Blaze Kick.mp3"
+dest_files=["res://.godot/imported/Blaze Kick.mp3-828a6c0c2ee54c530cb7c64dac2f1d29.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

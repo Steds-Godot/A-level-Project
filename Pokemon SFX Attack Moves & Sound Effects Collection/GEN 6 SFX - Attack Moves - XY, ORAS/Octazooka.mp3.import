@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://ded883wkdpkdv"
+path="res://.godot/imported/Octazooka.mp3-3c5310291c79ca5cfe5229ebadc96304.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 6 SFX - Attack Moves - XY, ORAS/Octazooka.mp3"
+dest_files=["res://.godot/imported/Octazooka.mp3-3c5310291c79ca5cfe5229ebadc96304.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

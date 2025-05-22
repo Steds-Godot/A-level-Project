@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://tyff5o4t61ln"
+path="res://.godot/imported/Frenzy Plant.mp3-364d6828f82a72d5d2599eb59eb0d3b4.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 6 SFX - Attack Moves - XY, ORAS/Frenzy Plant.mp3"
+dest_files=["res://.godot/imported/Frenzy Plant.mp3-364d6828f82a72d5d2599eb59eb0d3b4.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cwkhhdkyrgj1s"
+path="res://.godot/imported/Nature's Madness.mp3-49f6689f952830d344cc010b584bc61b.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 7 SFX - Attack Moves - SUMO, USUM/Nature's Madness.mp3"
+dest_files=["res://.godot/imported/Nature's Madness.mp3-49f6689f952830d344cc010b584bc61b.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

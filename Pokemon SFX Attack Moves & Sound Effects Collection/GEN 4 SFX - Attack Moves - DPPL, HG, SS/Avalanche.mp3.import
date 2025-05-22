@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cse8a1xjirgk5"
+path="res://.godot/imported/Avalanche.mp3-28f102a3a12685da88f52d385d99cdb7.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 4 SFX - Attack Moves - DPPL, HG, SS/Avalanche.mp3"
+dest_files=["res://.godot/imported/Avalanche.mp3-28f102a3a12685da88f52d385d99cdb7.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

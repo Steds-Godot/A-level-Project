@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://buxv1w5phio15"
+path="res://.godot/imported/Psybeam.mp3-ea9eca67b1961fb219e2f28b2b7b166b.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 7 SFX - Attack Moves - SUMO, USUM/Psybeam.mp3"
+dest_files=["res://.godot/imported/Psybeam.mp3-ea9eca67b1961fb219e2f28b2b7b166b.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

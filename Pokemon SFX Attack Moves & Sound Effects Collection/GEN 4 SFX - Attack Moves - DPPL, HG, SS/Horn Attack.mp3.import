@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://tied5vt54m2l"
+path="res://.godot/imported/Horn Attack.mp3-95b0affed4e5a1376ec6be04397e5b73.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 4 SFX - Attack Moves - DPPL, HG, SS/Horn Attack.mp3"
+dest_files=["res://.godot/imported/Horn Attack.mp3-95b0affed4e5a1376ec6be04397e5b73.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

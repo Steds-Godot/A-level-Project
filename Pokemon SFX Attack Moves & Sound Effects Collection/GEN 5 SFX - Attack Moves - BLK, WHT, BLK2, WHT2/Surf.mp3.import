@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dyj78fy7u1cyy"
+path="res://.godot/imported/Surf.mp3-5147c1522b7c349189de8a3baf3d0376.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 5 SFX - Attack Moves - BLK, WHT, BLK2, WHT2/Surf.mp3"
+dest_files=["res://.godot/imported/Surf.mp3-5147c1522b7c349189de8a3baf3d0376.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

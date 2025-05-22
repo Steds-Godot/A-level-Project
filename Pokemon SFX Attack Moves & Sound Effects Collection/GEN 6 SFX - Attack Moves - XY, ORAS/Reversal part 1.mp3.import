@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bjykpg1joy343"
+path="res://.godot/imported/Reversal part 1.mp3-8d67e62a4cc48f2db5f27e0a16a6f402.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 6 SFX - Attack Moves - XY, ORAS/Reversal part 1.mp3"
+dest_files=["res://.godot/imported/Reversal part 1.mp3-8d67e62a4cc48f2db5f27e0a16a6f402.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

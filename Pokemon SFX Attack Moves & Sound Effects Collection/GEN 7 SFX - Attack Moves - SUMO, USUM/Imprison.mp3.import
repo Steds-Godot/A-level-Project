@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://w4hjtl6fdut"
+path="res://.godot/imported/Imprison.mp3-5ce9e3e00e55f4431520f3983e86f14d.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 7 SFX - Attack Moves - SUMO, USUM/Imprison.mp3"
+dest_files=["res://.godot/imported/Imprison.mp3-5ce9e3e00e55f4431520f3983e86f14d.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

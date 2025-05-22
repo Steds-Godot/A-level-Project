@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://b4ccoxa7gf1mr"
+path="res://.godot/imported/Water Spout.mp3-e1771c4df461d5bf7d7cb10b6b398beb.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 4 SFX - Attack Moves - DPPL, HG, SS/Water Spout.mp3"
+dest_files=["res://.godot/imported/Water Spout.mp3-e1771c4df461d5bf7d7cb10b6b398beb.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

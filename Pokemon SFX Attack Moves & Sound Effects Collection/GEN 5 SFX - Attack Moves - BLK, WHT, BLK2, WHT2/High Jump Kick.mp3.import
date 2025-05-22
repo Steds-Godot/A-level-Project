@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://chxk5bk7xmyho"
+path="res://.godot/imported/High Jump Kick.mp3-d97a9193c56efc3800a0eb9cebf83fc9.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 5 SFX - Attack Moves - BLK, WHT, BLK2, WHT2/High Jump Kick.mp3"
+dest_files=["res://.godot/imported/High Jump Kick.mp3-d97a9193c56efc3800a0eb9cebf83fc9.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://be6qlrc0ckyiq"
+path="res://.godot/imported/Scald.mp3-50c273d49b363dbc3214dece8f7a2400.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 7 SFX - Attack Moves - SUMO, USUM/Scald.mp3"
+dest_files=["res://.godot/imported/Scald.mp3-50c273d49b363dbc3214dece8f7a2400.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

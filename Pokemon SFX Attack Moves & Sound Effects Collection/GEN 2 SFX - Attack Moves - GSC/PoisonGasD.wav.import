@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cshagdrwyd1uo"
+path="res://.godot/imported/PoisonGasD.wav-5d01706afc94ae6a9a9e505c2c1c43bb.sample"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 2 SFX - Attack Moves - GSC/PoisonGasD.wav"
+dest_files=["res://.godot/imported/PoisonGasD.wav-5d01706afc94ae6a9a9e505c2c1c43bb.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

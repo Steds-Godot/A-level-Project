@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bapeqhcgjx6dt"
+path="res://.godot/imported/Super Fang.mp3-e60f47a241fafb2b2584b2b6193a39aa.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 7 SFX - Attack Moves - SUMO, USUM/Super Fang.mp3"
+dest_files=["res://.godot/imported/Super Fang.mp3-e60f47a241fafb2b2584b2b6193a39aa.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

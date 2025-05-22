@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://ciudlnkace2m5"
+path="res://.godot/imported/Metronome.mp3-2ac4c0ee53d13a4756ddc8f7aaeb70cf.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 4 SFX - Attack Moves - DPPL, HG, SS/Metronome.mp3"
+dest_files=["res://.godot/imported/Metronome.mp3-2ac4c0ee53d13a4756ddc8f7aaeb70cf.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

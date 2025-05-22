@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bn2kfvxn4ptop"
+path="res://.godot/imported/Night Daze.mp3-56bf8c140a2084c1cb95b3705d849295.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 7 SFX - Attack Moves - SUMO, USUM/Night Daze.mp3"
+dest_files=["res://.godot/imported/Night Daze.mp3-56bf8c140a2084c1cb95b3705d849295.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

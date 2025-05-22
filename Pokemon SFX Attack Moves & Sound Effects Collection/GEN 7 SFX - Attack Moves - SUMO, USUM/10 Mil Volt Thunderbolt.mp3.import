@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://yisnofww301e"
+path="res://.godot/imported/10 Mil Volt Thunderbolt.mp3-a5bf1f684c75d51bfd8b59f7ccea56ba.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 7 SFX - Attack Moves - SUMO, USUM/10 Mil Volt Thunderbolt.mp3"
+dest_files=["res://.godot/imported/10 Mil Volt Thunderbolt.mp3-a5bf1f684c75d51bfd8b59f7ccea56ba.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

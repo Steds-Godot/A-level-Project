@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://c2u1eyb3mmswh"
+path="res://.godot/imported/Shadow Bone.mp3-488d877dfab0804040e318e92d7b9625.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 7 SFX - Attack Moves - SUMO, USUM/Shadow Bone.mp3"
+dest_files=["res://.godot/imported/Shadow Bone.mp3-488d877dfab0804040e318e92d7b9625.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

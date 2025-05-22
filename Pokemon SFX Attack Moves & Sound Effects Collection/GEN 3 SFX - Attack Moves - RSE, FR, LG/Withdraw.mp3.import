@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bex7dmhhqass3"
+path="res://.godot/imported/Withdraw.mp3-4881ca557b7edc33c47d7f66092b89e8.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 3 SFX - Attack Moves - RSE, FR, LG/Withdraw.mp3"
+dest_files=["res://.godot/imported/Withdraw.mp3-4881ca557b7edc33c47d7f66092b89e8.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cq13ajgj40ack"
+path="res://.godot/imported/Whirlpool turn damage.mp3-2e4608901236d08381950b6ef988e0be.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 6 SFX - Attack Moves - XY, ORAS/Whirlpool turn damage.mp3"
+dest_files=["res://.godot/imported/Whirlpool turn damage.mp3-2e4608901236d08381950b6ef988e0be.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

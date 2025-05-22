@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dire2bnjl6h82"
+path="res://.godot/imported/Eerie Impulse part 1.mp3-2ea8537198bd20ae5c496ab928e1d1eb.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 6 SFX - Attack Moves - XY, ORAS/Eerie Impulse part 1.mp3"
+dest_files=["res://.godot/imported/Eerie Impulse part 1.mp3-2ea8537198bd20ae5c496ab928e1d1eb.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

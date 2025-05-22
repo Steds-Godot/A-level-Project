@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bag4gstcv7r47"
+path="res://.godot/imported/Dragon Rage.mp3-41315b69d7eea4c7672d8188aa74c409.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 4 SFX - Attack Moves - DPPL, HG, SS/Dragon Rage.mp3"
+dest_files=["res://.godot/imported/Dragon Rage.mp3-41315b69d7eea4c7672d8188aa74c409.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

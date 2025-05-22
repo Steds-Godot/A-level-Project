@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bywrci2i8fgf4"
+path="res://.godot/imported/Mud Slap.mp3-2d8852bb82d54d0bc64c4e5a5dfec341.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 4 SFX - Attack Moves - DPPL, HG, SS/Mud Slap.mp3"
+dest_files=["res://.godot/imported/Mud Slap.mp3-2d8852bb82d54d0bc64c4e5a5dfec341.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

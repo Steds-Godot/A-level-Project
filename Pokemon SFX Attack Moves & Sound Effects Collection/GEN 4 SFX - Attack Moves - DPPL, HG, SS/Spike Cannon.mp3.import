@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cq4i7hlvd07pt"
+path="res://.godot/imported/Spike Cannon.mp3-ac8d56b932f48aaf3ad26a4bc62634e0.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 4 SFX - Attack Moves - DPPL, HG, SS/Spike Cannon.mp3"
+dest_files=["res://.godot/imported/Spike Cannon.mp3-ac8d56b932f48aaf3ad26a4bc62634e0.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

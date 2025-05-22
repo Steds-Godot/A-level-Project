@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cyooxojdf7mlc"
+path="res://.godot/imported/Shadow Ball.mp3-1b5b7179b02b8e71a5d5e5d7aa3e2ee4.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 4 SFX - Attack Moves - DPPL, HG, SS/Shadow Ball.mp3"
+dest_files=["res://.godot/imported/Shadow Ball.mp3-1b5b7179b02b8e71a5d5e5d7aa3e2ee4.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

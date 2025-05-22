@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://byaxbrqebrk1g"
+path="res://.godot/imported/V-create.mp3-2395e0b20c605d79aa9aaeb3df84b56a.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 7 SFX - Attack Moves - SUMO, USUM/V-create.mp3"
+dest_files=["res://.godot/imported/V-create.mp3-2395e0b20c605d79aa9aaeb3df84b56a.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

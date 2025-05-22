@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bq5u2meuvmx5a"
+path="res://.godot/imported/Camouflage.mp3-be569ba2d4f5a0eaa7b2d3650e95de47.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 5 SFX - Attack Moves - BLK, WHT, BLK2, WHT2/Camouflage.mp3"
+dest_files=["res://.godot/imported/Camouflage.mp3-be569ba2d4f5a0eaa7b2d3650e95de47.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

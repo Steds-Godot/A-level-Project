@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dl4sc3qj7ko46"
+path="res://.godot/imported/Acupressure.mp3-385084e89972e68fcad908eb318cd181.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 6 SFX - Attack Moves - XY, ORAS/Acupressure.mp3"
+dest_files=["res://.godot/imported/Acupressure.mp3-385084e89972e68fcad908eb318cd181.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

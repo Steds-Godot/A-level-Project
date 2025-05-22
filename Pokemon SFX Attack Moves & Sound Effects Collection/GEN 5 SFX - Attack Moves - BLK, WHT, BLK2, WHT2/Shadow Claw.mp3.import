@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://5u843ako0jdc"
+path="res://.godot/imported/Shadow Claw.mp3-f8ecf2744d182d661cbe0fa833102ed5.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 5 SFX - Attack Moves - BLK, WHT, BLK2, WHT2/Shadow Claw.mp3"
+dest_files=["res://.godot/imported/Shadow Claw.mp3-f8ecf2744d182d661cbe0fa833102ed5.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

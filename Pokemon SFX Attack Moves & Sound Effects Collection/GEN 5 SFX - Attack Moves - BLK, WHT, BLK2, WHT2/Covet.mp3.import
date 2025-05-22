@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cfpbt8xaep0qb"
+path="res://.godot/imported/Covet.mp3-d5f2253d6d508cc607bbd1980c1e08be.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 5 SFX - Attack Moves - BLK, WHT, BLK2, WHT2/Covet.mp3"
+dest_files=["res://.godot/imported/Covet.mp3-d5f2253d6d508cc607bbd1980c1e08be.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

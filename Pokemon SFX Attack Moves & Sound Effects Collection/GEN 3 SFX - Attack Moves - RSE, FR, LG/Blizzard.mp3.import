@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cvx0s0wqiowi1"
+path="res://.godot/imported/Blizzard.mp3-f3004b3f7131e70f3e534bcb9be728ec.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 3 SFX - Attack Moves - RSE, FR, LG/Blizzard.mp3"
+dest_files=["res://.godot/imported/Blizzard.mp3-f3004b3f7131e70f3e534bcb9be728ec.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

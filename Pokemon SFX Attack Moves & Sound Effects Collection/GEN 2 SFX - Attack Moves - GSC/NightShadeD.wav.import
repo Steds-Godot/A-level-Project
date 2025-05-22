@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://c4raqlk7h2d8a"
+path="res://.godot/imported/NightShadeD.wav-2b072f56ab0f059c74b44ac0558814cf.sample"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 2 SFX - Attack Moves - GSC/NightShadeD.wav"
+dest_files=["res://.godot/imported/NightShadeD.wav-2b072f56ab0f059c74b44ac0558814cf.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

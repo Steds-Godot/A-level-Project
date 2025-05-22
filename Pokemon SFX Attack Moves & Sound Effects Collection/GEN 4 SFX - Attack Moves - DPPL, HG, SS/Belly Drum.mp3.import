@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bo8b286wmyx75"
+path="res://.godot/imported/Belly Drum.mp3-8a854bec5ee66733acc05ec54dd6437a.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 4 SFX - Attack Moves - DPPL, HG, SS/Belly Drum.mp3"
+dest_files=["res://.godot/imported/Belly Drum.mp3-8a854bec5ee66733acc05ec54dd6437a.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

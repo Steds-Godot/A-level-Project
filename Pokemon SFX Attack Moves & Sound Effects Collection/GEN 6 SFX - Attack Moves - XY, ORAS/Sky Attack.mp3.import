@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://csqxmxfsntmen"
+path="res://.godot/imported/Sky Attack.mp3-b2a9169c0f1fe0f3f874b17fec859093.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 6 SFX - Attack Moves - XY, ORAS/Sky Attack.mp3"
+dest_files=["res://.godot/imported/Sky Attack.mp3-b2a9169c0f1fe0f3f874b17fec859093.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

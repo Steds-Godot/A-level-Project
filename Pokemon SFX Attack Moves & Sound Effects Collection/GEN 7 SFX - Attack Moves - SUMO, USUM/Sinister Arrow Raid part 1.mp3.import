@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cbjwsu6js87x3"
+path="res://.godot/imported/Sinister Arrow Raid part 1.mp3-f197741af8c3461cd267382738892c51.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 7 SFX - Attack Moves - SUMO, USUM/Sinister Arrow Raid part 1.mp3"
+dest_files=["res://.godot/imported/Sinister Arrow Raid part 1.mp3-f197741af8c3461cd267382738892c51.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

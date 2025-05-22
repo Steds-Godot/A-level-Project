@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dmv80rbfdj16j"
+path="res://.godot/imported/Fly part 1.mp3-be2e0c2ca0057c07509fe3e4fd587d13.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 6 SFX - Attack Moves - XY, ORAS/Fly part 1.mp3"
+dest_files=["res://.godot/imported/Fly part 1.mp3-be2e0c2ca0057c07509fe3e4fd587d13.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

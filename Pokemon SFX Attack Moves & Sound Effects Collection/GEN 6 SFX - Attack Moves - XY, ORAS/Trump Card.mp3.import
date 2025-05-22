@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://b3f8w3ioweo2y"
+path="res://.godot/imported/Trump Card.mp3-1aaccab84fe926089fab53475377f5db.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 6 SFX - Attack Moves - XY, ORAS/Trump Card.mp3"
+dest_files=["res://.godot/imported/Trump Card.mp3-1aaccab84fe926089fab53475377f5db.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://fewvds5e0kif"
+path="res://.godot/imported/AuroraBeamD.wav-40b08bae8e65f78f6fcf695d1527a885.sample"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 2 SFX - Attack Moves - GSC/AuroraBeamD.wav"
+dest_files=["res://.godot/imported/AuroraBeamD.wav-40b08bae8e65f78f6fcf695d1527a885.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

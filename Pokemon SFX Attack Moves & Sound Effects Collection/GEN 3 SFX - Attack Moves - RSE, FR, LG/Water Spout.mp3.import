@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cm1c4xd5ekh2q"
+path="res://.godot/imported/Water Spout.mp3-96e3345fd407ba6866cae3f37ae2cabe.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 3 SFX - Attack Moves - RSE, FR, LG/Water Spout.mp3"
+dest_files=["res://.godot/imported/Water Spout.mp3-96e3345fd407ba6866cae3f37ae2cabe.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

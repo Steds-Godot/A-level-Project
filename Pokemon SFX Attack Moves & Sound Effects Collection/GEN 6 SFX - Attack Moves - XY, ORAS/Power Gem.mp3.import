@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://3ua5yuf8qi3f"
+path="res://.godot/imported/Power Gem.mp3-d9d1b4be53b415e6ef84ccd13542aa7c.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 6 SFX - Attack Moves - XY, ORAS/Power Gem.mp3"
+dest_files=["res://.godot/imported/Power Gem.mp3-d9d1b4be53b415e6ef84ccd13542aa7c.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

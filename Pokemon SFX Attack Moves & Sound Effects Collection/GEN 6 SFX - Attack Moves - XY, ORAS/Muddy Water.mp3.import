@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bc522nbswke2e"
+path="res://.godot/imported/Muddy Water.mp3-b0a47f6f2ca27171c237b922e593f220.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 6 SFX - Attack Moves - XY, ORAS/Muddy Water.mp3"
+dest_files=["res://.godot/imported/Muddy Water.mp3-b0a47f6f2ca27171c237b922e593f220.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

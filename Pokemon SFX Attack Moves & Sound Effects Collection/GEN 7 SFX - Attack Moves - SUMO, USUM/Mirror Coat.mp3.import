@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://c7mqse1k1d8uh"
+path="res://.godot/imported/Mirror Coat.mp3-88b821bb3339442454c73ab0fb574a90.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 7 SFX - Attack Moves - SUMO, USUM/Mirror Coat.mp3"
+dest_files=["res://.godot/imported/Mirror Coat.mp3-88b821bb3339442454c73ab0fb574a90.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

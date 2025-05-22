@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://wjj1f0ojdmtu"
+path="res://.godot/imported/Clear Smog.mp3-520626dde423e757cf68383037d5bbbc.mp3str"
+
+[deps]
+
+source_file="res://Pokemon SFX Attack Moves & Sound Effects Collection/GEN 5 SFX - Attack Moves - BLK, WHT, BLK2, WHT2/Clear Smog.mp3"
+dest_files=["res://.godot/imported/Clear Smog.mp3-520626dde423e757cf68383037d5bbbc.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
