@@ -5,6 +5,7 @@
 [ext_resource type="FontFile" uid="uid://bv0issg5tqjyv" path="res://pokemon-dp-pro.otf" id="3_758ep"]
 
 [node name="Dialogue" type="Control"]
+visible = false
 layout_mode = 3
 anchors_preset = 7
 anchor_left = 0.5

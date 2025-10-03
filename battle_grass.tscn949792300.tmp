@@ -1,12 +1,10 @@
-[gd_scene load_steps=15 format=3 uid="uid://dwpmgo1c7e2ym"]
+[gd_scene load_steps=13 format=3 uid="uid://dwpmgo1c7e2ym"]
 
 [ext_resource type="Texture2D" uid="uid://dk1vw864y5bep" path="res://BATGBLUEGRASSwithhills.png" id="1_pe4c8"]
-[ext_resource type="Script" uid="uid://b55fkdx8lasm7" path="res://player_creature.gd" id="2_d0oxo"]
 [ext_resource type="PackedScene" uid="uid://gwemlk5xhl5t" path="res://player_creature.tscn" id="2_kmeda"]
 [ext_resource type="Texture2D" uid="uid://c2tvlrtm78olh" path="res://HPBarFancy.png" id="2_l7bgt"]
 [ext_resource type="PackedScene" uid="uid://dty7rcrjwmpgh" path="res://enemy_creature.tscn" id="4_4dxai"]
 [ext_resource type="Script" uid="uid://8gkq5j12vc0j" path="res://ui.gd" id="4_gh6tw"]
-[ext_resource type="Script" uid="uid://bpd1l43725plf" path="res://enemy_creature.gd" id="5_cfyra"]
 [ext_resource type="Texture2D" uid="uid://bt5h3vga67jcp" path="res://Battle Buttons.png" id="5_t737v"]
 [ext_resource type="Script" uid="uid://ckdi4885b41yi" path="res://attack_button.gd" id="5_ttyoa"]
 [ext_resource type="AudioStream" uid="uid://b8eu3xunn7ii4" path="res://old-pokemon-battle-music.mp3" id="6_oyo8m"]
@@ -26,7 +24,6 @@ texture = ExtResource("1_pe4c8")
 
 [node name="My_Creature" type="Node2D" parent="."]
 position = Vector2(158, 222)
-script = ExtResource("2_d0oxo")
 
 [node name="Player_Creature" parent="My_Creature" instance=ExtResource("2_kmeda")]
 
@@ -51,7 +48,6 @@ show_percentage = false
 
 [node name="Enemy" type="Node2D" parent="."]
 position = Vector2(472, 101)
-script = ExtResource("5_cfyra")
 
 [node name="Enemy_HP" type="TextureRect" parent="Enemy"]
 offset_left = -157.0
@@ -72,8 +68,7 @@ value = 100.0
 rounded = true
 show_percentage = false
 
-[node name="Enemy_Creature" parent="Enemy/Enemy_HP" instance=ExtResource("4_4dxai")]
-position = Vector2(157, 101)
+[node name="Enemy_Creature" parent="Enemy" instance=ExtResource("4_4dxai")]
 
 [node name="MainUI" type="Control" parent="."]
 layout_mode = 3
@@ -174,6 +169,6 @@ text = "Return
 "
 script = ExtResource("11_sd3ua")
 
-[connection signal="pressed" from="MainUI/AttackButton" to="MainUI/AttackButton" method="_on_pressed"]
+[connection signal="pressed" from="MainUI/AttackButton" to="Attack_Menu/Move_Button" method="_on_attack_button_pressed"]
 [connection signal="pressed" from="Attack_Menu/Move_Button" to="Attack_Menu/Move_Button" method="_on_pressed"]
 [connection signal="pressed" from="Attack_Menu/Return" to="Attack_Menu/Return" method="_on_pressed"]

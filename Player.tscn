@@ -128,7 +128,7 @@ _data = {
 [sub_resource type="CapsuleShape2D" id="CapsuleShape2D_kpjcp"]
 height = 49.9526
 
-[node name="Player" type="CharacterBody2D"]
+[node name="Player" type="CharacterBody2D" groups=["Player"]]
 z_index = 5
 position = Vector2(203, 136)
 script = ExtResource("1_kpjcp")

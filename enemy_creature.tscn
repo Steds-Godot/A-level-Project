@@ -1,7 +1,6 @@
-[gd_scene load_steps=9 format=3 uid="uid://dty7rcrjwmpgh"]
+[gd_scene load_steps=8 format=3 uid="uid://dty7rcrjwmpgh"]
 
 [ext_resource type="Texture2D" uid="uid://d0jp6yjoa0qsc" path="res://Cygnusascended-Sheet.png" id="1_2452g"]
-[ext_resource type="Script" uid="uid://bpd1l43725plf" path="res://enemy_creature.gd" id="1_lm61s"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_utaeq"]
 size = Vector2(59, 66)
@@ -125,7 +124,6 @@ _data = {
 }
 
 [node name="Enemy_Creature" type="StaticBody2D"]
-script = ExtResource("1_lm61s")
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
 position = Vector2(-20, 12)

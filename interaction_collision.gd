@@ -1,28 +1,19 @@
 extends Area2D
 
-var dialogue_scene = preload("res://dialogue.tscn")
-var dialogue = dialogue_scene.instantiate()
-var is_talking = false
-# Called when the node enters the scene tree for the first time.
-func _ready() -> void:
-	pass # Replace with function body.
+@export var dialogue_scene: PackedScene = load("res://Dialogue.tscn")
+var dialogue: Control = null
+var player: CharacterBody2D = null
+var is_talking: bool = false
 
-
-# Called every frame. 'delta' is the elapsed time since the previous frame.
-func _process(delta: float) -> void:
-	pass
-
-
-
-func _on_body_entered(body: CharacterBody2D) -> void:
-	add_child(dialogue)
-	dialogue.position.y = Player.position.y -10
-	print("interaction")
-	is_talking = true
-	pass # Replace with function body.
-
-
-func _on_body_exited(body: CharacterBody2D) -> void:
-	remove_child(dialogue)
-	is_talking = false
-	pass # Replace with function body.
+func _on_body_entered(body: Node) -> void:
+	if is_talking:
+		return
+	if body is CharacterBody2D:
+		is_talking = true
+		player = body
+		#player.set_can_move(false)
+		
+		dialogue = dialogue_scene.instantiate() as Control
+		add_child(dialogue)
+		dialogue.position.y = player.position.y - 10
+		dialogue.start_or_resume(player)
