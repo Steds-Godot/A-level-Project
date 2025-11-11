@@ -1,6 +1,6 @@
-extends Resource
-
 class_name Move
+
+extends Resource
 
 @export var name: String
 @export var type: String

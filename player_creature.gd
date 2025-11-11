@@ -40,7 +40,7 @@ func choose_action(input_action: String, enemy: Node = null) -> void:
 		"defend":
 			state = PlayerState.DEFEND
 			#$MySpriteCreature/AnimationPlayer.play("defend")
-			print(name, " braces for impact, boosting defense temporarily.")
+			print(name, "used defend")
 			defense_power *= 2
 		"heal":
 			state = PlayerState.HEAL
