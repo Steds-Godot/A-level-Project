@@ -1,8 +1,9 @@
-[gd_scene load_steps=5 format=3 uid="uid://y7dowoswfev2"]
+[gd_scene load_steps=6 format=3 uid="uid://y7dowoswfev2"]
 
 [ext_resource type="Texture2D" uid="uid://dyfoldwm7x11s" path="res://Ace_Trainer_m_HGSS_OD.png" id="1_ideak"]
 [ext_resource type="Script" uid="uid://olnmo6wmltoy" path="res://npc.gd" id="1_kh24r"]
 [ext_resource type="PackedScene" uid="uid://b8a4wf0xexhm2" path="res://interaction_collision.tscn" id="2_xxcha"]
+[ext_resource type="PackedScene" uid="uid://cvlrox46atfyy" path="res://dialogue.tscn" id="4_ul7y6"]
 
 [sub_resource type="CapsuleShape2D" id="CapsuleShape2D_kh24r"]
 radius = 6.25
@@ -22,3 +23,6 @@ shape = SubResource("CapsuleShape2D_kh24r")
 
 [node name="InteractionCollision" parent="." instance=ExtResource("2_xxcha")]
 position = Vector2(0, 12)
+
+[node name="Dialogue" parent="." instance=ExtResource("4_ul7y6")]
+file_1 = "res://dialogue1.json"

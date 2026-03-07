@@ -1,0 +1,14 @@
+[gd_resource type="Resource" script_class="CreatureData" load_steps=3 format=3 uid="uid://w5bc5rg2jb4l"]
+
+[ext_resource type="Script" uid="uid://de360f51tpk0" path="res://moves.gd" id="1_4rybh"]
+[ext_resource type="Script" uid="uid://c2neyv2avvpub" path="res://Creature_Data.gd" id="2_fxbhy"]
+
+[resource]
+script = ExtResource("2_fxbhy")
+creature_name = ""
+type = ""
+max_hp = 0
+attack_power = 0
+defense_power = 0
+heal_amount = 0
+possible_moves = Array[ExtResource("1_4rybh")]([])

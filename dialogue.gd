@@ -13,7 +13,7 @@ func _ready():
 	visible = false
 
 func load_dialogue():
-	var file = FileAccess.open("res://dialogue1.json", FileAccess.READ)
+	var file = FileAccess.open(file_1, FileAccess.READ)
 	var bulk = JSON.parse_string(file.get_as_text())
 	return bulk
 
@@ -21,7 +21,6 @@ func start_or_resume(player_ref: CharacterBody2D):
 	player = player_ref
 	current_dialogue_id = -1
 	next_script()
-	fade_in()
 
 func next_script():
 	if dialogue_finished:
@@ -41,11 +40,6 @@ func show_current_line():
 	visible = true
 	$NinePatchRect.modulate.a = 1.0
 
-func fade_in():
-	visible = true
-	$NinePatchRect.modulate.a = 0.0
-	var tween = create_tween()
-	tween.tween_property($NinePatchRect, "modulate:a", 1.0, fade_duration)
 
 func fade_out():
 	var tween = create_tween()

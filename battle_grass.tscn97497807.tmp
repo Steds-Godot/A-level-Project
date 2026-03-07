@@ -1,4 +1,4 @@
-[gd_scene load_steps=30 format=3 uid="uid://dwpmgo1c7e2ym"]
+[gd_scene load_steps=26 format=3 uid="uid://dwpmgo1c7e2ym"]
 
 [ext_resource type="Texture2D" uid="uid://dk1vw864y5bep" path="res://BATGBLUEGRASSwithhills.png" id="1_pe4c8"]
 [ext_resource type="Script" uid="uid://b55fkdx8lasm7" path="res://player_creature.gd" id="2_d0oxo"]
@@ -17,7 +17,6 @@
 [ext_resource type="PackedScene" uid="uid://geli22u8kccv" path="res://battle_camera.tscn" id="7_exkem"]
 [ext_resource type="Resource" uid="uid://cakpu10kf2uwu" path="res://Hurricane.tres" id="7_fb78m"]
 [ext_resource type="Script" uid="uid://b77lhki7i480s" path="res://move_1.gd" id="10_84qes"]
-[ext_resource type="Texture2D" uid="uid://6k77gmwnppco" path="res://button-luxury-border-golden-button-for-website-png.png" id="10_fb78m"]
 [ext_resource type="Script" uid="uid://bwmq7chbe6yyo" path="res://return.gd" id="11_sd3ua"]
 [ext_resource type="Script" uid="uid://cd4u43rwiaslg" path="res://move_button_2.gd" id="13_fn8l1"]
 [ext_resource type="Texture2D" uid="uid://bq3afsicgycx4" path="res://dialogue.png" id="14_1hmee"]
@@ -25,14 +24,9 @@
 [ext_resource type="FontFile" uid="uid://bv0issg5tqjyv" path="res://pokemon-dp-pro.otf" id="15_5hbjv"]
 [ext_resource type="Script" uid="uid://cfkqs8c6h4iei" path="res://move_button_4.gd" id="15_aufy7"]
 [ext_resource type="PackedScene" uid="uid://bxyswsifsq6ks" path="res://battle_manager.tscn" id="16_5hbjv"]
-[ext_resource type="Script" uid="uid://da1h0mqld70" path="res://rest_button.gd" id="22_47qjd"]
-[ext_resource type="AudioStream" uid="uid://53ps4xvwqld6" path="res://djartmusic-short-fire-whoosh_1-317280.mp3" id="27_g5jte"]
 
 [sub_resource type="StyleBoxFlat" id="StyleBoxFlat_ttyoa"]
 bg_color = Color(0.263314, 0.655921, 0.222929, 1)
-
-[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_47qjd"]
-bg_color = Color(0.773577, 0.391848, 0.997137, 1)
 
 [node name="Battle_grass" type="CanvasLayer" groups=["battle"]]
 follow_viewport_enabled = true
@@ -67,26 +61,6 @@ value = 100.0
 rounded = true
 show_percentage = false
 
-[node name="Player_Energy" type="TextureRect" parent="My_Creature"]
-offset_left = -74.0
-offset_top = -142.0
-offset_right = 1126.0
-offset_bottom = 534.0
-scale = Vector2(0.103266, 0.117817)
-texture = ExtResource("10_fb78m")
-
-[node name="ProgressBar" type="ProgressBar" parent="My_Creature/Player_Energy"]
-layout_mode = 0
-offset_left = 77.4698
-offset_top = 305.56
-offset_right = 179.47
-offset_bottom = 318.56
-scale = Vector2(10.029, 6.22346)
-theme_override_styles/fill = SubResource("StyleBoxFlat_47qjd")
-value = 100.0
-rounded = true
-show_percentage = false
-
 [node name="Enemy" type="Node2D" parent="."]
 position = Vector2(472, 101)
 script = ExtResource("5_cfyra")
@@ -110,28 +84,8 @@ value = 100.0
 rounded = true
 show_percentage = false
 
-[node name="Player_Energy2" type="TextureRect" parent="Enemy"]
-offset_left = -73.0001
-offset_top = -101.0
-offset_right = 1127.0
-offset_bottom = 575.0
-scale = Vector2(0.103266, 0.117817)
-texture = ExtResource("10_fb78m")
-
-[node name="ProgressBar" type="ProgressBar" parent="Enemy/Player_Energy2"]
-layout_mode = 0
-offset_left = 77.4698
-offset_top = 305.56
-offset_right = 179.47
-offset_bottom = 318.56
-scale = Vector2(10.029, 6.22346)
-theme_override_styles/fill = SubResource("StyleBoxFlat_47qjd")
-value = 100.0
-rounded = true
-show_percentage = false
-
-[node name="Enemy_Creature" parent="Enemy" instance=ExtResource("4_4dxai")]
-position = Vector2(0, 15)
+[node name="Enemy_Creature" parent="Enemy/Enemy_HP" instance=ExtResource("4_4dxai")]
+position = Vector2(157, 101)
 
 [node name="MainUI" type="Control" parent="."]
 visible = false
@@ -225,15 +179,6 @@ offset_bottom = 91.0
 text = "Move4"
 script = ExtResource("15_aufy7")
 
-[node name="Rest_Button" type="Button" parent="Attack_Menu"]
-layout_mode = 0
-offset_left = 162.0
-offset_top = -45.0
-offset_right = 315.0
-offset_bottom = -3.0
-text = "Rest"
-script = ExtResource("22_47qjd")
-
 [node name="Return" type="Button" parent="Attack_Menu"]
 layout_mode = 0
 offset_top = -45.0
@@ -286,13 +231,9 @@ wait_time = 3.0
 
 [node name="Battle_Manager" parent="." instance=ExtResource("16_5hbjv")]
 
-[node name="Fire_Move_Sounds" type="AudioStreamPlayer2D" parent="."]
-stream = ExtResource("27_g5jte")
-
 [connection signal="pressed" from="MainUI/AttackButton" to="MainUI/AttackButton" method="_on_pressed"]
 [connection signal="pressed" from="Attack_Menu/Move_Button" to="Attack_Menu/Move_Button" method="_on_pressed"]
 [connection signal="pressed" from="Attack_Menu/Move_Button2" to="Attack_Menu/Move_Button2" method="_on_pressed"]
 [connection signal="pressed" from="Attack_Menu/Move_Button3" to="Attack_Menu/Move_Button3" method="_on_pressed"]
 [connection signal="pressed" from="Attack_Menu/Move_Button4" to="Attack_Menu/Move_Button4" method="_on_pressed"]
-[connection signal="pressed" from="Attack_Menu/Rest_Button" to="Attack_Menu/Rest_Button" method="_on_pressed"]
 [connection signal="pressed" from="Attack_Menu/Return" to="Attack_Menu/Return" method="_on_pressed"]

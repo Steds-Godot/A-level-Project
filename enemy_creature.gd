@@ -1,71 +1,26 @@
-extends Node2D
-class_name Enemy
+# EnemyCreature.gd
+extends Creature
+class_name EnemyCreature
 
-enum EnemyState { HEAL, FLEE, ATTACK, DEFEND, CAPTURE, IDLE }
+@export var max_enemy_moves: int = 4
 
-var level: int = 1
-var max_hp: int = level * 100
-var hp: int
-var type: String
-var attack_power: int
-var defense_power: int
-var heal_amount: int
-var state: int = EnemyState.IDLE
-var is_captured: bool = false
-var heal_items: int
-@onready var progress_bar_2: ProgressBar = $Enemy_HP/ProgressBar2
-@onready var enemy: Node2D = $"."
-@onready var progress_bar: ProgressBar = $"../My_Creature/Player_HP/ProgressBar"
+# Pick random moves from the creature's move pool
+func generate_moves():
+	moves.shuffle()
+	if moves.size() > max_enemy_moves:
+		moves = moves.slice(0, max_enemy_moves)
 
-func _init(_name: String = "Enemy Brudda", _max_hp: int = 100,type: String = "Normal", _attack_power: int = 8, _defense_power: int = 3, _heal_amount: int = 15, _heal_items: int = 1) -> void:
-	name = _name
-	max_hp = _max_hp
-	hp = _max_hp
-	attack_power = _attack_power
-	defense_power = _defense_power
-	heal_amount = _heal_amount
-	heal_items = _heal_items
+# Perform a random move on a target creature
+func perform_random_move(target: Creature):
+	if moves.size() == 0:
+		return
 
-func _ready() -> void:
-	pass
+	var move = moves.pick_random()
+	var damage = move.calculate_damage(self, target)
+	target.hp -= damage
 
-func _process(delta: float) -> void:
-	pass
+	if target.progress_bar:
+		target.progress_bar.value = target.hp
 
-func spawn() -> void:
-	$EnemySpriteCreature/AnimationPlayer.play("spawn", -1, 2)
-
-func capture() -> void:
-	$EnemySpriteCreature/AnimationPlayer.play("capture")
-	await $EnemySpriteCreature/AnimationPlayer.animation_finished
-
-func choose_state(player_hp: int) -> void:
-	if hp <= max_hp * 0.2:
-		if randf() < 0.5:
-			state = EnemyState.HEAL
-		else:
-			state = EnemyState.FLEE
-	elif player_hp <= attack_power * 1.5:
-		state = EnemyState.ATTACK
-	else:
-		state = EnemyState.ATTACK
-		
-func perform_action(player) -> void:
-	match state:
-		EnemyState.ATTACK:
-			var dmg = max(0, attack_power - player.defense_power)
-			player.hp -= dmg
-			progress_bar.value -= dmg
-			print(name, " attacks! Deals ", dmg, " damage.")
-		EnemyState.DEFEND:
-			print(name, " defends, reducing damage next turn.")
-			defense_power *= 2
-		EnemyState.HEAL:
-			var healed = min(max_hp - hp, heal_amount)
-			hp += healed
-			progress_bar_2.value += healed
-			print(name, " heals for ", healed, " HP!")
-		EnemyState.FLEE:
-			print(name, " tries to flee the battle!")
-		EnemyState.IDLE:
-			print(name, " waits...")
+	if text:
+		text.text = "%s used %s and dealt %d damage!" % [creature_name, move.name, damage]

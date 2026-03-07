@@ -5,7 +5,7 @@
 [ext_resource type="FontFile" uid="uid://bv0issg5tqjyv" path="res://pokemon-dp-pro.otf" id="3_758ep"]
 
 [node name="Dialogue" type="Control"]
-visible = false
+z_index = 3
 layout_mode = 3
 anchors_preset = 7
 anchor_left = 0.5
@@ -16,6 +16,7 @@ grow_horizontal = 2
 grow_vertical = 0
 scale = Vector2(1.00093, 1.02449)
 script = ExtResource("1_oi3j2")
+file_1 = "<null>"
 
 [node name="NinePatchRect" type="NinePatchRect" parent="."]
 texture_filter = 1
@@ -25,11 +26,13 @@ anchor_left = 0.5
 anchor_top = 1.0
 anchor_right = 0.5
 anchor_bottom = 1.0
-offset_left = -128.0
-offset_top = -77.0
-offset_right = 145.0
+offset_left = -71.9331
+offset_top = -53.6853
+offset_right = 201.067
+offset_bottom = 23.3147
 grow_horizontal = 2
 grow_vertical = 0
+scale = Vector2(0.440519, 0.687647)
 texture = ExtResource("1_kp46k")
 patch_margin_left = 3
 patch_margin_top = 3

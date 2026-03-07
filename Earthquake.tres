@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="Move" load_steps=2 format=3 uid="uid://3d4di7rrcraq"]
+
+[ext_resource type="Script" uid="uid://de360f51tpk0" path="res://moves.gd" id="1_44bcc"]
+
+[resource]
+script = ExtResource("1_44bcc")
+name = "Earthquake"
+type = "Earth"
+power = 10
+accuracy = 100
+energy_cost = 10
