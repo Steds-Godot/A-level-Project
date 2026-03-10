@@ -6,6 +6,6 @@
 script = ExtResource("1_r4np5")
 name = "Flamethrower"
 type = "Fire"
-power = 10
+power = 100
 accuracy = 100
 energy_cost = 30

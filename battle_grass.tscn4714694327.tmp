@@ -1,4 +1,4 @@
-[gd_scene load_steps=40 format=3 uid="uid://dwpmgo1c7e2ym"]
+[gd_scene load_steps=35 format=3 uid="uid://dwpmgo1c7e2ym"]
 
 [ext_resource type="Texture2D" uid="uid://dk1vw864y5bep" path="res://BATGBLUEGRASSwithhills.png" id="1_pe4c8"]
 [ext_resource type="Script" uid="uid://b55fkdx8lasm7" path="res://player_creature.gd" id="2_d0oxo"]
@@ -13,6 +13,7 @@
 [ext_resource type="Texture2D" uid="uid://bt5h3vga67jcp" path="res://Battle Buttons.png" id="5_t737v"]
 [ext_resource type="Script" uid="uid://ckdi4885b41yi" path="res://attack_button.gd" id="5_ttyoa"]
 [ext_resource type="Resource" uid="uid://3d4di7rrcraq" path="res://Earthquake.tres" id="6_5vvs0"]
+[ext_resource type="AudioStream" uid="uid://b8eu3xunn7ii4" path="res://old-pokemon-battle-music.mp3" id="6_oyo8m"]
 [ext_resource type="PackedScene" uid="uid://geli22u8kccv" path="res://battle_camera.tscn" id="7_exkem"]
 [ext_resource type="Resource" uid="uid://cakpu10kf2uwu" path="res://Hurricane.tres" id="7_fb78m"]
 [ext_resource type="Script" uid="uid://b77lhki7i480s" path="res://move_1.gd" id="10_84qes"]
@@ -24,7 +25,6 @@
 [ext_resource type="FontFile" uid="uid://bv0issg5tqjyv" path="res://pokemon-dp-pro.otf" id="15_5hbjv"]
 [ext_resource type="Script" uid="uid://cfkqs8c6h4iei" path="res://move_button_4.gd" id="15_aufy7"]
 [ext_resource type="Script" uid="uid://b0th7t8ktbk7q" path="res://spirit_button.gd" id="15_dvo05"]
-[ext_resource type="AudioStream" uid="uid://dkqn0bw1r5wa2" path="res://nickpanekaiassets-rpg-battle-chiptune-video-game-music-346666.mp3" id="15_g8wwh"]
 [ext_resource type="PackedScene" uid="uid://bxyswsifsq6ks" path="res://battle_manager.tscn" id="16_5hbjv"]
 [ext_resource type="Script" uid="uid://da1h0mqld70" path="res://rest_button.gd" id="22_47qjd"]
 [ext_resource type="Script" uid="uid://cfd1twv77ide2" path="res://spirits_return.gd" id="24_geeim"]
@@ -32,11 +32,6 @@
 [ext_resource type="Script" uid="uid://c8ops3o3jhy2f" path="res://creature_button_2.gd" id="26_o653c"]
 [ext_resource type="AudioStream" uid="uid://53ps4xvwqld6" path="res://djartmusic-short-fire-whoosh_1-317280.mp3" id="27_g5jte"]
 [ext_resource type="Script" uid="uid://b20bwkyopjyo8" path="res://creature_button_3.gd" id="27_vpw2n"]
-[ext_resource type="Script" uid="uid://bxj0bjm1fa2j4" path="res://exit_battle_button.gd" id="29_xtrok"]
-[ext_resource type="Script" uid="uid://bawkoigfbtxxh" path="res://retreat_battle_button.gd" id="30_fqgu5"]
-[ext_resource type="AudioStream" uid="uid://80m2ftp1t6vw" path="res://zapsplat_fantasy_magic_wind_whooshes_multiple_001_30718.mp3" id="31_6ejte"]
-[ext_resource type="AudioStream" uid="uid://dxvplmlp3liwm" path="res://zapsplat_fantasy_magic_dark_spell_rock_stones_hit_soft_crumble_flange_002_93026.mp3" id="32_g8wwh"]
-[ext_resource type="AudioStream" uid="uid://n564o5qfwws8" path="res://zapsplat_fantasy_magic_dark_water_movement_reversed_spell_002_107627.mp3" id="33_xtrok"]
 
 [sub_resource type="StyleBoxFlat" id="StyleBoxFlat_ttyoa"]
 bg_color = Color(0.263314, 0.655921, 0.222929, 1)
@@ -55,6 +50,11 @@ texture = ExtResource("1_pe4c8")
 position = Vector2(158, 222)
 script = ExtResource("2_d0oxo")
 creature_name = "Fox"
+type = null
+max_hp = null
+attack_power = null
+defense_power = null
+heal_amount = null
 moves = Array[ExtResource("3_lypne")]([ExtResource("4_jk065"), ExtResource("5_5vvs0"), ExtResource("6_5vvs0"), ExtResource("7_fb78m")])
 
 [node name="Player_Creature" parent="My_Creature" instance=ExtResource("2_kmeda")]
@@ -62,7 +62,6 @@ moves = Array[ExtResource("3_lypne")]([ExtResource("4_jk065"), ExtResource("5_5v
 [node name="Enemy" type="Node2D" parent="."]
 position = Vector2(472, 101)
 script = ExtResource("5_cfyra")
-moves = Array[ExtResource("3_lypne")]([ExtResource("6_5vvs0"), ExtResource("7_fb78m"), ExtResource("4_jk065"), ExtResource("5_5vvs0")])
 
 [node name="Enemy_Creature" parent="Enemy" instance=ExtResource("4_4dxai")]
 position = Vector2(0, 15)
@@ -110,8 +109,7 @@ scale = Vector2(2, 1.985)
 texture = ExtResource("5_t737v")
 
 [node name="AudioStreamPlayer2D" type="AudioStreamPlayer2D" parent="."]
-stream = ExtResource("15_g8wwh")
-volume_db = -3.096
+stream = ExtResource("6_oyo8m")
 
 [node name="Battle_Camera" parent="." instance=ExtResource("7_exkem")]
 position = Vector2(322, 180)
@@ -262,31 +260,6 @@ text = "What will you do?"
 scroll_active = false
 autowrap_mode = 2
 
-[node name="Exit_Battle_Button" type="Button" parent="NinePatchRect"]
-visible = false
-layout_mode = 0
-offset_left = 129.702
-offset_top = 18.6832
-offset_right = 230.702
-offset_bottom = 49.6832
-theme_override_colors/font_color = Color(0, 0, 0, 1)
-action_mode = 0
-text = "Exit Battle!!!"
-script = ExtResource("29_xtrok")
-
-[node name="Retreat_Battle_Button" type="Button" parent="NinePatchRect"]
-visible = false
-layout_mode = 0
-offset_left = 123.353
-offset_top = 18.6832
-offset_right = 254.353
-offset_bottom = 49.6832
-theme_override_colors/font_hover_pressed_color = Color(0.913725, 0, 0, 1)
-theme_override_colors/font_color = Color(0, 0, 0, 1)
-action_mode = 0
-text = "You have failed."
-script = ExtResource("30_fqgu5")
-
 [node name="Timer" type="Timer" parent="."]
 wait_time = 3.0
 
@@ -297,6 +270,12 @@ wait_time = 3.0
 [node name="Creature_1" type="Node2D" parent="Player_Team"]
 position = Vector2(158, 222)
 script = ExtResource("2_d0oxo")
+creature_name = null
+type = null
+max_hp = null
+attack_power = null
+defense_power = null
+heal_amount = null
 moves = Array[ExtResource("3_lypne")]([ExtResource("4_jk065"), ExtResource("5_5vvs0"), ExtResource("6_5vvs0"), ExtResource("7_fb78m")])
 
 [node name="Player_Creature" parent="Player_Team/Creature_1" instance=ExtResource("2_kmeda")]
@@ -304,6 +283,12 @@ moves = Array[ExtResource("3_lypne")]([ExtResource("4_jk065"), ExtResource("5_5v
 [node name="Creature_2" type="Node2D" parent="Player_Team"]
 position = Vector2(158, 222)
 script = ExtResource("2_d0oxo")
+creature_name = null
+type = null
+max_hp = null
+attack_power = null
+defense_power = null
+heal_amount = null
 moves = Array[ExtResource("3_lypne")]([ExtResource("4_jk065"), ExtResource("5_5vvs0"), ExtResource("6_5vvs0"), ExtResource("7_fb78m")])
 
 [node name="Player_Creature" parent="Player_Team/Creature_2" instance=ExtResource("2_kmeda")]
@@ -311,6 +296,12 @@ moves = Array[ExtResource("3_lypne")]([ExtResource("4_jk065"), ExtResource("5_5v
 [node name="Creature_3" type="Node2D" parent="Player_Team"]
 position = Vector2(158, 222)
 script = ExtResource("2_d0oxo")
+creature_name = null
+type = null
+max_hp = null
+attack_power = null
+defense_power = null
+heal_amount = null
 moves = Array[ExtResource("3_lypne")]([ExtResource("4_jk065"), ExtResource("5_5vvs0"), ExtResource("6_5vvs0"), ExtResource("7_fb78m")])
 
 [node name="Player_Creature" parent="Player_Team/Creature_3" instance=ExtResource("2_kmeda")]
@@ -320,7 +311,6 @@ moves = Array[ExtResource("3_lypne")]([ExtResource("4_jk065"), ExtResource("5_5v
 [node name="Enemy_Creature_1" type="Node2D" parent="Enemy_Team"]
 position = Vector2(472, 101)
 script = ExtResource("5_cfyra")
-moves = Array[ExtResource("3_lypne")]([ExtResource("6_5vvs0"), ExtResource("7_fb78m"), ExtResource("5_5vvs0"), ExtResource("7_fb78m")])
 
 [node name="Enemy_Creature" parent="Enemy_Team/Enemy_Creature_1" instance=ExtResource("4_4dxai")]
 position = Vector2(0, 15)
@@ -328,7 +318,6 @@ position = Vector2(0, 15)
 [node name="Enemy_Creature_2" type="Node2D" parent="Enemy_Team"]
 position = Vector2(472, 101)
 script = ExtResource("5_cfyra")
-moves = Array[ExtResource("3_lypne")]([ExtResource("4_jk065")])
 
 [node name="Enemy_Creature" parent="Enemy_Team/Enemy_Creature_2" instance=ExtResource("4_4dxai")]
 position = Vector2(0, 15)
@@ -336,22 +325,12 @@ position = Vector2(0, 15)
 [node name="Enemy_Creature_3" type="Node2D" parent="Enemy_Team"]
 position = Vector2(472, 101)
 script = ExtResource("5_cfyra")
-moves = Array[ExtResource("3_lypne")]([ExtResource("5_5vvs0")])
 
 [node name="Enemy_Creature" parent="Enemy_Team/Enemy_Creature_3" instance=ExtResource("4_4dxai")]
 position = Vector2(0, 15)
 
 [node name="Fire_Move_Sounds" type="AudioStreamPlayer2D" parent="."]
 stream = ExtResource("27_g5jte")
-
-[node name="Air_Move_Sounds" type="AudioStreamPlayer2D" parent="."]
-stream = ExtResource("31_6ejte")
-
-[node name="Earth_Move_Sounds" type="AudioStreamPlayer2D" parent="."]
-stream = ExtResource("32_g8wwh")
-
-[node name="Water_Move_Sounds" type="AudioStreamPlayer2D" parent="."]
-stream = ExtResource("33_xtrok")
 
 [node name="Player_HP" type="TextureRect" parent="."]
 offset_left = -1.0
@@ -441,5 +420,3 @@ show_percentage = false
 [connection signal="pressed" from="Spirit_Menu/Creature_Button2" to="Spirit_Menu/Creature_Button2" method="_on_pressed"]
 [connection signal="pressed" from="Spirit_Menu/Creature_Button3" to="Spirit_Menu/Creature_Button3" method="_on_pressed"]
 [connection signal="pressed" from="Spirit_Menu/Spirits_Return" to="Spirit_Menu/Spirits_Return" method="_on_pressed"]
-[connection signal="pressed" from="NinePatchRect/Exit_Battle_Button" to="NinePatchRect/Exit_Battle_Button" method="_on_pressed"]
-[connection signal="pressed" from="NinePatchRect/Retreat_Battle_Button" to="NinePatchRect/Retreat_Battle_Button" method="_on_pressed"]

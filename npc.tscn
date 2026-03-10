@@ -23,6 +23,9 @@ shape = SubResource("CapsuleShape2D_kh24r")
 
 [node name="InteractionCollision" parent="." instance=ExtResource("2_xxcha")]
 position = Vector2(0, 12)
+dialogue_node = NodePath("../Dialogue")
 
 [node name="Dialogue" parent="." instance=ExtResource("4_ul7y6")]
-file_1 = "res://dialogue1.json"
+visible = false
+dialogue_file = "res://dialogue1.json"
+type = "Battle"

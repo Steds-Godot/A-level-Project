@@ -7,7 +7,7 @@ const JUMP_VELOCITY = -400.0
 @onready var sprite_2d: Sprite2D = $Sprite2D
 @onready var player_spawner: Node2D = $"../Player_Spawner"
 var side = "down"
-
+var story_progress: int = 0
 func _ready():
 	pass
 

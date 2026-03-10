@@ -12,17 +12,20 @@ class_name Creature
 var hp: int
 var energy: int = 100
 
-# Optional UI references
-@onready var progress_bar: ProgressBar
-@onready var energy_bar: ProgressBar
-@onready var text: RichTextLabel
-
 func _ready():
-	hp = max_hp
-	if progress_bar:
-		progress_bar.value = hp
-	if energy_bar:
-		energy_bar.value = energy
+	# Ensure HP and energy are set
+	if hp == null or hp <= 0:
+		hp = max_hp
+	if energy == null or energy <= 0:
+		energy = 100
 
 func is_fainted() -> bool:
 	return hp <= 0
+
+# Apply a move to a target creature (damage only, no UI updates here)
+func use_move(move: Move, target: Creature) -> void:
+	if energy < move.energy_cost:
+		return
+	energy -= move.energy_cost
+	var damage = move.calculate_damage(self, target)
+	target.hp -= damage
