@@ -17,5 +17,6 @@ func _process(delta: float) -> void:
 
 
 func _on_body_entered(body: CharacterBody2D) -> void:
+	Player.player_location = str(packed_scene.get_path())
 	get_tree().change_scene_to_packed(packed_scene)
 	pass

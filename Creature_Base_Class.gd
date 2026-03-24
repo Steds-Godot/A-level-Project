@@ -13,7 +13,6 @@ var hp: int
 var energy: int = 100
 
 func _ready():
-	# Ensure HP and energy are set
 	if hp == null or hp <= 0:
 		hp = max_hp
 	if energy == null or energy <= 0:
@@ -22,7 +21,6 @@ func _ready():
 func is_fainted() -> bool:
 	return hp <= 0
 
-# Apply a move to a target creature (damage only, no UI updates here)
 func use_move(move: Move, target: Creature) -> void:
 	if energy < move.energy_cost:
 		return

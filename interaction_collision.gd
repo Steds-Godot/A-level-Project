@@ -1,12 +1,13 @@
 extends Area2D
-
 @export var dialogue_node: NodePath
 @onready var dialogue = get_node(dialogue_node)
 var player: CharacterBody2D
 var can_interact := false
 var dialogue_running := false
 @onready var load_battle_music: AudioStreamPlayer = $"Old-pokemon-battle-music"
-
+@onready var exit_battle_button: Button = $NinePatchRect/Exit_Battle_Button
+var previous_scene : String
+@export var progress_required: int = 0
 
 func _ready():
 	dialogue.dialogue_finished.connect(_on_dialogue_finished)
@@ -40,10 +41,12 @@ func _input(event):
 
 func _on_dialogue_finished():
 	dialogue_running = false
-	if dialogue.type == "Battle":
+	if dialogue.type == "Battle" and Player.story_progress == progress_required:
 		load_battle_music.play()
 		var t = get_tree().create_timer(3.3)
 		await t.timeout
+		#previous_scene = get_parent().get_tree().current_scene.scene_file_path
+		#exit_battle_button.path = previous_scene
 		get_tree().change_scene_to_file("res://battle_grass.tscn")
 	if player:
 		#player.set_can_move(true)

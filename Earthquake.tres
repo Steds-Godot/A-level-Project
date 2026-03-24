@@ -6,6 +6,6 @@
 script = ExtResource("1_44bcc")
 name = "Earthquake"
 type = "Earth"
-power = 10
+power = 100
 accuracy = 100
 energy_cost = 10

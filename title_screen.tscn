@@ -1,0 +1,101 @@
+[gd_scene load_steps=9 format=3 uid="uid://b6t0jscckwyck"]
+
+[ext_resource type="Script" uid="uid://ie3yxiqfx5ef" path="res://title_screen.gd" id="1_ig5kc"]
+[ext_resource type="Texture2D" uid="uid://ndmymm1w6fn2" path="res://Screenshot 2025-04-23 235540.png" id="1_v6p8y"]
+[ext_resource type="Script" uid="uid://4ujwniu6l7l5" path="res://exit_game_button.gd" id="2_ak2if"]
+[ext_resource type="Script" uid="uid://lue7vcpvutr7" path="res://load_button.gd" id="3_013yr"]
+[ext_resource type="Script" uid="uid://dtiqjusofaj6h" path="res://save_button.gd" id="3_tpml5"]
+[ext_resource type="PackedScene" uid="uid://ccsq08y8kx0lt" path="res://title_screen_camera.tscn" id="4_05l2w"]
+[ext_resource type="Script" uid="uid://daktdfnhj2o0u" path="res://play_button.gd" id="4_hafda"]
+[ext_resource type="PackedScene" uid="uid://bdvj5a15e52qy" path="res://data_manager.tscn" id="7_jqemp"]
+
+[node name="Title_Screen" type="Control"]
+z_index = 7
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_ig5kc")
+
+[node name="TextureRect" type="TextureRect" parent="."]
+layout_mode = 0
+offset_right = 1862.0
+offset_bottom = 608.0
+texture = ExtResource("1_v6p8y")
+
+[node name="Load_Button" type="Button" parent="TextureRect"]
+layout_mode = 0
+offset_left = 90.0
+offset_top = 224.0
+offset_right = 98.0
+offset_bottom = 232.0
+scale = Vector2(62.092, 22.0755)
+action_mode = 0
+script = ExtResource("3_013yr")
+
+[node name="Save_Button" type="Button" parent="TextureRect"]
+layout_mode = 0
+offset_left = 703.0
+offset_top = 224.0
+offset_right = 711.0
+offset_bottom = 232.0
+scale = Vector2(58.3138, 20.1413)
+action_mode = 0
+script = ExtResource("3_tpml5")
+
+[node name="Settings_Button" type="Button" parent="TextureRect"]
+show_behind_parent = true
+layout_mode = 0
+offset_left = 1307.0
+offset_top = 238.0
+offset_right = 1315.0
+offset_bottom = 246.0
+scale = Vector2(58.04, 18.2175)
+action_mode = 0
+
+[node name="Exit_Game_Button" type="Button" parent="TextureRect"]
+show_behind_parent = true
+layout_mode = 0
+offset_left = 1395.0
+offset_top = 501.0
+offset_right = 1403.0
+offset_bottom = 509.0
+scale = Vector2(35.3805, -14.9915)
+action_mode = 0
+script = ExtResource("2_ak2if")
+
+[node name="Play_Button" type="Button" parent="TextureRect"]
+layout_mode = 0
+offset_left = 744.0
+offset_top = 437.0
+offset_right = 1128.0
+offset_bottom = 570.0
+theme_override_colors/font_outline_color = Color(1, 1, 1, 1)
+theme_override_font_sizes/font_size = 50
+action_mode = 0
+text = "Play Game!"
+script = ExtResource("4_hafda")
+
+[node name="RichTextLabel" type="RichTextLabel" parent="TextureRect"]
+layout_mode = 0
+offset_left = 703.0
+offset_top = 10.0
+offset_right = 1241.0
+offset_bottom = 122.0
+theme_override_colors/default_color = Color(0.950472, 4.04298e-06, 0.561241, 1)
+theme_override_font_sizes/normal_font_size = 45
+text = "Press 'p' to unpause."
+horizontal_alignment = 1
+
+[node name="Title_Screen_Camera" parent="." instance=ExtResource("4_05l2w")]
+position = Vector2(921, 331)
+zoom = Vector2(0.3, 0.3)
+
+[node name="Data_Manager" parent="." instance=ExtResource("7_jqemp")]
+
+[connection signal="pressed" from="TextureRect/Load_Button" to="TextureRect/Load_Button" method="_on_pressed"]
+[connection signal="pressed" from="TextureRect/Save_Button" to="TextureRect/Save_Button" method="_on_pressed"]
+[connection signal="pressed" from="TextureRect/Exit_Game_Button" to="TextureRect/Exit_Game_Button" method="_on_pressed"]
+[connection signal="pressed" from="TextureRect/Play_Button" to="TextureRect/Play_Button" method="_on_pressed"]

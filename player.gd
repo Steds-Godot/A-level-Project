@@ -1,14 +1,22 @@
 extends CharacterBody2D
 
 
-const SPEED = 4000.0
-const JUMP_VELOCITY = -400.0
+const speed = 4000.0
 @onready var animation_player: AnimationPlayer = $Sprite2D/AnimationPlayer
 @onready var sprite_2d: Sprite2D = $Sprite2D
 @onready var player_spawner: Node2D = $"../Player_Spawner"
 var side = "down"
-var story_progress: int = 0
+@export var story_progress: int = 0
+
+var player_party: Array = [
+	$"."
+]
+@export var player_location : String = "res://starter_area.tscn"
+
 func _ready():
+	pass
+	
+func _process(delta: float) -> void:
 	pass
 
 func _physics_process(delta: float) -> void:
@@ -19,9 +27,8 @@ func _physics_process(delta: float) -> void:
 	direction.y = Input.get_action_strength("down") - Input.get_action_strength("up")
 	
 	
-	velocity = direction * SPEED * delta
+	velocity = direction * speed * delta
 	
-
 	
 	if direction.x:
 		animation_player.play("walk_side")
@@ -43,9 +50,4 @@ func _physics_process(delta: float) -> void:
 	if velocity.x == 0 and velocity.y == 0:
 		animation_player.play("idle_" + side)
 		
-	for i in get_slide_collision_count():
-		var collision = get_slide_collision(i);
-		print("Collided with: ", collision.get_collider().name)
-
-
 	move_and_slide()

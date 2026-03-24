@@ -1,4 +1,3 @@
-# BattleManager.gd
 extends Node
 class_name BattleManager
 
@@ -13,7 +12,7 @@ var current_enemy_index: int = 0
 var current_state: TurnState = TurnState.PLAYER_TURN
 var player_team: Array = []
 var enemy_team: Array = []
-
+var return_scene = null 
 @onready var player_squad: Node = $"../Player_Team"
 @onready var enemy_squad: Node = $"../Enemy_Team"
 @onready var player_hp_bar: ProgressBar = $"../Player_HP/ProgressBar"
@@ -83,9 +82,9 @@ func start_battle():
 	for e in enemy_team:
 		e.hp = e.max_hp
 		e.energy = 100
-
 	update_bars()
 	start_player_turn()
+
 func update_bars():
 	var player = active_player_creature()
 	var enemy = active_enemy_creature()
@@ -100,8 +99,7 @@ func update_bars():
 	enemy_energy_bar.max_value = 100
 	enemy_energy_bar.value = enemy.energy
 
-
-func prompt_player_selection():
+func start_player_selection():
 	selecting_creature = true
 	main_ui.visible = false
 	spirit_menu.visible = true
@@ -156,7 +154,7 @@ func player_used_move(move: Move) -> void:
 	player.use_move(move, enemy)
 	
 	var damage = move.calculate_damage(player, enemy)
-	dialogue_text.text = "%s used %s and dealt %d damage!" % [player.creature_name, move.name, damage]
+	dialogue_text.text = str(player.creature_name) + " used " + str (move.name) + " and dealt " + str(damage) + " damage!"
 	update_bars()
 	
 	if move.type == "Fire":
@@ -182,27 +180,18 @@ func player_used_move(move: Move) -> void:
 		await timer.timeout 
 		air_move_sounds.stop()
 		pass
-	# Update the centralized UI
-	
 
-	# Show dialogue with damage
-
-	# Disable move buttons
 	set_buttons_enabled(false)
 
-	# Wait 1.5 seconds before enemy turn
 	var timer = get_tree().create_timer(1.5)
 	await timer.timeout
 
-	# Check for any faints
 	check_faints()
 
-	# If battle continues, start enemy turn
 	if not is_battle_over():
 		start_enemy_turn()
 
 
-# Enemy turn
 func start_enemy_turn() -> void:
 	current_state = TurnState.ENEMY_TURN
 	set_buttons_enabled(false)
@@ -211,49 +200,51 @@ func start_enemy_turn() -> void:
 	var player = active_player_creature()
 
 	if enemy is EnemyCreature:
-		var move = enemy.perform_random_move(player) # damage applied inside
-		
+		var move = enemy.perform_random_move(player)
+		if move.energy_cost <= enemy.energy:
+			
 
-		var damage = move.calculate_damage(enemy, player)
-		update_bars()
-		dialogue_text.text = "%s used %s and dealt %d damage!" % [enemy.creature_name, move.name, damage]
-		if move.type == "Fire":
-			fire_move_sounds.play(1)
-			var timer = get_tree().create_timer(1.5)
-			await timer.timeout 
-			fire_move_sounds.stop()
-		elif move.type == "Water":
-			water_move_sounds.play()
-			var timer = get_tree().create_timer(1.5)
-			await timer.timeout 
-			water_move_sounds.stop()
-			pass
-		elif move.type == "Earth":
-			earth_move_sounds.play()
-			var timer = get_tree().create_timer(1.5)
-			await timer.timeout 
-			earth_move_sounds.stop()
-			pass
+			var damage = move.calculate_damage(enemy, player)
+			update_bars()
+			dialogue_text.text = ("Enemy " + str(enemy.creature_name) + " used " + str(move.name) + " and dealt " 
+			+ str(damage) + " damage!" )
+			if move.type == "Fire":
+				fire_move_sounds.play(1)
+				var timer = get_tree().create_timer(1.5)
+				await timer.timeout 
+				fire_move_sounds.stop()
+			elif move.type == "Water":
+				water_move_sounds.play()
+				var timer = get_tree().create_timer(1.5)
+				await timer.timeout 
+				water_move_sounds.stop()
+				pass
+			elif move.type == "Earth":
+				earth_move_sounds.play()
+				var timer = get_tree().create_timer(1.5)
+				await timer.timeout 
+				earth_move_sounds.stop()
+				pass
+			else:
+				air_move_sounds.play(1)
+				var timer = get_tree().create_timer(1.5)
+				await timer.timeout 
+				air_move_sounds.stop()
+				pass
 		else:
-			air_move_sounds.play(1)
-			var timer = get_tree().create_timer(1.5)
-			await timer.timeout 
-			air_move_sounds.stop()
-			pass
-		
+			enemy_rested()
 
-	# Wait 1.5 seconds before next player turn
-	var timer = get_tree().create_timer(1.5)
-	await timer.timeout 
+		var timer = get_tree().create_timer(1.5)
+		await timer.timeout 
 
-	check_faints()
+		check_faints()
 
-	if not is_battle_over():
-		start_player_turn()
+		if not is_battle_over():
+			start_player_turn()
 
-	# If battle is not over, start player turn
-	if not is_battle_over():
-		start_player_turn()
+
+		if not is_battle_over():
+			start_player_turn()
 
 func setup_buttons():
 	var player = active_player_creature()
@@ -271,10 +262,10 @@ func set_buttons_enabled(value: bool):
 func check_faints():
 	if active_player_creature().is_fainted():
 		if player_team.any(func(c): return not c.is_fainted()):
-			dialogue_text.text = active_player_creature().creature_name + "s fainted! Choose a new creature."
+			dialogue_text.text = active_player_creature().creature_name + " has fainted! Choose a new creature."
 			var timer = get_tree().create_timer(1.5)
 			await timer.timeout
-			prompt_player_selection()
+			start_player_selection()
 		else:
 			dialogue_text.text = "All your creatures fainted! Game Over!"
 			var timer = get_tree().create_timer(3)
@@ -294,7 +285,7 @@ func check_faints():
 			spirit_menu.visible = false
 			exit_battle_button.visible = true
 		else:
-			dialogue_text.text = "Enemy sends out %s!" % active_enemy_creature().creature_name
+			dialogue_text.text = "Enemy sends out " + active_enemy_creature().creature_name + "!"
 			var timer = get_tree().create_timer(1.5)
 			await timer.timeout
 
@@ -304,7 +295,18 @@ func show_dialogue(text):
 
 func player_rested():
 	player_energy_bar.value += 50
+	active_player_creature().energy +=50
 	show_dialogue("Player Has Rested")
 	var timer = get_tree().create_timer(1.5)
 	await timer.timeout
 	start_enemy_turn()
+
+func enemy_rested():
+	enemy_energy_bar.value += 50
+	active_enemy_creature().energy +=50
+	show_dialogue("Opponent's " + 
+	active_enemy_creature().creature_name + 
+	" Has Rested")
+	var timer = get_tree().create_timer(1.5)
+	await timer.timeout
+	start_player_turn()

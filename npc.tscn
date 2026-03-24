@@ -12,6 +12,7 @@ height = 20.0
 [node name="NPC" type="Node2D"]
 scale = Vector2(0.8, 0.8)
 script = ExtResource("1_kh24r")
+npc_design = ExtResource("1_ideak")
 
 [node name="CharacterBody2D" type="CharacterBody2D" parent="."]
 

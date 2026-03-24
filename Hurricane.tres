@@ -5,7 +5,7 @@
 [resource]
 script = ExtResource("1_2hytf")
 name = "Hurricane"
-type = "Eath"
-power = 10
+type = "Air"
+power = 100
 accuracy = 100
 energy_cost = 10

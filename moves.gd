@@ -1,5 +1,6 @@
-class_name Move
 extends Resource
+class_name Move
+
 
 @export var name: String
 @export var type: String
@@ -22,9 +23,24 @@ func calculate_damage(attacker, defender) -> int:
 func get_type_multiplier(move_type: String, defender_type: String) -> float:
 	if move_type == "Fire" and defender_type == "Earth":
 		return 2.0
+	if move_type == "Earth" and defender_type == "Fire":
+		return 0.5
+	if move_type == "Air" and defender_type == "Earth":
+		return 2.0
+	if move_type == "Earth" and defender_type == "Air":
+		return 0.0
 	if move_type == "Water" and defender_type == "Fire":
 		return 2.0
+	if move_type == "Fire" and defender_type == "Water":
+		return 0.5
+	if move_type == "Air" and defender_type == "Fire":
+		return 2.0
+	if move_type == "Fire" and defender_type == "Air":
+		return 0.5
+	
 	if move_type == "Earth" and defender_type == "Water":
+		return 2.0
+	if move_type == "Water" and defender_type == "Earth":
 		return 2.0
 	
 	if move_type == defender_type:

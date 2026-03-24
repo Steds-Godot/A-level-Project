@@ -1,7 +1,9 @@
 extends Node2D
-
+@onready var sprite_2d: Sprite2D = $CharacterBody2D/Sprite2D
+@export var npc_design: Texture
 # Called when the node enters the scene tree for the first time.
 func _ready() -> void:
+	sprite_2d.texture = npc_design
 	pass # Replace with function body.
 
 

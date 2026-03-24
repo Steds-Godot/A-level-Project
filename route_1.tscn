@@ -1,13 +1,17 @@
-[gd_scene load_steps=7 format=3 uid="uid://baekt2aa2mx4s"]
+[gd_scene load_steps=9 format=3 uid="uid://baekt2aa2mx4s"]
 
+[ext_resource type="Script" uid="uid://8gkq5j12vc0j" path="res://ui.gd" id="1_16nqg"]
 [ext_resource type="PackedScene" uid="uid://cso5oes1hanx2" path="res://player_spawner.tscn" id="1_hf4oq"]
 [ext_resource type="PackedScene" uid="uid://btmwxitcs8tc6" path="res://Tileset.tscn" id="1_o8kwx"]
 [ext_resource type="PackedScene" uid="uid://k8ncu32xvtle" path="res://teleporter.tscn" id="4_ylnh6"]
-[ext_resource type="PackedScene" uid="uid://dd1lfs4wtcjrn" path="res://route_2_connect.tscn" id="5_16nqg"]
+[ext_resource type="PackedScene" uid="uid://gwemlk5xhl5t" path="res://player_creature.tscn" id="5_16nqg"]
 [ext_resource type="PackedScene" uid="uid://dhbe4ngp23bhg" path="res://camera.tscn" id="5_u8nqi"]
 [ext_resource type="PackedScene" uid="uid://d7hk7ygm3kod" path="res://starter_area.tscn" id="6_u8nqi"]
+[ext_resource type="PackedScene" uid="uid://b6t0jscckwyck" path="res://title_screen.tscn" id="8_o2j36"]
 
 [node name="Route_1" type="Node2D"]
+script = ExtResource("1_16nqg")
+Title_Screen = NodePath("Title_Screen")
 
 [node name="Player_Spawner" parent="." instance=ExtResource("1_hf4oq")]
 position = Vector2(414, 93)
@@ -26,3 +30,6 @@ packed_scene = ExtResource("5_16nqg")
 [node name="Teleporter2" parent="." instance=ExtResource("4_ylnh6")]
 position = Vector2(467, 103)
 packed_scene = ExtResource("6_u8nqi")
+
+[node name="Title_Screen" parent="." instance=ExtResource("8_o2j36")]
+visible = false
